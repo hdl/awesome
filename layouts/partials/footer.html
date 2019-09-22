@@ -1,0 +1,15 @@
+<footer class="footer">
+  <div class="content has-text-centered">
+    {{ if $.GitInfo }}
+    <p>
+      Last modified {{ $.GitInfo.AuthorDate.Format "January 02, 2006" }}
+      (commit <a href="https://github.com/orf/blog-hugo/commit/{{ $.GitInfo.Hash }}">{{ $.GitInfo.AbbreviatedHash }}</a>)
+    </p>
+    {{ end }}
+    <p>
+      Source code <a href="https://github.com/orf/blog-hugo">available on Github</a>
+    </p>
+  </div>
+</footer>
+
+{{ template "_internal/google_analytics_async.html" . }}

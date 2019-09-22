@@ -1,0 +1,22 @@
+{{ define "hero-body" }}
+<div class="container">
+  <article class="media">
+    <figure class="image is-64x64 media-left">
+      <img alt="" class="is-rounded" src="https://www.gravatar.com/avatar/{{ md5 $.Site.Params.email }}?s=128&d=identicon"
+           width="32" height="32">
+    </figure>
+    <div class="media-content">
+      <h1 class="title">
+        {{ $.Site.Params.author }}
+      </h1>
+      <h2 class="subtitle">
+        {{ $.Site.Params.description }}
+      </h2>
+    </div>
+  </article>
+</div>
+{{ end }}
+
+{{ define "main" }}
+{{ partial "posts.html" (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+{{ end }}

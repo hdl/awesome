@@ -1,0 +1,8 @@
+<div class="posts">
+  {{ range . }}
+  <div class="post">
+    <div><a href="{{.Permalink }}" class="title is-size-5">{{ .Title }}</a></div>
+    <div class="subtitle is-6">{{ .Date.Format "January 02, 2006" }}</div>
+  </div>
+  {{ end }}
+</div>

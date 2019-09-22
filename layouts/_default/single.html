@@ -1,0 +1,28 @@
+{{ define "hero-body" }}
+<div class="container">
+  <h1 class="title">
+    {{ .Title }}
+  </h1>
+  <h2 class="subtitle">
+    <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+      {{ .Date.Format "January 02, 2006" }}
+    </time>
+    {{ if .Param "tags" }}
+    <br>
+    {{ range .Param "tags" }}
+    {{ $name := . }}
+    {{ with $.Site.GetPage (printf "/%s/%s" "tags" ($name | urlize)) }}
+    <a class="tag is-link" href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+  </h2>
+</div>
+{{ end }}
+
+{{ define "main" }}
+<div class="content">
+  {{ .Content }}
+</div>
+
+{{ end }}

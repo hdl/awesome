@@ -1,0 +1,44 @@
+<nav class="navbar is-transparent {{ if .Page.IsHome }}is-hidden-touch{{end}}" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="{{ $.Site.Home.Permalink }}">
+      <figure class="image">
+        <img alt="" class="is-rounded" src="https://www.gravatar.com/avatar/{{ md5 $.Site.Params.email }}?s=128&d=identicon">
+      </figure>
+    </a>
+    <a class="navbar-item" href="{{ $.Site.Home.Permalink }}">
+      {{ $.Site.Title }}
+    </a>
+  </div>
+  
+  <div class="navbar-menu">
+    <div class="navbar-start">
+      {{ range .Site.Taxonomies.tags }}
+      <a class="navbar-item" href="{{ .Page.Permalink }}">
+        {{ .Page.Title | humanize }}
+      </a>
+      {{ end }}
+    </div>
+    
+    <div class="navbar-end">
+      {{ range $.Site.Params.social }}
+      <a class="navbar-item" href="{{ .url }}" rel="noopener" target="_blank">
+        <span class="icon">
+          <img alt="{{ .icon }}" src='{{ (resources.Get (printf  "icons/icons/svg/%s.svg" .icon)).Permalink }}'>
+        </span>
+      </a>
+      {{ end }}
+      <a class="navbar-item" href="mailto:{{ .Site.Params.email }}" target="_blank">
+        <span class="icon">
+          <img alt="email" src='{{ (resources.Get "icons/icons/svg/email.svg").Permalink }}'>
+        </span>
+      </a>
+      {{ with $.Site.Home.OutputFormats.Get "rss" -}}
+      <a class="navbar-item" href="{{ .Permalink }}" target="_blank">
+        <span class="icon">
+          <img alt="rss" src='{{ (resources.Get "icons/icons/svg/rss.svg").Permalink }}'>
+        </span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</nav>
