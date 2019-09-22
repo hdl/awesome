@@ -3,12 +3,18 @@
     {{ if $.GitInfo }}
     <p>
       Last modified {{ $.GitInfo.AuthorDate.Format "January 02, 2006" }}
-      (commit <a href="https://github.com/orf/blog-hugo/commit/{{ $.GitInfo.Hash }}">{{ $.GitInfo.AbbreviatedHash }}</a>)
+      {{ if $.Site.Params.repoLink }}
+      (commit <a href="{{ $.Site.Params.repoLink }}/commit/{{ $.GitInfo.Hash }}">{{ $.GitInfo.AbbreviatedHash }}</a>)
+      {{ else }}
+      (commit {{ $.GitInfo.AbbreviatedHash }})
+      {{ end }}
     </p>
     {{ end }}
+    {{ if $.Site.Params.repoLink }}
     <p>
-      Source code <a href="https://github.com/orf/blog-hugo">available on Github</a>
+      Source code <a href="{{ $.Site.Params.repoLink }}">available on Github</a>
     </p>
+    {{ end }}
   </div>
 </footer>
 
