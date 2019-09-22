@@ -5,4 +5,4 @@
 [build.environment]
   HUGO_VERSION = "0.58.3"
   HUGO_ENV = "production"
-  HUGO_BASEURL = "https://minimal-bootstrap-hugo-theme.netlify.com/"
+  HUGO_BASEURL = "https://hugo-bare-theme.netlify.com/"
