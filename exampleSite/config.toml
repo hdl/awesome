@@ -14,7 +14,8 @@ author = "Joe Bloggs"
 email = "hello@hello-world.com"
 repoLink = "https://github.com/orf/hugo-bare-theme"
 description = 'Something about myself'
-# PostCSS is harder than it should be to get working on an example site.
+# PostCSS is harder than it should be to get working on a theme
+# example site. It's easy on _your_ site.
 postcss = false
 
 [[params.social]]
