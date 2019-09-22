@@ -16,4 +16,42 @@ git submodule add https://github.com/orf/bare-hugo-theme.git themes/bare
 git submodule update --init --recursive --depth=1
 ```
 
-180kb to 10kb
+## Configuring the theme
+
+Example configuration:
+
+```toml
+[params]
+mainSections = ["posts"]
+author = "Tom Forbes"
+email = "tom@tomforb.es"
+description = 'Python developer living and working in Lisbon'
+postcss = true
+```
+
+
+The theme will pull posts from the content sections you define in `mainSections`. In the example above 
+all posts from `content/posts` will be included in the homepage.
+
+### PostCSS
+
+You can use `postcss` to strip out all the unused Bulma CSS rules. This brings the CSS bundle down 
+from 180kb to 10kb. 
+
+To enable this set `params.postcss` to `true` in your `config.toml`. Then, copy the `package.json` and the 
+`postcss.config.js` into your repository and run `npm install`.
+
+### Social buttons
+
+Social buttons can be configured by adding a `params.social` array. Icons come from 
+https://materialdesignicons.com/:
+
+```toml
+[[params.social]]
+icon = "github-circle"
+url = "https://github.com/my-github-user/"
+
+[[params.social]]
+icon = "linkedin"
+url = "https://linkedin.com/in/my-username"
+```
