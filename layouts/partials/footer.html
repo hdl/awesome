@@ -4,7 +4,7 @@
     <p>
       Last modified {{ $.GitInfo.AuthorDate.Format "January 02, 2006" }}
       {{ if $.Site.Params.repoLink }}
-      (commit <a href="{{ $.Site.Params.repoLink }}/commit/{{ $.GitInfo.Hash }}">{{ $.GitInfo.AbbreviatedHash }}</a>)
+      (commit <a href="{{ $.Site.Params.repoLink }}/commit/{{ $.GitInfo.Hash }}" target="_blank">{{ $.GitInfo.AbbreviatedHash }}</a>)
       {{ else }}
       (commit {{ $.GitInfo.AbbreviatedHash }})
       {{ end }}
@@ -13,10 +13,10 @@
     
     <p>
       {{ if $.Site.Params.repoLink }}
-      Source code <a href="{{ $.Site.Params.repoLink }}">available on Github</a>.
+      Source code <a href="{{ $.Site.Params.repoLink }}" target="_blank">available on Github</a>.
       {{ end }}
       {{ if (not $.Site.Params.disableAttribution) }}
-      <a href="https://github.com/orf/bare-hugo-theme">Bare Hugo theme available on GitHub.</a>
+      <a href="https://github.com/orf/bare-hugo-theme" target="_blank">Bare Hugo theme available on GitHub.</a>
       {{ end }}
     </p>
     
