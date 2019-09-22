@@ -1,5 +1,7 @@
 # Bare
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e25dc0cd-2a9e-4c4e-bf39-c5e558d967e7/deploy-status)](https://app.netlify.com/sites/hugo-bare-theme/deploys)
+
 A speed-focused, minimalist Hugo blog theme based on [Bulma.io](https://bulma.io/). Looks 
 great on mobile and loads in a flash.
 
