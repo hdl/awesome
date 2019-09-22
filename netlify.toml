@@ -1,8 +1,9 @@
 [build]
   publish = "exampleSite/public"
-  command = "ls -l ../../ && cd exampleSite && hugo --gc --themesDir ../.."
+  command = "cd exampleSite && hugo --gc --themesDir ../.."
 
 [build.environment]
   HUGO_VERSION = "0.58.3"
   HUGO_ENV = "production"
+  HUGO_THEME = "repo"
   HUGO_BASEURL = "https://hugo-bare-theme.netlify.com/"
