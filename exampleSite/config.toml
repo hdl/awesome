@@ -14,7 +14,8 @@ author = "Joe Bloggs"
 email = "hello@hello-world.com"
 repoLink = "https://github.com/orf/hugo-bare-theme"
 description = 'Something about myself'
-postcss = true
+# PostCSS is harder than it should be to get working on an example site.
+postcss = false
 
 [[params.social]]
 icon = "github-circle"
