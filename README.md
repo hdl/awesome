@@ -55,3 +55,8 @@ url = "https://github.com/my-github-user/"
 icon = "linkedin"
 url = "https://linkedin.com/in/my-username"
 ```
+
+### Hiding the theme link
+
+I get it, you might not want to have a link to this repo on the footer of your blog. Add `disableAttribution` to your 
+site parameters and it will be hidden. 
