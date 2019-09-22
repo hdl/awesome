@@ -1,0 +1,12 @@
+[submodule "themes/bare/assets/css/bulma"]
+	path = themes/bare/assets/css/bulma
+	url = https://github.com/jgthms/bulma.git
+[submodule "themes/bare/assets/css/ionicons"]
+	path = themes/bare/assets/css/ionicons
+	url = https://github.com/ionic-team/ionicons.git
+[submodule "themes/assets/icons"]
+	path = themes/assets/icons
+	url = https://github.com/Templarian/MaterialDesign.git
+[submodule "themes/bare/assets/icons"]
+	path = themes/bare/assets/icons
+	url = https://github.com/Templarian/MaterialDesign.git
