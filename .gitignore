@@ -9,3 +9,5 @@ hugo.darwin
 hugo.linux
 node_modules/
 .idea/
+exampleSite/resources/
+exampleSite/public/
