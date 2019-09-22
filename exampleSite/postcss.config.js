@@ -1,3 +1,6 @@
+// This is a modified PostCSS config for deploying the
+// example site. Use the config at the root of this project.
+
 module.exports = {
     plugins: {
         '@fullhuman/postcss-purgecss': {

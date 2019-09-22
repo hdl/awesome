@@ -9,12 +9,12 @@ enableGitInfo = true
   series = "series"
 
 [params]
-mainSections = ["posts"]
+mainSections = ["post"]
 author = "Joe Bloggs"
 email = "hello@hello-world.com"
 repoLink = "https://github.com/orf/hugo-bare-theme"
 description = 'Something about myself'
-postcss = false
+postcss = true
 
 [[params.social]]
 icon = "github-circle"
