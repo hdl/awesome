@@ -1,2 +1,4 @@
-# bare-hugo-theme
-A Hugo theme based on Bulma.io
+# Bare
+
+A speed-focused, minimalist Hugo blog theme based on [Bulma.io](https://bulma.io/).
+
