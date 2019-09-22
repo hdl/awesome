@@ -14,7 +14,7 @@ author = "Joe Bloggs"
 email = "hello@hello-world.com"
 repoLink = "https://github.com/orf/hugo-bare-theme"
 description = 'Something about myself'
-postcss = true
+postcss = false
 
 [[params.social]]
 icon = "github-circle"
