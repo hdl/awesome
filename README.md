@@ -1,10 +1,11 @@
 # Bare
 
-A speed-focused, minimalist Hugo blog theme based on [Bulma.io](https://bulma.io/).
+A speed-focused, minimalist Hugo blog theme based on [Bulma.io](https://bulma.io/). Looks 
+great on mobile and loads in a flash.
 
-Homepage                     |  Post
-:---------------------------:|:-------------------------:
-![](./images/screenshot.png) |  ![](./images/post.png)
+Homepage   |  Post | Mobile
+:---------------------------:|:-------------------------:|:------:|
+![](./images/screenshot.png) |  ![](./images/post.png) |  ![](./images/mobile.png)
 
 ## How to use:
 
