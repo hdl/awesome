@@ -2,7 +2,6 @@
 ### Hugo template
 # Generated files by hugo
 /public/
-/resources/_gen/
 
 # Executable may be added to repository
 hugo.exe
