@@ -8,7 +8,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ .Title }}</title>
+  <title>
+    {{ .Title }} {{ if (and $.Site.Params.includeAuthorInTitle (eq .Page.Kind "page")) }} | {{ $.Site.Params.author }} {{ end }}
+  </title>
   <link rel="stylesheet" href='{{ (.Scratch.Get "sass").Permalink }}' integrity='{{ (.Scratch.Get "sass").Data.Integrity }}'>
   <link rel="canonical" href="{{ .Permalink }}">
   {{ with $.Site.Home.OutputFormats.Get "rss" -}}

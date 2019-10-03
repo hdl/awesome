@@ -32,6 +32,8 @@ author = "Tom Forbes"
 email = "tom@tomforb.es"
 description = 'Python developer living and working in Lisbon'
 postcss = true
+# Include the author name in the <title> of articles
+includeAuthorInTitle = true
 ```
 
 

@@ -17,6 +17,8 @@ description = 'Something about myself'
 # PostCSS is harder than it should be to get working on a theme
 # example site. It's easy on _your_ site.
 postcss = false
+# Include the author name in the <title> of articles
+includeAuthorInTitle = true
 
 [[params.social]]
 icon = "github-circle"
