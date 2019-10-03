@@ -12,11 +12,11 @@
     {{ end }}
     
     <p>
-      {{ if $.Site.Params.repoLink }}
-      Source code <a href="{{ $.Site.Params.repoLink }}" target="_blank">available on Github</a>.
-      {{ end }}
       {{ if (not $.Site.Params.disableAttribution) }}
-      <a href="https://github.com/orf/bare-hugo-theme" target="_blank">Bare Hugo theme available on GitHub.</a>
+      <a href="https://github.com/orf/bare-hugo-theme" target="_blank">Bare Hugo theme.</a>
+      {{ end }}
+      {{ if $.Site.Params.repoLink }}
+      Blog source code <a href="{{ $.Site.Params.repoLink }}" target="_blank">available on Github</a>.
       {{ end }}
     </p>
     
