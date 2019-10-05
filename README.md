@@ -9,7 +9,7 @@ great on mobile and loads in a flash.
 
 Homepage   |  Post | Mobile
 :---------------------------:|:-------------------------:|:------:|
-![](./images/screenshot.png) |  ![](./images/post.png) |  ![](./images/mobile.png)
+![](https://raw.githubusercontent.com/orf/bare-hugo-theme/master/images/screenshot.png) |  ![](https://raw.githubusercontent.com/orf/bare-hugo-theme/master/images/post.png) |  ![](https://raw.githubusercontent.com/orf/bare-hugo-theme/master/images/mobile.png)
 
 ## How to use:
 
