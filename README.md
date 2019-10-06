@@ -18,7 +18,7 @@ Install the theme:
 ```
 git submodule add https://github.com/orf/bare-hugo-theme.git themes/bare
 # This is required:
-git submodule update --init --recursive --depth=1
+git submodule update --init --recursive
 ```
 
 ## Configuring the theme
