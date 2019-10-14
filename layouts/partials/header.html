@@ -29,13 +29,13 @@
       {{ end }}
       <a class="navbar-item" href="mailto:{{ .Site.Params.email }}" target="_blank">
         <span class="icon">
-          <img alt="email" src='{{ (resources.Get "icons/icons/svg/email.svg").Permalink }}'>
+          <img alt="email" src='{{ (resources.Get "icons/svg/email.svg").Permalink }}'>
         </span>
       </a>
       {{ with $.Site.Home.OutputFormats.Get "rss" -}}
       <a class="navbar-item" href="{{ .Permalink }}" target="_blank">
         <span class="icon">
-          <img alt="rss" src='{{ (resources.Get "icons/icons/svg/rss.svg").Permalink }}'>
+          <img alt="rss" src='{{ (resources.Get "icons/svg/rss.svg").Permalink }}'>
         </span>
       </a>
       {{ end }}
