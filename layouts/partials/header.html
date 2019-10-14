@@ -23,7 +23,7 @@
       {{ range $.Site.Params.social }}
       <a class="navbar-item" href="{{ .url }}" rel="noopener" target="_blank">
         <span class="icon">
-          <img alt="{{ .icon }}" src='{{ (resources.Get (printf  "icons/icons/svg/%s.svg" .icon)).Permalink }}'>
+          <img alt="{{ .icon }}" src='{{ (resources.Get (printf  "icons/svg/%s.svg" .icon)).Permalink }}'>
         </span>
       </a>
       {{ end }}
