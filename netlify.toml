@@ -1,9 +1,11 @@
 [build]
   publish = "exampleSite/public"
-  command = "cd exampleSite && hugo --gc --themesDir ../.."
+  command = "cd exampleSite && hugo --gc --themesDir ../.. -b $URL"
 
 [build.environment]
   HUGO_VERSION = "0.58.3"
   HUGO_ENV = "production"
   HUGO_THEME = "repo"
-  HUGO_BASEURL = "https://hugo-bare-theme.netlify.com/"
+
+[context.deploy-preview]
+command = "cd exampleSite && hugo --gc --themesDir ../.. --minify -b $DEPLOY_PRIME_URL"
