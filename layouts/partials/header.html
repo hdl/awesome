@@ -14,7 +14,11 @@
     <div class="navbar-start">
       {{ range .Site.Taxonomies.tags }}
       <a class="navbar-item" href="{{ .Page.Permalink }}">
+        {{ if (eq .Page.Title (upper .Page.Title )) }}
+        {{ .Page.Title  }}
+        {{ else }}
         {{ .Page.Title | humanize }}
+        {{ end }}
       </a>
       {{ end }}
     </div>
