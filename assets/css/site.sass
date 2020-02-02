@@ -1,4 +1,9 @@
 @charset "utf-8"
+
+$footer-padding: 1rem 1.5rem 1rem
+$box-padding: 1rem
+$tag-radius: 2px
+
 // Include just the Bulma elements we require.
 @import "bulma/bulma"
 
@@ -12,19 +17,33 @@ body
 .content
   word-break: break-word
 
-.posts
-  margin-top: 10px
-  .post
-    margin-bottom: 15px
+body
+  display: flex
+  flex-direction: column
 
-.tags-list
-  margin-bottom: 15px
+#main-section
+  flex-grow: 1
+
+.content
+  word-break: break-word
 
 .navbar-brand
   .navbar-item
     figure
       img
         width: inherit
+
+.media-content
+  overflow-x: inherit
+
+.breadcrumb span
+  align-items: center
+  display: flex
+  justify-content: center
+  padding: 0 .75em
+
+.breadcrumb li:first-child span
+  padding-left: 0
 
 // Make code a bit smaller on mobile.
 +touch

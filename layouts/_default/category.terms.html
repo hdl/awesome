@@ -1,0 +1,28 @@
+{{ define "main" }}
+{{ $cats := $.Site.Params.categories }}
+{{ range .Pages }}
+<article class="media">
+  <div class="media-content">
+    <nav class="level is-mobile">
+      <div class="level-left">
+        <nav class="breadcrumb has-succeeds-separator" aria-label="breadcrumbs">
+          {{ $crumbs := split .Title ":" }}
+          <ul>
+            {{ range first (sub (len $crumbs) 1) $crumbs }}
+            <li><span>{{.}}</span></li>
+            {{end}}
+            <li><a href="{{ .Permalink }}"><strong>{{ index (last 1 $crumbs) 0 }}</strong></a></li>
+          </ul>
+          <ul>
+            <li>{{ index $cats (lower .Title) }}</li>
+          </ul>
+        </nav>
+      </div>
+      <div class="level-right">
+        {{ len .Data.category }} items in this category
+      </div>
+    </nav>
+  </div>
+</article>
+{{ end }}
+{{ end }}
