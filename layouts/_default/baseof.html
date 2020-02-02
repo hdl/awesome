@@ -2,13 +2,23 @@
 <html lang="en">
 {{- partial "head.html" . -}}
 <body>
+{{- block "header" . }}
 {{- partial "header.html" . -}}
+{{- end }}
 <section class="hero is-small is-info is-fullwidth">
   <div class="hero-body">
-    {{- block "hero-body" . }}{{- end }}
+    {{- block "hero-body" . }}
+    <div class="container">
+      <article class="media">
+        <div class="media-content">
+          <h1 class="title">{{.Page.Title}}</h1>
+        </div>
+      </article>
+    </div>
+    {{- end }}
   </div>
 </section>
-<section class="section">
+<section id="main-section" class="section">
   <div class="container">
     {{- block "main" . }}{{- end }}
   </div>

@@ -1,0 +1,30 @@
+{{ with .Params.Links }}
+  {{ with .Web }}
+    <a class="level-item" href="{{ . }}" rel="noopener" target="_blank">
+      <span class="icon">
+        <img alt="" src='{{ (resources.Get (printf "icons/svg/%s.svg" "web")).Permalink }}'>
+      </span>
+    </a>
+  {{ end }}
+  {{ with .Docs }}
+    <a class="level-item" href="{{ . }}" rel="noopener" target="_blank">
+      <span class="icon">
+        <img alt="" src='{{ (resources.Get (printf "icons/svg/%s.svg" "book-open-page-variant")).Permalink }}'>
+      </span>
+    </a>
+  {{ end }}
+  {{ with .Gh }}
+    <a class="level-item" href="{{ . }}" rel="noopener" target="_blank">
+      <span class="icon">
+        <img alt="" src='{{ (resources.Get (printf "icons/svg/%s.svg" "github-circle")).Permalink }}'>
+      </span>
+    </a>
+  {{ end }}
+  {{ with .Gl }}
+    <a class="level-item" href="{{ . }}" rel="noopener" target="_blank">
+      <span class="icon">
+        <img alt="" src='{{ (resources.Get (printf "icons/svg/%s.svg" "gitlab")).Permalink }}'>
+      </span>
+    </a>
+  {{ end }}
+{{ end }}

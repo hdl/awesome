@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="tags are-large" style="justify-content: center">
+{{ range .Pages }}
+{{ $name := .Data.Term }}
+{{ with $.Site.GetPage (printf "/%s/%s" "tags" ($name | urlize)) }}
+  <a class="tag is-link" href="{{ .Permalink }}">{{ .Title }} ({{ len .Data.tag }})</a>
+{{ end }}
+{{ end }}
+</div>
+{{ end }}

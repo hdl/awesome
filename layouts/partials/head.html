@@ -9,11 +9,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>
-    {{ if (eq .Page.Kind "taxonomy") }}
-    Posts tagged with
-    {{ end }}
+    {{ with $.Site.Params.Shorttitle }}{{ . }}{{ else }}{{$.Site.Title}}{{ end }} |
+    {{ if (eq .Page.Kind "taxonomy") }} {{ humanize .Page.Data.Singular }} · {{ end }}
     {{ .Title }}
-    {{ if (and $.Site.Params.includeAuthorInTitle (in (slice "page" "taxonomy") .Page.Kind)) }} | {{ $.Site.Params.author }} {{ end }}
   </title>
   <link rel="stylesheet" href='{{ (.Scratch.Get "sass").Permalink }}' integrity='{{ (.Scratch.Get "sass").Data.Integrity }}'>
   <link rel="canonical" href="{{ .Permalink }}">

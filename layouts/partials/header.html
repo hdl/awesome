@@ -2,28 +2,25 @@
   <div class="navbar-brand">
     <a class="navbar-item" href="{{ $.Site.Home.Permalink }}">
       <figure class="image">
-        <img alt="" class="is-rounded" src="https://www.gravatar.com/avatar/{{ md5 $.Site.Params.email }}?s=128&d=identicon">
+        <img alt="" title="{{ $.Site.Title }}" src="{{ $.Site.BaseURL }}/img/logo.svg">
       </figure>
     </a>
     <a class="navbar-item" href="{{ $.Site.Home.Permalink }}">
       {{ $.Site.Title }}
     </a>
   </div>
-  
+
   <div class="navbar-menu">
     <div class="navbar-start">
-      {{ range .Site.Taxonomies.tags }}
-      <a class="navbar-item" href="{{ .Page.Permalink }}">
-        {{ if (eq .Page.Title (upper .Page.Title )) }}
-        {{ .Page.Title  }}
-        {{ else }}
-        {{ .Page.Title | humanize }}
-        {{ end }}
+    </div>
+
+    <div class="navbar-end">
+      {{ range $.Site.Menus.main }}
+      <a class="navbar-item" href="{{ .URL }}">
+        {{ .Name }}
       </a>
       {{ end }}
-    </div>
-    
-    <div class="navbar-end">
+      <span class="navbar-item"></span>
       {{ range $.Site.Params.social }}
       <a class="navbar-item" href="{{ .url }}" rel="noopener" target="_blank">
         <span class="icon">
@@ -35,11 +32,6 @@
         </span>
       </a>
       {{ end }}
-      <a class="navbar-item" href="mailto:{{ .Site.Params.email }}" target="_blank">
-        <span class="icon">
-          <img alt="email" src='{{ (resources.Get "icons/svg/email.svg").Permalink }}'>
-        </span>
-      </a>
       {{ with $.Site.Home.OutputFormats.Get "rss" -}}
       <a class="navbar-item" href="{{ .Permalink }}" target="_blank">
         <span class="icon">

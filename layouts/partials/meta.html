@@ -7,3 +7,13 @@
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
 
 {{ template "_internal/opengraph.html" . }}
+
+<link rel="apple-touch-icon" sizes="180x180" href="{{ $.Site.BaseURL}}/img/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ $.Site.BaseURL}}/img/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ $.Site.BaseURL}}/img/favicon/favicon-16x16.png">
+<link rel="manifest" href="{{ $.Site.BaseURL}}/img/favicon/site.webmanifest">
+<link rel="mask-icon" href="{{ $.Site.BaseURL}}/img/favicon/safari-pinned-tab.svg" color="#000000">
+<link rel="shortcut icon" href="{{ $.Site.BaseURL}}/img/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="{{ $.Site.BaseURL}}/img/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
