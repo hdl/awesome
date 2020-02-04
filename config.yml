@@ -1,0 +1,48 @@
+baseURL: "https://hdl.github.io/awesome"
+title: "Awesome resources for Hardware Description"
+theme: "bare-hugo-theme"
+enableGitInfo: true
+
+params:
+  shorttitle: "Awesome HDL"
+  description: 'Tools, frameworks, IP cores, libraries and more!'
+  # PostCSS is harder than it should be to get working on a theme
+  # example site. It's easy on _your_ site.
+  postcss: false
+  social:
+    - icon: "github-circle"
+      url: "https://github.com/hdl/awesome"
+  categories:
+    "Libraries": ""
+    "Libraries:IP Core Libraries": "libraries containing multiple IP cores"
+    "Libraries:IP Core Collections": "collections containing multiple IP cores"
+    "IP Cores": "single IP cores"
+    "Frameworks": ""
+    "Frameworks:Verification": "frameworks for verification"
+    "Verification Models": "single verification models"
+    "Verification Models:Memory": "verification model for Memories"
+    "Verification Models:Interface": "verification model for Interfaces"
+    "Tools": ""
+    "Tools:Grammars": ""
+    "Tools:Parsers": ""
+    "Tools:Simulators": ""
+    "Tools:Package Managers": ""
+    "Tools:Waveform Viewer": ""
+    "Services": ""
+    "Services:Code Quality": ""
+    "Services:Continuous Integration": ""
+    "Services:Continuous Documentation": ""
+    "Resources": ""
+    "Resources:Books": ""
+    "Resources:Twitter": ""
+    "Resources:Websites": ""
+    "Resources:Weekly": ""
+
+menu:
+  main:
+    - identifier: "categories"
+      name: "Categories"
+      url: "/categories/"
+    - identifier: "tags"
+      name: "Tags"
+      url: "/tags/"
