@@ -13,6 +13,13 @@ tags: [
 ]
 ---
 
-This is a long description...
+Verilator is "the fastest free Verilog HDL simulator". From a verification
+perspective it supports *line coverage*, *signal toggle coverage* and limited
+specification of *functional coverage* using SystemVerilog Assertions.
+It also allows one to write testbenches in C++ or SystemC.
+
 <!--more-->
-... about verilator.
+
+- Written In: C++
+- Write testbenches in: C++/SystemC
+- Supports: Design simuation, *Coverage collection from simulations*.

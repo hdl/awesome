@@ -19,15 +19,17 @@ params:
     "IP Cores": "single IP cores"
     "Frameworks": ""
     "Frameworks:Verification": "frameworks for verification"
-    "Verification Models": "single verification models"
-    "Verification Models:Memory": "verification model for Memories"
-    "Verification Models:Interface": "verification model for Interfaces"
+    "Verification": ""
+    "Verification:Models": "single verification models"
+    "Verification:Models:Memory": "verification model for Memories"
+    "Verification:Models:Interface": "verification model for Interfaces"
     "Tools": ""
     "Tools:Grammars": ""
     "Tools:Parsers": ""
     "Tools:Simulators": ""
     "Tools:Package Managers": ""
     "Tools:Waveform Viewer": ""
+    "Tools:Verification": ""
     "Services": ""
     "Services:Code Quality": ""
     "Services:Continuous Integration": ""
@@ -37,6 +39,7 @@ params:
     "Resources:Twitter": ""
     "Resources:Websites": ""
     "Resources:Weekly": ""
+    "Conferences": ""
 
 menu:
   main:
