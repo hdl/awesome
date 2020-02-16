@@ -27,7 +27,11 @@
       {{ range $.Site.Params.social }}
       <a class="navbar-item" href="{{ .url }}" rel="noopener" target="_blank">
         <span class="icon">
-          <img alt="{{ .icon }}" src='{{ (resources.Get (printf  "icons/svg/%s.svg" .icon)).Permalink }}'>
+          {{ with (resources.Get (printf  "icons/svg/%s.svg" .icon))}}
+            <img alt="{{ . }}" src='{{ .Permalink }}'>
+          {{ else }}
+            {{errorf "Icon %v does not exist in the template directory. View that directory for all icons you can use" (printf  "icons/svg/%s.svg" .icon)}}
+          {{end}}
         </span>
       </a>
       {{ end }}
