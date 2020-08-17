@@ -34,7 +34,9 @@
   {{ template "_internal/opengraph.html" . }}
 </head>
 <body>
-  {{- partial "header.html" . -}}
+  {{- block "header" . }}
+    {{- partial "header.html" . -}}
+  {{- end }}
   <section class="hero is-small is-info is-fullwidth">
     <div class="hero-body">
       {{- block "hero-body" . }}{{- end }}
