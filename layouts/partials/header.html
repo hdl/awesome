@@ -35,11 +35,13 @@
         </span>
       </a>
       {{ end }}
-      <a class="navbar-item" href="mailto:{{ .Site.Params.email }}" target="_blank">
+      {{ with $.Site.Params.email }}
+      <a class="navbar-item" href="mailto:{{ . }}" target="_blank">
         <span class="icon">
           <img alt="email" src='{{ (resources.Get "icons/svg/email.svg").Permalink }}'>
         </span>
       </a>
+      {{ end }}
       {{ with $.Site.Home.OutputFormats.Get "rss" -}}
       <a class="navbar-item" href="{{ .Permalink }}" target="_blank">
         <span class="icon">
