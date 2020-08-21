@@ -36,7 +36,7 @@
       </a>
       {{ end }}
       {{ with $.Site.Params.email }}
-      <a class="navbar-item" href="mailto:{{ .Site.Params.email }}" target="_blank">
+      <a class="navbar-item" href="mailto:{{ . }}" target="_blank">
         <span class="icon">
           <img alt="email" src='{{ (resources.Get "icons/svg/email.svg").Permalink }}'>
         </span>
