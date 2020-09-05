@@ -37,15 +37,17 @@
   {{- block "header" . }}
     {{- partial "header.html" . -}}
   {{- end }}
-  <section class="hero is-small is-info is-fullwidth">
-    <div class="hero-body">
-      {{- block "hero-body" . }}{{- end }}
-    </div>
-  </section>
-  <section class="section">
-    <div class="container">
-      {{- block "main" . }}{{- end }}
-    </div>
+  <section>
+    <section class="hero is-small is-info is-fullwidth">
+      <div class="hero-body">
+        {{- block "hero-body" . }}{{- end }}
+      </div>
+    </section>
+    <section class="section">
+      <div class="container">
+        {{- block "main" . }}{{- end }}
+      </div>
+    </section>
   </section>
   {{- partial "footer.html" . -}}
 </body>
