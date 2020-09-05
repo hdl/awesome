@@ -44,6 +44,9 @@ description = 'Python developer living and working in Lisbon'
 postcss = true
 # Include the author name in the <title> of articles
 includeAuthorInTitle = true
+# Can be any colour here: https://bulma.io/documentation/layout/hero/#colors
+# e.g "warning" or "danger" for yellow or red.
+hero_colour = "info"
 ```
 
 The theme will pull posts from the content sections you define in `mainSections`. In the example above 

@@ -38,7 +38,7 @@
     {{- partial "header.html" . -}}
   {{- end }}
   <section>
-    <section class="hero is-small is-info is-fullwidth">
+    <section class='hero is-small is-{{ default "info" $.Site.Params.hero_colour }} is-fullwidth'>
       <div class="hero-body">
         {{- block "hero-body" . }}{{- end }}
       </div>
