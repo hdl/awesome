@@ -25,7 +25,6 @@ If using Netlify, add the following to your `netlify.toml` file:
 
 ```toml
 [build]
-environment = { HUGO_VERSION = "your hugo version (e.g '0.74.3')" }
 command = "git submodule update --init --recursive --depth=1 && hugo --minify --ignoreCache"
 
 [context.deploy-preview]
