@@ -21,6 +21,17 @@ git submodule add https://github.com/orf/bare-hugo-theme.git themes/bare
 git submodule update --init --recursive
 ```
 
+If using Netlify, add the following to your `netlify.toml` file:
+
+```toml
+[build]
+environment = { HUGO_VERSION = "your hugo version (e.g '0.74.3')" }
+command = "git submodule update --init --recursive --depth=1 && hugo --minify --ignoreCache"
+
+[context.deploy-preview]
+command = "git submodule update --init --recursive --depth=1 && hugo -b $DEPLOY_PRIME_URL --minify --ignoreCache"
+```
+
 ## Configuring the theme
 
 Example configuration:
@@ -35,7 +46,6 @@ postcss = true
 # Include the author name in the <title> of articles
 includeAuthorInTitle = true
 ```
-
 
 The theme will pull posts from the content sections you define in `mainSections`. In the example above 
 all posts from `content/posts` will be included in the homepage.
