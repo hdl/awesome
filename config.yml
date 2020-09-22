@@ -10,7 +10,7 @@ params:
   # example site. It's easy on _your_ site.
   postcss: false
   social:
-    - icon: "github-circle"
+    - icon: "github"
       url: "https://github.com/hdl/awesome"
   categories:
     "Libraries": ""
