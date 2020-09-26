@@ -1,15 +1,15 @@
-**This repository is in a very early planning phase, and it was uploaded in order to gather feedback from the community. This branch should be expected to be force-pushed without prior notice. We encourage users/contributors/collegues to open issues to bring up the matters for discussion before contributing modifications.**
-
-# Awesome resources for Hardware Description
-
 <p align="center">
   <a title="hdl.github.io/awesome" href="https://hdl.github.io/awesome"><img src="https://img.shields.io/website.svg?label=hdl.github.io%2Fawesome&longCache=true&style=flat-square&url=http%3A%2F%2Fhdl.github.io%2Fawesome%2Findex.html"></a><!--
   -->
-  <a title="'site' workflow Status" href="https://github.com/hdl/swesome/actions?query=workflow%3Asite"><img alt="'site' workflow Status" src="https://img.shields.io/github/workflow/status/hdl/awesome/site?longCache=true&style=flat-square&label=CI%20site"></a><!--
+  <a title="'site' workflow Status" href="https://github.com/hdl/swesome/actions?query=workflow%3Asite"><img alt="'site' workflow Status" src="https://img.shields.io/github/workflow/status/hdl/awesome/site?longCache=true&style=flat-square&label=site&logoColor=fff&logo=GitHub%20Actions"></a><!--
   -->
-  <a title="CC0 - Public Domain" href="https://github.com/hdl/awesome/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/hdl/awesome.svg?longCache=true&style=flat-square"></a><!--
+  <a title="CC0 - Public Domain" href="https://github.com/hdl/awesome/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/hdl/awesome.svg?longCache=true&style=flat-square&logoColor=fff&logo=Creative%20Commons"></a><!--
   -->
 </p>
+
+**This repository is in a very early planning phase, and it was uploaded in order to gather feedback from the community. This branch should be expected to be force-pushed without prior notice. We encourage users/contributors/collegues to open issues to bring up the matters for discussion before contributing modifications.**
+
+# Awesome resources for Hardware Description
 
 A curated list of awesome tools, frameworks, IP cores, libraries, and more!
 
