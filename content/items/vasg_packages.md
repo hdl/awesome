@@ -1,7 +1,7 @@
 ---
 title: "VASG Packages"
 description: "Open source materials referenced by the IEEE 1076 standard"
-author: ["author"]
+authors: []
 links:
   gl: "https://opensource.ieee.org/vasg/Packages"
 tags: [

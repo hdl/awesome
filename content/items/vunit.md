@@ -1,7 +1,9 @@
 ---
 title: "VUnit"
 description: "Open source unit testing framework for VHDL/SystemVerilog"
-author: ["Lars Asplund", "Olof Kraigher"]
+authors:
+  - Lars Asplund
+  - Olof Kraigher
 links:
   gh: "https://github.com/VUnit/vunit"
   web: "http://vunit.github.io/"
@@ -16,6 +18,7 @@ tags: [
 categories: [
   "Frameworks"
 ]
+talk: 38
 ---
 
 *"VUnit is an open source unit testing framework for VHDL/SystemVerilog \[...\] It features the functionality needed to realize continuous and automated testing of your HDL code. VUnit doesn’t replace but rather complements traditional testing methodologies by supporting a “test early and often” approach through automation."*

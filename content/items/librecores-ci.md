@@ -1,7 +1,7 @@
 ---
 title: "LibreCores CI"
 description: "Continuous Integration of projects being hosted on LibreCores"
-author: ["author"]
+authors: []
 links:
   web: "https://www.librecores.org/static/librecores-ci"
 tags: [

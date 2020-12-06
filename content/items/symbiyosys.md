@@ -1,7 +1,7 @@
 ---
 title: "SymbiYosys (sby)"
 description: "Front-end driver program for Yosys-based formal hardware verification flows"
-author: ["author"]
+authors: []
 links:
   web: "https://symbiyosys.rtfd.io"
   gh: "https://github.com/YosysHQ/SymbiYosys"
@@ -9,6 +9,7 @@ tags: [
   "verification",
   "formal",
 ]
+talk: 32
 ---
 
 *"SymbiYosis a front-end driver program for Yosys-based formal hardware

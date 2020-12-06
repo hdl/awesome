@@ -1,10 +1,11 @@
 ---
 title: mistral
 description: Cyclone V FPGAs Bitstream Documentaion (Reverse Engineered)
-author: []
+authors: []
 links:
   gh: https://github.com/Ravenslofty/mistral
 tags: []
+talk: 20
 ---
 
 This is a long description...

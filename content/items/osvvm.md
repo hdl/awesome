@@ -1,7 +1,8 @@
 ---
 title: "Open Source VHDL Verification Methodology (OSVVM)"
 description: "description"
-author: ["Jim Lewis"]
+authors:
+  - Jim Lewis
 links:
   web: "https://osvvm.org"
   gh: "https://github.com/OSVVM/OSVVM"
@@ -14,6 +15,7 @@ categories: [
   "Frameworks",
   "Frameworks:Verification"
 ]
+talk: 25
 ---
 
 *"Open Source VHDL Verification Methodology (OSVVM) provides an ASIC level VHDL verification methodology that is simple enough to use even on small FPGA projects. OSVVM offers the same capabilities as those based on other verification languages:"*

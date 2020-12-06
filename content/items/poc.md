@@ -1,7 +1,7 @@
 ---
 title: "Pile of Cores libray (PoC)"
 description: "A library of free, open-source and platform independent IP cores"
-author: ["author"]
+authors: []
 links:
   gh: "https://github.com/VLSI-EDA/PoC"
 tags: [
@@ -12,6 +12,7 @@ tags: [
 categories: [
   "Libraries:IP Core Libraries"
 ]
+talk: 26
 ---
 
 This is a long description...

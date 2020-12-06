@@ -1,7 +1,7 @@
 ---
 title: "hdlConvertor"
 description: "System Verilog and VHDL parser, preprocessor and code generator for Python/C++ written"
-author: ["author"]
+authors: []
 links:
   gh: "https://github.com/Nic30/hdlConvertor"
 tags: [

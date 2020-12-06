@@ -1,7 +1,7 @@
 ---
 title: "eda-twiki"
 description: "Wiki of the VHDL Analysis and Standardization Group (VASG)"
-author: ["author"]
+authors: []
 links:
   web: "http://www.eda-twiki.org/cgi-bin/view.cgi/P1076/WebHome"
 tags: [

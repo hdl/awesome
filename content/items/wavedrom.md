@@ -1,7 +1,7 @@
 ---
 title: "wavedrom"
 description: "Javascript wave graph visualizer for documentations and sim"
-author: ["author"]
+authors: []
 links:
   gh: "https://github.com/drom/wavedrom"
 tags: [
@@ -11,6 +11,7 @@ tags: [
 categories: [
   "Tools:Waveform Viewer"
 ]
+talk: 39
 ---
 
 This is a long description...

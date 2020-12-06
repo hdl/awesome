@@ -1,7 +1,8 @@
 ---
 title: "rust_hdl"
 description: "Collection of HDL related tools"
-author: ["Olof Kraigher"]
+authors:
+  - Olof Kraigher
 links:
   gh: "https://github.com/kraigher/rust_hdl"
 tags: [

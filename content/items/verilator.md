@@ -1,7 +1,7 @@
 ---
 title: "verilator"
 description: "Open-source compiler/simulator for syntehsizable Verilog or SystemVerilog"
-author: ["author"]
+authors: []
 links:
   web: "https://www.veripool.org/wiki/verilator"
 tags: [
@@ -11,6 +11,7 @@ tags: [
   "verilog",
   "systemverilog",
 ]
+talk: 35
 ---
 
 Verilator is "the fastest free Verilog HDL simulator". From a verification

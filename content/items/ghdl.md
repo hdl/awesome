@@ -1,7 +1,8 @@
 ---
 title: "GHDL"
 description: "Open-source analyzer, compiler, simulator and synthesiser for VHDL"
-author: ["Tristan Gingold"]
+authors:
+  - Tristan Gingold"
 links:
   gh: "https://github.com/ghdl/ghdl"
   docs: "https://ghdl.github.io/ghdl"
@@ -13,6 +14,7 @@ tags: [
   "parser",
   "VHDL",
 ]
+talk: 7
 ---
 
 This is a long description...

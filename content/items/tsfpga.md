@@ -1,7 +1,8 @@
 ---
 title: "tsfpga"
 description: "Tools for managing modern FPGA project"
-author: ["Lukas Vik"]
+authors:
+  - Lukas Vik
 links:
   gl: "https://gitlab.com/truestream/tsfpga"
 tags: [
@@ -10,6 +11,7 @@ tags: [
   "vhdl",
   "vivado",
 ]
+talk: 33
 ---
 
 This is a long description...

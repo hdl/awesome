@@ -1,7 +1,7 @@
 ---
 title: "fphdl"
 description: "VHDL-2008 Support Library"
-author: ["author"]
+authors: []
 links:
   gh: "https://github.com/FPHDL/fphdl/"
 tags: [

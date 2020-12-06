@@ -1,7 +1,7 @@
 ---
 title: "Universal VHDL Verification Methodology (UVVM)"
 description: "description"
-author: ["author"]
+authors: []
 links:
   gh: "https://github.com/UVVM/UVVM"
 tags: [

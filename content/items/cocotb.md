@@ -1,7 +1,7 @@
 ---
 title: "Coroutine Co-simulation Test Bench (cocotb)"
 description: "A coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python"
-author: ["author"]
+authors: []
 links:
   gh: "https://github.com/cocotb/cocotb"
   docs: "https://cocotb.rtfd.io"
@@ -14,6 +14,7 @@ tags: [
 categories: [
   "Frameworks"
 ]
+talk: 9
 ---
 
 *"cocotb is a coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python."*

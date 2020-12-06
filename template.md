@@ -30,6 +30,7 @@ licenses?:
 active:
   from: <YEAR>
   to?: <YEAR>
+talk: <ISSUE>
 ---
 
 *"Our own complementary description/explanation"*

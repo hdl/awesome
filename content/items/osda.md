@@ -1,7 +1,7 @@
 ---
 title: "Open Source Design Automation (OSDA)"
 description: "One-day workshop to bring together industrial, academic, and hobbyist actors to explore, disseminate, and network over ongoing efforts for open design automation"
-author: ["author"]
+authors: []
 links:
   web: "https://osda.gitlab.io/"
 tags: [

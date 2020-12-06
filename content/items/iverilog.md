@@ -1,13 +1,14 @@
 ---
 title: "Icarus Verilog (iverilog)"
 description: "Verilog simulation and synthesis tool"
-author: ["author"]
+authors: []
 links:
   web: "http://iverilog.icarus.com/"
 tags: [
   "simulator",
   "verilog",
 ]
+talk: 15
 ---
 
 This is a long description...
