@@ -1,6 +1,6 @@
 ---
 title: icestorm
-description: Lattice iCE40 FPGAs Bitstream Documentaion (Reverse Engineered)
+description: Lattice iCE40 FPGAs Bitstream Documentation (Reverse Engineered)
 authors: []
 links:
   gh: https://github.com/YosysHQ/icestorm

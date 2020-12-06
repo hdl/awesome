@@ -1,6 +1,6 @@
 ---
 title: Project X-Ray
-description: Xilinx Xilinx 7-series FPGAs Bitstream Documentaion (Reverse Engineered)
+description: Xilinx Xilinx 7-series FPGAs Bitstream Documentation (Reverse Engineered)
 authors: []
 links:
   gh: https://github.com/SymbiFlow/prjxray
