@@ -7,8 +7,6 @@
   -->
 </p>
 
-**This repository is in a very early planning phase, and it was uploaded in order to gather feedback from the community. This branch should be expected to be force-pushed without prior notice. We encourage users/contributors/collegues to open issues to bring up the matters for discussion before contributing modifications.**
-
 # Awesome resources for Hardware Description
 
 A curated list of awesome tools, frameworks, IP cores, libraries, and more!
