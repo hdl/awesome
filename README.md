@@ -1,7 +1,7 @@
 <p align="center">
   <a title="hdl.github.io/awesome" href="https://hdl.github.io/awesome"><img src="https://img.shields.io/website.svg?label=hdl.github.io%2Fawesome&longCache=true&style=flat-square&url=http%3A%2F%2Fhdl.github.io%2Fawesome%2Findex.html"></a><!--
   -->
-  <a title="'site' workflow Status" href="https://github.com/hdl/swesome/actions?query=workflow%3Asite"><img alt="'site' workflow Status" src="https://img.shields.io/github/workflow/status/hdl/awesome/site?longCache=true&style=flat-square&label=site&logoColor=fff&logo=GitHub%20Actions"></a><!--
+  <a title="'site' workflow Status" href="https://github.com/hdl/awesome/actions?query=workflow%3Asite"><img alt="'site' workflow Status" src="https://img.shields.io/github/workflow/status/hdl/awesome/site?longCache=true&style=flat-square&label=site&logoColor=fff&logo=GitHub%20Actions"></a><!--
   -->
   <a title="CC0 - Public Domain" href="https://github.com/hdl/awesome/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/hdl/awesome.svg?longCache=true&style=flat-square&logoColor=fff&logo=Creative%20Commons"></a><!--
   -->
