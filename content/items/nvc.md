@@ -3,7 +3,7 @@ title: "NVC"
 description: "A GPLv3 VHDL compiler and simulator aiming for IEEE 1076-2002 compliance"
 authors: []
 links:
-  gh: "https://github.com/nickg/nvc"
+  gh: nickg/nvc
 tags: [
   "synthesis",
   "vhdl",

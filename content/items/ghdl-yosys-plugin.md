@@ -4,8 +4,8 @@ description: Plugin for using GHDL as a VHDL frontend for Yosys
 authors:
   - Tristan Gingold
 links:
-  gh: "https://github.com/ghdl/ghdl-yosys-plugin"
-  docs: "https://ghdl.github.io/ghdl/using/Synthesis.html#yosys-plugin"
+  gh: ghdl/ghdl-yosys-plugin
+  docs: https://ghdl.github.io/ghdl/using/Synthesis.html#yosys-plugin
 tags: [
   "analiser",
   "synthesis",

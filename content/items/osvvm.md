@@ -4,8 +4,8 @@ description: "description"
 authors:
   - Jim Lewis
 links:
-  web: "https://osvvm.org"
-  gh: "https://github.com/OSVVM/OSVVM"
+  web: https://osvvm.org
+  gh: OSVVM/OSVVM
 tags: [
   "verification",
   "framework",

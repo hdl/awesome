@@ -3,8 +3,8 @@ title: Super Prove
 description:
 authors: []
 links:
-  gh: https://github.com/berkeley-abc/super_prove
-  gh: https://github.com/sterin/super-prove-build
+  gh: sterin/super-prove-build
+  gh: berkeley-abc/super_prove
 tags: []
 ---
 

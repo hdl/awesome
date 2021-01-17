@@ -3,7 +3,7 @@ title: Universal Hardware Data Model (UHDM)
 description:
 authors: []
 links:
-  gh: https://github.com/alainmarcel/UHDM
+  gh: alainmarcel/UHDM
 tags: []
 ---
 

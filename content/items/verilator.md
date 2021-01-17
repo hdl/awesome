@@ -3,7 +3,8 @@ title: "verilator"
 description: "Open-source compiler/simulator for syntehsizable Verilog or SystemVerilog"
 authors: []
 links:
-  web: "https://www.veripool.org/wiki/verilator"
+  web: https://www.veripool.org/wiki/verilator
+  gh: verilator/verilator
 tags: [
   "analiser",
   "compiler",

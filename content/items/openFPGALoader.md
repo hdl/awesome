@@ -3,7 +3,7 @@ title: openFPGALoader
 description: Universal utility for programming FPGA
 authors: []
 links:
-  gh: https://github.com/trabucayre/openFPGALoader
+  gh: trabucayre/openFPGALoader
 tags: []
 ---
 

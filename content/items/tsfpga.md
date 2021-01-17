@@ -4,7 +4,7 @@ description: "Tools for managing modern FPGA project"
 authors:
   - Lukas Vik
 links:
-  gl: "https://gitlab.com/truestream/tsfpga"
+  gl: truestream/tsfpga
 tags: [
   "libraries",
   "ip-core",

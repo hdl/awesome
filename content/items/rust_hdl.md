@@ -4,7 +4,7 @@ description: "Collection of HDL related tools"
 authors:
   - Olof Kraigher
 links:
-  gh: "https://github.com/kraigher/rust_hdl"
+  gh: kraigher/rust_hdl
 tags: [
   "parser",
   "language-server",

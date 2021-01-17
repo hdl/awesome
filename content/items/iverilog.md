@@ -3,7 +3,8 @@ title: "Icarus Verilog (iverilog)"
 description: "Verilog simulation and synthesis tool"
 authors: []
 links:
-  web: "http://iverilog.icarus.com/"
+  web: http://iverilog.icarus.com
+  gh: steveicarus/iverilog
 tags: [
   "simulator",
   "verilog",

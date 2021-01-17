@@ -3,9 +3,8 @@ title: Serial-Studio
 description: Multi-purpose serial data visualization & processing program
 authors: []
 links:
-  gh: https://github.com/Serial-Studio/Serial-Studio
+  gh: Serial-Studio/Serial-Studio
   wiki: https://github.com/Serial-Studio/Serial-Studio/wiki
-
 tags: []
 ---
 

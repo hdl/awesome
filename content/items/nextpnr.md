@@ -3,7 +3,7 @@ title: nextpnr
 description: A vendor neutral, timing driven, FOSS FPGA place and route tool
 authors: []
 links:
-  gh: https://github.com/YosysHQ/nextpnr
+  gh: YosysHQ/nextpnr
 tags: []
 talk: 22
 ---

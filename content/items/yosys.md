@@ -3,8 +3,8 @@ title: "Yosys Open SYnthesis Suite (Yosys)"
 description: "A framework for RTL synthesis"
 authors: []
 links:
-  web: "http://www.clifford.at/yosys/"
-  gh: "https://github.com/YosysHQ/yosys"
+  web: http://www.clifford.at/yosys
+  gh: YosysHQ/yosys
 tags: [
   "synthesis",
   "verilog",

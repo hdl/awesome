@@ -4,7 +4,7 @@ description: An efficient open-source automatic theorem prover for satisfiabilit
 authors: []
 links:
   web: https://cvc4.cs.stanford.edu
-  gh: https://github.com/CVC4/CVC4
+  gh: CVC4/CVC4
 tags: []
 ---
 

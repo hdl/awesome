@@ -5,8 +5,8 @@ authors:
   - Lars Asplund
   - Olof Kraigher
 links:
-  gh: "https://github.com/VUnit/vunit"
-  web: "http://vunit.github.io/"
+  gh: VUnit/vunit
+  web: http://vunit.github.io
 date: "2014-11-25"
 tags: [
   "framework",

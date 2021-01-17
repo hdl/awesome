@@ -3,7 +3,7 @@ title: Verible
 description: A suite of SystemVerilog developer tools, including a parser, style-linter, and formatter
 authors: []
 links:
-  gh: https://github.com/google/verible
+  gh: google/verible
 tags: []
 talk: 34
 ---

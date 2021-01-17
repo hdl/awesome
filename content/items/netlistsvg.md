@@ -3,7 +3,7 @@ title: "netlistsvg"
 description: "Draw SVG schematics from a Yosys JSON netlists"
 authors: []
 links:
-  gh: "https://github.com/nturley/netlistsvg"
+  gh: nturley/netlistsvg
 tags: [
   "netlist",
   "schematics",

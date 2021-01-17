@@ -3,7 +3,7 @@ title: "wavedrom"
 description: "Javascript wave graph visualizer for documentations and sim"
 authors: []
 links:
-  gh: "https://github.com/drom/wavedrom"
+  gh: drom/wavedrom
 tags: [
   "vcd",
   "documentation",

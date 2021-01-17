@@ -4,7 +4,7 @@ description: Fully featured GTK+ based wave viewer for Unix, Win32, and Mac OSX 
 authors: []
 links:
   web: http://gtkwave.sourceforge.net/
-  gh: https://github.com/gtkwave/gtkwave
+  gh: gtkwave/gtkwave
 tags: []
 talk: 13
 ---

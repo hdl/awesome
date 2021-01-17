@@ -3,7 +3,7 @@ title: FASM
 description: FPGA Assembly (FASM) Parser and Generator
 authors: []
 links:
-  gh: https://github.com/SymbiFlow/fasm
+  gh: SymbiFlow/fasm
 tags: []
 talk: 10
 ---

@@ -3,7 +3,7 @@ title: "ORConf"
 description: "Annual conference for open source digital, semiconductor and embedded systems designers and users"
 authors: []
 links:
-  web: "https://orconf.org/"
+  web: https://orconf.org
 tags: [
   "fossi",
   "librecores",

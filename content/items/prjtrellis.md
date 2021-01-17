@@ -3,7 +3,7 @@ title: Project Trellis
 description: Lattice ECP5 FPGAs Bitstream Documentation (Reverse Engineered)
 authors: []
 links:
-  gh: https://github.com/YosysHQ/prjtrellis
+  gh: YosysHQ/prjtrellis
 tags: []
 talk: 28
 ---
