@@ -5,6 +5,7 @@ authors: []
 links:
   web: https://ngspice.sourceforge.io
 tags: []
+talk: 50
 ---
 
 This is a long description...

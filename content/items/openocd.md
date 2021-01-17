@@ -5,6 +5,7 @@ authors: []
 links:
   web: http://openocd.org/
 tags: []
+talk: 46
 ---
 
 This is a long description...
