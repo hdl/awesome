@@ -27,4 +27,4 @@ multiple frontends.
 
 ## Use Cases
 * High-level API for [GHDL's]({{< ref "/items/ghdl" >}} "GHDL") libghdl offered as Python package `pyGHDL.dom`.
-* Code Document-Object-Model (Code-DOM) in [pyVHDLParser]({{< ref "/items/gpyvhdlparser" >}} "pyVHDLParser").
+* Code Document-Object-Model (Code-DOM) in [pyVHDLParser]({{< ref "/items/pyvhdlparser" >}} "pyVHDLParser").
