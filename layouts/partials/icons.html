@@ -14,14 +14,14 @@
     </a>
   {{ end }}
   {{ with .Gh }}
-    <a class="level-item" href="{{ . }}" rel="noopener" target="_blank">
+    <a class="level-item" href="https://github.com/{{ . }}" rel="noopener" target="_blank">
       <span class="icon">
         <img alt="" src='{{ (resources.Get (printf "icons/svg/%s.svg" "github")).Permalink }}'>
       </span>
     </a>
   {{ end }}
   {{ with .Gl }}
-    <a class="level-item" href="{{ . }}" rel="noopener" target="_blank">
+    <a class="level-item" href="https://gitlab.com/{{ . }}" rel="noopener" target="_blank">
       <span class="icon">
         <img alt="" src='{{ (resources.Get (printf "icons/svg/%s.svg" "gitlab")).Permalink }}'>
       </span>
