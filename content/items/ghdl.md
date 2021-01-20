@@ -1,11 +1,16 @@
 ---
 title: "GHDL"
-description: "Open-source analyzer, compiler, simulator and synthesiser for VHDL"
+description: "Open-source analyzer, compiler, simulator and synthesizer for VHDL"
 authors:
   - Tristan Gingold"
 links:
   gh: ghdl/ghdl
   docs: https://ghdl.github.io/ghdl
+categories: [
+  "Tools",
+  "Tools:Simulators",
+  "Tools:Synthesizers"
+]
 tags: [
   "analiser",
   "compiler",
@@ -14,6 +19,11 @@ tags: [
   "parser",
   "VHDL",
 ]
+licenses: [
+  "GPL-2.0-only"
+]
+active:
+  from: 2002
 talk: 7
 ---
 
