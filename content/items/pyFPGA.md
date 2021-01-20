@@ -6,10 +6,34 @@ authors:
 links:
   gl: rodrigomelo9/pyfpga
   docs: https://rodrigomelo9.gitlab.io/pyfpga
-tags: []
+categories:
+  - TBD
+tags:
+  - vivado
+  - ise
+  - quartus
+  - libero
+  - ghdl
+  - yosys
+  - nextpnr
+  - icestorm
+  - trellis
+  - vhdl
+  - verilog
+  - python
+  - tcl
+active:
+  from: 2019
+licenses: "GNU GPLv3"
 talk: 58
 ---
 
-This is a long description...
-<!--more-->
-... about pyFPGA.
+PyFPGA is a Python Class for vendor-independent FPGA development.
+It allows using a single project file and programmatically executing
+synthesis, implementation, generation of bitstream and/or
+transference to supported boards.
+
+* The workflow is command-line centric.
+* It's friendly with Version Control Systems and Continuous Integration (CI).
+* Allows reproducibility and repeatability.
+* Consumes fewer system resources than GUI based workflows.
