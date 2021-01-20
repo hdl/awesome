@@ -1,5 +1,6 @@
 # <SOMETHING> means "change me"
 # FIELD? means "optional"
+# Use SPDX identifiers for licenses (https://spdx.org/licenses/)
 
 ---
 title: "<TITLE>"
