@@ -20,7 +20,7 @@ tags: [
   "VHDL",
 ]
 licenses: [
-  "GPL-2.0-only"
+  "GPL-2.0-or-later"
 ]
 active:
   from: 2002

@@ -18,7 +18,7 @@ tags: [
   "systemverilog",
 ]
 licenses: [
-  "GPL-2.0-only",
+  "LGPL-3.0-only",
   "Artistic-2.0"
 ]
 active:
