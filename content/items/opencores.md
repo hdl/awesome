@@ -27,4 +27,4 @@ OpenCores is also the place where digital designers meet to showcase, promote, a
 
 References:
 
-- In 2015, the core active users of OpenCores established the independent [FOSSi Foundation]({{< ref "/items/fossi" >}} "FOSSi"), who creates [LibreCores]({{< ref "/items/librecores" >}} "LibreCores").
+- In 2015, the core active users of OpenCores established the independent *FOSSi Foundation*, who creates [LibreCores]({{< ref "/items/librecores" >}} "LibreCores").
