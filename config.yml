@@ -33,6 +33,7 @@ params:
     "Tools": ""
     "Tools:Bitgen": ""
     "Tools:Grammars": ""
+    "Tools:Managers": ""
     "Tools:Package Managers": ""
     "Tools:Parsers": ""
     "Tools:PnRs": ""

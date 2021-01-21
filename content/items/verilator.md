@@ -1,10 +1,15 @@
 ---
 title: "verilator"
 description: "Open-source compiler/simulator for syntehsizable Verilog or SystemVerilog"
-authors: []
+authors:
+  - "Wilson Snyder"
 links:
   web: https://www.veripool.org/wiki/verilator
   gh: verilator/verilator
+categories: [
+  "Tools",
+  "Tools:Simulators"
+]
 tags: [
   "analiser",
   "compiler",
@@ -12,6 +17,12 @@ tags: [
   "verilog",
   "systemverilog",
 ]
+licenses: [
+  "LGPL-3.0-only",
+  "Artistic-2.0"
+]
+active:
+  from: 2003
 talk: 35
 ---
 
