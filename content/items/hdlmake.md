@@ -21,7 +21,7 @@ tags: [
   "isim",
   "modelsim",
   "active-hdl",
-  "icestrom",
+  "icestorm",
   "iverilog"
 ]
 active:
@@ -32,6 +32,7 @@ licenses: [
 talk: 65
 ---
 
+*"
 A tool designed to help FPGA designers to manage and share their HDL code by automatically finding file dependencies, writing synthesis & simulation Makefiles, and fetching IP-Core libraries from remote repositories
 
 * Synthesis Makefile generation
@@ -41,4 +42,4 @@ A tool designed to help FPGA designers to manage and share their HDL code by aut
 * Multiple HDL Languages
 * Multiple Tools
 * Multiple Operating Systems
-
+"*

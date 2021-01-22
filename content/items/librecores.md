@@ -20,7 +20,9 @@ active:
 talk: 66
 ---
 
+*"
 Digital devices are the basic building blocks of electronic systems. Such devices are for application-specific devices like a USB controller. But also programmable *System-on-Chip* are found in embedded systems. Both tastes of a chip are composed of basic building blocks, so called IP (Intellectual Property) cores. A "LibreCore" is such an IP core that is created and distributed in the open source spirit. And LibreCores.org is like a good neighborhood pub, a place to meet the community and —most importantly— find such cores.
+"*
 
 References:
 
