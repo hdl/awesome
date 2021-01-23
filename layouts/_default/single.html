@@ -13,17 +13,12 @@
       </h3>
     </div>
     <div class="column is-narrow">
-      <div class="level-right">
-        {{ $dir := "static/logos/" }}
-        {{ $img := lower (print .File.BaseFileName ".png") }}
-        {{ if (fileExists (print $dir $img)) }}
-        <div class="level-right">
-          <figure class="image is-128x128">
-            <img src="{{ .Site.BaseURL }}logos/{{ $img }}" alt="{{ .File.BaseFileName }}">
-          </figure>
-        </div>
-        {{ end }}
-      </div>
+      {{ $img := lower (print .File.BaseFileName ".png") }}
+      {{ if (fileExists (print "static/logos/" $img)) }}
+      <figure class="image is-128x128">
+        <img src="{{ .Site.BaseURL }}logos/{{ $img }}" alt="{{ .Title }}">
+      </figure>
+      {{ end }}
     </div>
   </div>
 </div>
