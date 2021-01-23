@@ -17,15 +17,14 @@
         </div>
       </nav>
     </div>
-    {{ $dir := "static/logos/" }}
     {{ $img := lower (print .File.BaseFileName ".png") }}
-    {{ if (fileExists (print $dir $img)) }}
+    {{ if (fileExists (print "static/logos/" $img)) }}
       <div class="media-right">
-        <figure class="image is-96x96">
-          <a href="{{.Permalink }}">
-            <img src="{{ .Site.BaseURL }}logos/{{ $img }}" alt="{{ .File.BaseFileName }}">
-          </a>
-        </figure>
+        <a href="{{.Permalink }}">
+          <figure class="image is-96x96">
+            <img src="{{ .Site.BaseURL }}logos/{{ $img }}" alt="{{ .Title }}">
+          </figure>
+        </a>
       </div>
     {{ end }}
   </article>
