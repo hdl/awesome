@@ -52,6 +52,14 @@ menu:
     - identifier: "categories"
       name: "Categories"
       url: "/categories/"
+      weight: 1
     - identifier: "tags"
       name: "Tags"
       url: "/tags/"
+      weight: 2
+    - name: "Contributing"
+      url: "/contributing/"
+      weight: 3
+    - name: "About"
+      url: "/about/"
+      weight: 4
