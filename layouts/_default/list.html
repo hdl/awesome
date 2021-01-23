@@ -2,17 +2,12 @@
 {{ range .Pages }}
 <div class="box">
   <article class="media">
-    <!--
-    <div class="media-left">
-      <figure class="image is-64x64">
-        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
-      </figure>
-    </div>
-    -->
     <div class="media-content">
       <div class="content">
         <p>
-          <a href="{{.Permalink }}" class="title is-size-5"><strong>{{ .Title }}</strong></a>{{ with .Params.Author }} <small>@ {{ delimit . ", " }}</small>{{ end }}<br>
+          <a href="{{.Permalink }}" class="title is-size-5"><strong>{{ .Title }}</strong></a>
+          {{ with .Params.Author }} <small>@ {{ delimit . ", " }}</small>{{ end }}
+          <br>
           {{.Description}}
         </p>
       </div>
@@ -20,10 +15,19 @@
         <div class="level-left">
           {{- partial "icons.html" . -}}
         </div>
-        <div class="level-right">
-        </div>
       </nav>
     </div>
+    {{ $dir := "static/logos/" }}
+    {{ $img := lower (print .File.BaseFileName ".png") }}
+    {{ if (fileExists (print $dir $img)) }}
+      <div class="media-right">
+        <figure class="image is-96x96">
+          <a href="{{.Permalink }}">
+            <img src="{{ .Site.BaseURL }}logos/{{ $img }}" alt="{{ .File.BaseFileName }}">
+          </a>
+        </figure>
+      </div>
+    {{ end }}
   </article>
 </div>
 {{ end }}
