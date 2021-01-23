@@ -16,7 +16,7 @@
       {{ $img := lower (print .File.BaseFileName ".png") }}
       {{ if (fileExists (print "static/logos/" $img)) }}
       <figure class="image is-128x128">
-        <img src="{{ .Site.BaseURL }}logos/{{ $img }}" alt="{{ .Title }}">
+        <img src="{{ .Site.BaseURL }}/logos/{{ $img }}" alt="{{ .Title }}">
       </figure>
       {{ end }}
     </div>
