@@ -4,13 +4,20 @@ description: "A library of free, open-source and platform independent IP cores"
 authors: []
 links:
   gh: VLSI-EDA/PoC
+  docs: https://poc-library.readthedocs.io/en/latest
+categories: [
+  "Cores",
+  "Cores:Library"
+]
 tags: [
   "library",
   "ip-core",
   "vhdl",
 ]
-categories: [
-  "Libraries:IP Core Libraries"
+active:
+  from: 2014
+licenses: [
+  "Apache-2.0"
 ]
 talk: 26
 ---
