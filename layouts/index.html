@@ -22,22 +22,27 @@
 
 {{ define "main" }}
 <div class="section">
-  <div class="notification is-warning">
+  <div class="notification">
     <p>
       <b>
-        This repository is in a very early planning phase, and it was uploaded in order to gather feedback from the community. We encourage users/contributors/collegues to open issues to bring up the matters for discussion before contributing modifications.
+        Welcome to Awesome HDL, a community effort for maintaining a curated list of resources for Hardware Description, such as
+        <a class="has-text-link" href="categories/tools">Tools</a>,
+        <a class="has-text-link" href="categories/frameworks">Frameworks</a>,
+        <a class="has-text-link" href="categories/coressingle">IP Cores</a>,
+        <a class="has-text-link" href="categories/coreslibrary">Libraries</a>,
+        and <a class="has-text-link" href="items">more</a>!
+        Read all <a class="has-text-link" href="about">about</a> it and see <a class="is-text has-text-link" href="about#how-to-contribute">how to contribute</a>.
       </b>
     </p>
   </div>
 </div>
 <div class="section">
-<div class="tile is-ancestor">
+<div class="tile is-ancestor has-text-centered">
   <div class="tile is-vertical is-12">
     <div class="tile">
       <div class="tile is-parent">
         <a href="{{ ($.Site.GetPage "taxonomy" "categories").Permalink }}" class="tile is-child notification is-primary">
           <p class="title">Categories</p>
-
           <p class="subtitle">Curated mid-sized taxonomy</p>
         </a>
       </div>
@@ -53,6 +58,23 @@
           <p class="subtitle">No filter</p>
         </a>
       </div>
+    </div>
+
+    <div class="tile">
+      {{ if ($.Site.GetPage "section" "boards") }}
+      <div class="tile is-parent">
+        <a href="{{ ($.Site.GetPage "section" "boards").Permalink }}" class="tile is-child notification has-background-grey-dark has-text-white">
+          <p class="title">Boards</p>
+        </a>
+      </div>
+      {{ end }}
+      {{ if ($.Site.GetPage "section" "glossary") }}
+      <div class="tile is-parent">
+        <a href="{{ ($.Site.GetPage "section" "glossary").Permalink }}" class="tile is-child notification has-background-grey-dark has-text-white">
+          <p class="title">Glossary</p>
+        </a>
+      </div>
+      {{ end }}
     </div>
   </div>
 </div>
