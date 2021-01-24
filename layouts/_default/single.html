@@ -11,6 +11,9 @@
       <h3 class="subsubtitle">
         {{ with .Params.Authors }}Maintained by: {{ delimit . ", " }}{{ end }}
       </h3>
+      <h3 class="subsubtitle">
+        {{ with .Params.Licenses }}Licensed under: {{ delimit . ", " }}{{ end }}
+      </h3>
     </div>
     <div class="column is-narrow">
       {{ $img := lower (print .File.BaseFileName ".png") }}
@@ -30,10 +33,14 @@
     <!-- Left side -->
     <div class="level-left">
     {{- partial "icons.html" . -}}
-    {{ with .Date }}
+    {{ with .Params.Active }}
     <span class="level-item">
-      <time datetime='{{ .Format "2006-01-02T15:04:05Z07:00" }}'>
-        First released on {{ .Format "Jan 02, 2006" }}
+      <time>
+        {{ if .To }}
+          from {{ .From }} to {{ .To }}
+        {{ else }}
+          since {{ .From }}
+        {{ end }}
       </time>
     </span>
     {{ end }}
