@@ -15,6 +15,7 @@ params:
   categories:
     "Boards": ""
     "Conferences": ""
+    "Cores": ""
     "Cores:Collection": "collections containing multiple IP cores"
     "Cores:Library": "libraries containing multiple IP cores"
     "Cores:Single": "single IP core"
