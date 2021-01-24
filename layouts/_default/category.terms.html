@@ -14,7 +14,7 @@
             <li><a href="{{ .Permalink }}"><strong>{{ index (last 1 $crumbs) 0 }}</strong></a></li>
           </ul>
           <ul>
-            <li>{{ index $cats (lower .Title) }}</li>
+            <li class="has-text-grey is-size-7">{{ index $cats (lower .Title) }}</li>
           </ul>
         </nav>
       </div>
