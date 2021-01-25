@@ -1,4 +1,4 @@
-name: 'site'
+name: Site
 
 on:
     push:
@@ -7,40 +7,38 @@ on:
       - cron: '0 0 * * 5'
 
 jobs:
-  site:
+
+  Site:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+
+    - uses: actions/checkout@v2
       with:
         submodules: recursive
-    - name: Get Hugo and Theme
+
+    - name: Get Hugo
       run: |
-        curl -fsSL https://github.com/gohugoio/hugo/releases/download/v0.62.1/hugo_extended_0.62.1_Linux-64bit.tar.gz | sudo tar xzf - -C /usr/local/bin hugo
+        curl -fsSL https://github.com/gohugoio/hugo/releases/download/v0.80.0/hugo_extended_0.80.0_Linux-64bit.tar.gz | sudo tar xzf - -C /usr/local/bin hugo
         sudo chmod +x /usr/local/bin/hugo
-    - name: Build site
-      run: |
         hugo version
-        hugo
+
+    - name: Build site
+      run: hugo
+
     - uses: actions/upload-artifact@master
       with:
         name: site
         path: public
-    - name: 'publish site to gh-pages'
+
+    - name: Publish site to gh-pages
       if: github.event_name != 'pull_request' && github.repository == 'hdl/awesome'
-      env:
-        GH_DEPKEY: ${{ secrets.GHA_DEPLOY_KEY }}
       run: |
         cd public/
         touch .nojekyll
         git init
+        cp ../.git/config ./.git/config
         git add .
         git config --local user.email "push@gha"
         git config --local user.name "GHA"
         git commit -a -m "update ${{ github.sha }}"
-        git remote add origin "git@github.com:${{ github.repository }}"
-        eval `ssh-agent -t 60 -s`
-        echo "$GH_DEPKEY" | ssh-add -
-        mkdir -p ~/.ssh/
-        ssh-keyscan github.com >> ~/.ssh/known_hosts
         git push -u origin +HEAD:gh-pages
-        ssh-agent -k
