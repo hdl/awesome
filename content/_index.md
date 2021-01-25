@@ -7,4 +7,4 @@ title: Home
 [IP Core](categories/cores) [Libraries](categories/coreslibrary) and [Collections](categories/corescollection),
 [Frameworks](categories/frameworks)
 and [more](items)!
-Read all [about](about) it and see [how to contribute](about#how-to-contribute).**
+Read all [about](about) it and see [how to contribute](about#contributing).**
