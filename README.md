@@ -15,6 +15,12 @@ A curated list of awesome tools, frameworks, IP cores, libraries, and more!
 
 If you miss any project, check the [issues and pull requests](https://github.com/HDL/awesome/issues?utf8=%E2%9C%93&q=) of this repo. Some proposals might be kept on hold until they get enough reaction from the community. Should it still be missing, open a [Pull Request](https://github.com/HDL/awesome/compare)! See [CONTRIBUTING](.github/CONTRIBUTING.md) for guidelines about how to clasify new projects.
 
+> **Disclaimer:**
+> All third party trademarks (including logos and icons) referenced by hdl/awesome remain the property of their respective owners.
+> Unless specifically identified as such, hdl/awesome's use of third party trademarks does not indicate any relationship, sponsorship, or endorsement between the hdl organisation and the owners of these trademarks.
+> All references by hdl/awesome to third party trademarks are to identify the corresponding third party projects and/or services and intended to constitute nominative fair use under applicable trademark laws.
+> Please, open an [issue](https://github.com/hdl/awesome/issues/new) or [join the chat](https://gitter.im/hdl/community) for discussing trademark issues.
+
 ## References
 
 This repository was created on 2020/02/02 to merge the content of the following existing lists:
