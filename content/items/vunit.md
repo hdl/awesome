@@ -30,7 +30,14 @@ talk: 38
 
 <!--more-->
 
-Based partially on OSVVM.
+VUnit includes:
 
-- Written In: VHDL/Python
+- A library and test configuration API (Python).
+- A simulator interfacing module (API), and a test management plumbing written in Python and HDL (VHDL and System Verilog).
+- Multiple optional HDL libraries providing utilities for verification (checks, communication, VCs/BFMs, etc.).
+- A customizable CLI for integration into ad-hoc workflows and CI services.
+
+[OSVVM]({{< ref "/items/osvvm" >}} "OSVVM") and [JSON-for-VHDL]({{< ref "/items/json-for-vhdl" >}} "JSON-for-VHDL") are submodules of VUnit. The former provides randomization features, and the latter allows passing arbitrarily complex generics from Python to the HDL testbenches.
+
+- Written In: Python/VHDL/System Verilog
 - Write Testbenches In: VHDL/System Verilog
