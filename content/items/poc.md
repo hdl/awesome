@@ -37,3 +37,7 @@ Various simulation and synthesis tool chains are supported to interoperate with
 PoC. To generalize all supported free and commercial vendor tool chains, PoC is
 shipped with a Python based infrastructure to offer a command line based
 frontend.
+
+References:
+
+- [pyIPCMI]({{< ref "/items/pyipcmi" >}} "pyIPCMI")
