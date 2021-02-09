@@ -11,7 +11,7 @@ tags: [
   "vhdl",
   "vivado",
 ]
-talk: 33
+talk: 122
 ---
 
 This is a long description...

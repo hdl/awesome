@@ -8,7 +8,7 @@ tags: [
   "synthesis",
   "vhdl",
 ]
-talk: 23
+talk: 140
 ---
 
 This is a long description...

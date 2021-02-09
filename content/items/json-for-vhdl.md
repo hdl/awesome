@@ -22,7 +22,7 @@ active:
 licenses: [
   "Apache-2.0"
 ]
-talk: 94
+talk: 104
 ---
 
 JSON-for-VHDL is a library to parse and query JSON data structures in VHDL. The complete functionality is included in a single synthesizable VHDL package, without special dependencies.

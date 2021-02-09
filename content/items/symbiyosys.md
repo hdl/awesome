@@ -9,7 +9,7 @@ tags: [
   "verification",
   "formal",
 ]
-talk: 32
+talk: 114
 ---
 
 *"SymbiYosis a front-end driver program for Yosys-based formal hardware

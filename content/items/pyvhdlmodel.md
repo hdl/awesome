@@ -13,7 +13,7 @@ tags: [
   "python",
   "vhdl",
 ]
-talk: 57
+talk: 108
 ---
 
 # Main Goals

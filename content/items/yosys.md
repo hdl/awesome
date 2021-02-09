@@ -9,7 +9,7 @@ tags: [
   "synthesis",
   "verilog",
 ]
-talk: 40
+talk: 111
 ---
 
 This is a long description...

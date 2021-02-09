@@ -19,7 +19,7 @@ active:
 licenses: [
   "Apache-2.0"
 ]
-talk: 26
+talk: 102
 ---
 
 PoC - “Pile of Cores” provides implementations for often required hardware

@@ -23,7 +23,7 @@ licenses: [
 ]
 active:
   from: 2003
-talk: 35
+talk: 110
 ---
 
 Verilator is "the fastest free Verilog HDL simulator". From a verification

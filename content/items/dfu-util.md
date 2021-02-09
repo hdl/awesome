@@ -5,7 +5,7 @@ authors: []
 links:
   web: http://dfu-util.sourceforge.net/
 tags: []
-talk: 44
+talk: 162
 ---
 
 This is a long description...

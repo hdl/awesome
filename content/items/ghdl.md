@@ -24,7 +24,7 @@ licenses: [
 ]
 active:
   from: 2002
-talk: 7
+talk: 100
 ---
 
 Open-source analyzer, compiler, simulator and (experimental) synthesizer for VHDL, a Hardware Description Language (HDL). GHDL is not an interpreter: it allows you to analyse and elaborate sources to generate machine code from your design. Native program execution is the only way for high speed simulation.

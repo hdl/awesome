@@ -25,7 +25,7 @@ active:
 licenses: [
   "Apache-2.0"
 ]
-talk: 8
+talk: 146
 ---
 
 *"Chisel adds hardware construction primitives to the Scala programming language, providing designers with the power of a modern programming language to write complex, parameterizable circuit generators that produce synthesizable Verilog. This generator methodology enables the creation of re-usable components and libraries, such as the FIFO queue and arbiters in the Chisel Standard Library, raising the level of abstraction in design while retaining fine-grained control."*

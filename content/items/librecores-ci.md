@@ -14,7 +14,7 @@ categories: [
 ]
 active:
   from: 2016
-talk: 71
+talk: 152
 ---
 
 *"LibreCores CI is a service, which provides Continuous Integration of projects being hosted on LibreCores. The objective of the service is to improve the contributor experience and to increase trust to projects by providing automated testing and health metrics of the projects.*"

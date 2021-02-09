@@ -14,7 +14,7 @@ tags: [
 categories: [
   "Frameworks"
 ]
-talk: 9
+talk: 107
 ---
 
 *"cocotb is a coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python."*

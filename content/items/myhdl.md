@@ -22,7 +22,7 @@ active:
 licenses: [
   "LGPL-2.1-or-later"
 ]
-talk: 91
+talk: 150
 ---
 
 *"MyHDL turns Python into a hardware description and verification language, providing hardware engineers with the power of the Python ecosystem."*

@@ -29,7 +29,7 @@ active:
 licenses: [
   "GPL-3.0-or-later"
 ]
-talk: 65
+talk: 130
 ---
 
 *"

@@ -5,7 +5,7 @@ authors: []
 links:
   web: https://www.kicad.org/
 tags: []
-talk: 49
+talk: 112
 ---
 
 This is a long description...

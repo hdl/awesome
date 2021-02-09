@@ -56,7 +56,7 @@ active:
 licenses: [
   "BSD-2-Clause"
 ]
-talk: 63
+talk: 154
 ---
 
 *"Edalize is a Python Library for interacting with EDA tools. It can create project files for supported tools and run them in batch or GUI mode (where supported)."*

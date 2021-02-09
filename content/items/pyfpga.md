@@ -30,7 +30,7 @@ active:
 licenses: [
   "GPL-3.0-or-later"
 ]
-talk: 58
+talk: 127
 ---
 
 PyFPGA is a Python Class for vendor-independent FPGA development.

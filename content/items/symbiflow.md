@@ -7,7 +7,7 @@ links:
   gh: SymbiFlow
   web: https://symbiflow.github.io
 tags: []
-talk: 80
+talk: 129
 ---
 
 "*SymbiFlow is a fully open source toolchain for the development of FPGAs of multiple vendors. Currently, it targets the Xilinx 7-Series, Lattice iCE40, Lattice ECP5 FPGAs, QuickLogic EOS S3 and is gradually being expanded to provide a comprehensive end-to-end FPGA synthesis flow.*"

@@ -22,7 +22,7 @@ active:
 licenses: [
   "Apache-2.0"
 ]
-talk: 68
+talk: 128
 ---
 
 *"SVUnit is an open-source test framework for ASIC and FPGA developers writing Verilog/SystemVerilog code. SVUnit is automated, fast, lightweight and easy to use making it the only SystemVerilog test framework in existence suited to both design and verification engineers that aspire to high quality code and low bug rates."*

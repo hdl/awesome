@@ -23,7 +23,7 @@ licenses: [
   "LGPL-3.0-or-later",
   "MIT"
 ]
-talk: 92
+talk: 147
 ---
 
 *"SpinalHDL is an open source high-level hardware description language. It can be used as an alternative to VHDL or Verilog and has several advantages over them."*

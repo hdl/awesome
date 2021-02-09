@@ -16,7 +16,7 @@ tags: [
 ]
 active:
   from: 1999
-talk: 67
+talk: 126
 ---
 
 *"OpenCores is the most prominent online community for the development of gateware IP (Intellectual Properties) Cores. It is the place where such cores are shared and promoted in the spirit of Free and Open Source collaboration."*

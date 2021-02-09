@@ -1,5 +1,5 @@
 ---
-title: "pyVHDLParser"
+title: pyVHDLParser
 description: "A token-stream based parser for VHDL-2008 creating a document object model (DOM)."
 authors:
   - Patrick Lehmann
@@ -11,7 +11,7 @@ tags: [
   "parser",
   "vhdl",
 ]
-talk: 30
+talk: 121
 ---
 
 # Main Goals
