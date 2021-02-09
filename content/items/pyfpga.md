@@ -42,3 +42,7 @@ It allows using a single project file and programmatically executing synthesis, 
 * Consumes fewer system resources than GUI based workflows.
 
 Also, some command-line helpers are provided, for quick tests or small projects.
+
+References:
+
+- pyFPGA is the continuation of a previous proyect from 2015 ([fpga_helpers](https://github.com/INTI-CMNB-FPGA/fpga_helpers)).

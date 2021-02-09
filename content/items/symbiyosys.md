@@ -1,13 +1,19 @@
 ---
 title: "SymbiYosys (sby)"
 description: "Front-end driver program for Yosys-based formal hardware verification flows"
-authors: []
+authors:
+  - Claire Xenia Wolf
 links:
   web: https://symbiyosys.rtfd.io
   gh: YosysHQ/SymbiYosys
 tags: [
   "verification",
   "formal",
+]
+active:
+  from: 2016
+licenses: [
+  "ISC"
 ]
 talk: 114
 ---
@@ -28,3 +34,7 @@ source synthesis tool) and one or more formal reasoning engines (listed
 - Written In: Python
 - Write Assertions In: Verilog/SystemVerilog Assertions (SVA)
 - Supports: Formal verification of correctness properties.
+
+References:
+
+- You can use [Mutation Cover with Yosys (MCY) ](https://github.com/YosysHQ/mcy) in top of SBY, useful to improve testbench coverage.

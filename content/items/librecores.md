@@ -27,4 +27,5 @@ Digital devices are the basic building blocks of electronic systems. Such device
 References:
 
 - In 2015, the core active users of [OpenCores]({{< ref "/items/opencores" >}} "OpenCores") established the independent *FOSSi Foundation*, who creates LibreCores.
+- The [FOSSi Foundation](https://www.fossi-foundation.org) also provides a monthly newsletter called [El Correo Libre](https://www.fossi-foundation.org/ecl) (provided in English language, despite the name).
 - See also [LibreCores-CI]({{< ref "/items/librecores-ci" >}} "LibreCores-CI").
