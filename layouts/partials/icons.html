@@ -1,30 +1,39 @@
-{{ with .Params.Links }}
-  {{ with .Web }}
-    <a class="level-item" href="{{ . }}" rel="noopener" target="_blank">
+{{ range $key, $value := .Params.Links }}
+
+  {{ $prefix := "" }}
+  {{ $icon := "" }}
+  {{ if eq $key "bb" }}
+    {{ $prefix = "https://bitbucket.org/" }}
+    {{ $icon = "bitbucket" }}
+  {{ else if eq $key "gh" }}
+    {{ $prefix = "https://github.com/" }}
+    {{ $icon = "github" }}
+  {{ else if eq $key "gl" }}
+    {{ $prefix = "https://gitlab.com/" }}
+    {{ $icon = "gitlab" }}
+  {{ else if eq $key "sf" }}
+    {{ $prefix = "https://sourceforge.net/projects/" }}
+    {{ $icon = "fire" }}
+  {{ else if eq $key "docs" }}
+    {{ $icon = "book-open-page-variant" }}
+  {{ else if eq $key "git" }}
+    {{ $icon = "git" }}
+  {{ else if eq $key "scm" }}
+    {{ $icon = "source-repository" }}
+  {{ else }}
+    {{ $icon = "web" }}
+  {{ end }}
+
+  {{ if not (isset $value -1) }} <!-- if not an array -->
+    {{ $value = slice $value }} <!-- convert to an array -->
+  {{ end }}
+
+  {{ range $value }} <!-- always used as array-->
+    <a class="level-item" href="{{ $prefix }}{{ .}}" rel="noopener" target="_blank">
       <span class="icon">
-        <img alt="" src='{{ (resources.Get (printf "icons/svg/%s.svg" "web")).Permalink }}'>
+        <img alt="" src='{{ (resources.Get (printf "icons/svg/%s.svg" $icon)).Permalink }}'>
       </span>
     </a>
   {{ end }}
-  {{ with .Docs }}
-    <a class="level-item" href="{{ . }}" rel="noopener" target="_blank">
-      <span class="icon">
-        <img alt="" src='{{ (resources.Get (printf "icons/svg/%s.svg" "book-open-page-variant")).Permalink }}'>
-      </span>
-    </a>
-  {{ end }}
-  {{ with .Gh }}
-    <a class="level-item" href="https://github.com/{{ . }}" rel="noopener" target="_blank">
-      <span class="icon">
-        <img alt="" src='{{ (resources.Get (printf "icons/svg/%s.svg" "github")).Permalink }}'>
-      </span>
-    </a>
-  {{ end }}
-  {{ with .Gl }}
-    <a class="level-item" href="https://gitlab.com/{{ . }}" rel="noopener" target="_blank">
-      <span class="icon">
-        <img alt="" src='{{ (resources.Get (printf "icons/svg/%s.svg" "gitlab")).Permalink }}'>
-      </span>
-    </a>
-  {{ end }}
+
 {{ end }}
