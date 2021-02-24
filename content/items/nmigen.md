@@ -1,11 +1,11 @@
 ---
-title: migen
-description: A Python toolbox for building complex digital hardware
+title: nMigen
+description: A refreshed Python toolbox for building complex digital hardware
 authors:
-  - "M-Labs Limited"
+  - "whitequark"
 links:
-  gh: m-labs/migen
-  web: https://m-labs.hk/migen
+  gh: nmigen/nmigen
+  web: https://nmigen.info/nmigen
 categories: [
   "Languages",
   "Frameworks"
@@ -17,11 +17,11 @@ tags: [
   "RTL"
 ]
 active:
-  from: 2011
+  from: 2018
 licenses: [
   "BSD-2-Clause"
 ]
-talk: 165
+talk:
 ---
 
 *"Despite being faster than schematics entry, hardware design with Verilog and VHDL remains tedious and inefficient for several reasons. The event-driven model introduces issues and manual coding that are unnecessary for synchronous circuits \[...\]. To address those issues, we have developed the Migen FHDL, a library that replaces the event-driven paradigm with the notions of combinatorial and synchronous statements, has arithmetic rules that make integers always behave like mathematical integers, and most importantly allows the design's logic to be constructed by a Python program."*
@@ -31,9 +31,5 @@ talk: 165
 nMigen is *"A refreshed Python toolbox for building complex digital hardware"*, which first commit dates at late 2018.
 
 {{< note >}}
-There is a dispute between M-Labs and whitequark about the _ownership_ of the brand nMigen. Most of the codebase of nMigen was written by whitequark and the upstream is [nmigen/nmigen](https://github.com/nmigen/nmigen). However, there is a fork in [m-labs/nmigen](https://github.com/m-labs/nmigen) and M-Labs claims the brand as being based on Migen (see [nmigen.org](https://nmigen.org/)).
-{{< /note >}}
-
-{{< note >}}
-[LiteX]({{< ref "/items/litex" >}} "LiteX") is based on Migen. However, multiple modifications were done and LiteX is currently an independent ecosystem.
+There is a dispute between M-Labs and whitequark about the _ownership_ of the brand nMigen. Most of the codebase of nMigen was written by whitequark and the upstream is [nmigen/nmigen](https://github.com/nmigen/nmigen). However, there is a fork in [m-labs/nmigen](https://github.com/m-labs/nmigen) and M-Labs claims the brand as being based on [Migen]({{< ref "/items/migen" >}} "Migen") (see [nmigen.org](https://nmigen.org/)).
 {{< /note >}}
