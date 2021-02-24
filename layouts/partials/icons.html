@@ -24,16 +24,17 @@
     {{ $icon = "web" }}
   {{ end }}
 
-  {{ if not (isset $value -1) }} <!-- if not an array -->
-    {{ $value = slice $value }} <!-- convert to an array -->
-  {{ end }}
-
-  {{ range $value }} <!-- always used as array-->
-    <a class="level-item" href="{{ $prefix }}{{ .}}" rel="noopener" target="_blank">
+  {{ if not (eq $value nil) }} <!-- if field not empty -->
+    {{ if not (isset $value -1) }} <!-- if not an array -->
+      {{ $value = slice $value }} <!-- convert to an array -->
+    {{ end }}
+    {{ range $value }} <!-- always used as array-->
+    <a class="level-item" href="{{ $prefix }}{{ . }}" rel="noopener" target="_blank">
       <span class="icon">
-        <img alt="" src='{{ (resources.Get (printf "icons/svg/%s.svg" $icon)).Permalink }}'>
+        <img title="{{ $key }}: {{ . }}" src='{{ (resources.Get (printf "icons/svg/%s.svg" $icon)).Permalink }}'>
       </span>
     </a>
+    {{ end }}
   {{ end }}
 
 {{ end }}
