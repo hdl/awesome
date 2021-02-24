@@ -11,9 +11,13 @@ authors:
   - <AUTHOR2>
   - <AUTHORN>
 links:
+# Each of the following fields can optionally be a list
   gh?: "<USER>/<PROJECT>"
   gl?: "<USER>/<PROJECT>"
   bb?: "<USER>/<PROJECT>"
+  sf?: "<PROJECT>"
+  git?: "<URL>"
+  scm?: "<URL>"
   web?: "<WEBSITE_LINK>"
   docs?: "<DOCUMENTATION_LINK>"
 tags:
