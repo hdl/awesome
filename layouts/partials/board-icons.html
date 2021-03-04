@@ -1,0 +1,7 @@
+{{ range .Params.Doc }}
+  <a class="level-item" href="{{ . }}" rel="noopener" target="_blank">
+    <span class="icon">
+      <img title="doc: {{ . }}" src='{{ (resources.Get "icons/svg/book-open-page-variant.svg").Permalink }}'>
+    </span>
+  </a>
+{{ end }}

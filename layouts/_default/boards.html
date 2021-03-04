@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{ range .Pages }}
+<div class="box">
+  <article class="media">
+    <div class="media-content">
+      <div class="content">
+        <p>
+          <a href="{{ .Params.Ref }}" class="title is-size-5"><strong>{{ .Params.Label }}</strong></a>
+          {{ with .Params.Device }} <small>@ {{ . }}</small>{{ end }}
+        </p>
+      </div>
+      <nav class="level is-mobile">
+        <div class="level-left">
+          {{- partial "board-icons.html" . -}}
+        </div>
+      </nav>
+    </div>
+    {{ $img := print .File.BaseFileName ".png" }}
+    {{ if (fileExists (print "static/boards/" $img)) }}
+      <div class="media-right">
+        <a width="96px" href="{{ .Site.BaseURL }}/boards/{{ $img }}">
+          <img width="96px" src="{{ .Site.BaseURL }}/boards/{{ $img }}" alt="{{ .Title }}">
+        </a>
+      </div>
+    {{ end }}
+  </article>
+</div>
+{{ end }}
+{{ end }}
