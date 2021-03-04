@@ -17,11 +17,14 @@ jobs:
       with:
         submodules: recursive
 
-    - name: Get Hugo
+    - name: Get Hugo and hdl/constraints
       run: |
         curl -fsSL https://github.com/gohugoio/hugo/releases/download/v0.80.0/hugo_extended_0.80.0_Linux-64bit.tar.gz | sudo tar xzf - -C /usr/local/bin hugo
         sudo chmod +x /usr/local/bin/hugo
         hugo version
+
+        git clone https://github.com/hdl/constraints ../constraints
+        python3 constraints.py
 
     - name: Build site
       run: hugo
