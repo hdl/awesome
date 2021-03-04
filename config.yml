@@ -58,6 +58,10 @@ menu:
       name: "Tags"
       url: "/tags/"
       weight: 2
+    - identifier: "boards"
+      name: "Boards"
+      url: "/boards/"
+      weight: 3
     - name: "About"
       url: "/about/"
-      weight: 3
+      weight: 4
