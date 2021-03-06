@@ -15,19 +15,17 @@ A curated list of awesome tools, frameworks, IP cores, libraries, and more!
 
 If you miss any project, check the [issues and pull requests](https://github.com/HDL/awesome/issues?utf8=%E2%9C%93&q=) of this repo. Some proposals might be kept on hold until they get enough reaction from the community. Should it still be missing, open a [Pull Request](https://github.com/HDL/awesome/compare)! See [CONTRIBUTING](.github/CONTRIBUTING.md) for guidelines about how to clasify new projects.
 
-> **Disclaimer:**
-> All third party trademarks (including logos and icons) and images referenced by hdl/awesome remain the property of their respective owners.
-> Unless specifically identified as such, hdl/awesome's use of third party trademarks and/or images does not indicate any relationship, sponsorship, or endorsement between the *hdl* organisation and the owners of these trademarks.
-> All references by hdl/awesome to third party trademarks and/or images are to identify the corresponding third party projects and/or services and intended to constitute nominative fair use under applicable trademark and copyright laws.
-> Please, open an [issue](https://github.com/hdl/awesome/issues/new) or [join the chat](https://gitter.im/hdl/community) for discussing trademark and/or copyright issues.
-
-## References
-
-This repository was created on 2020/02/02 to merge the content of the following existing lists:
+This repository was created on 2020/02/02 for hopefully merging the content of the following existing lists:
 
 - [vhdl/awesome-vhdl](https://github.com/vhdl/awesome-vhdl)
 - [drom/awesome-hdl](https://github.com/drom/awesome-hdl)
 - [fukatani/awesome-hdl](https://github.com/fukatani/awesome-hdl)
-- [ben-marshall/awesome-open-hardware-verification](https://github.com/ben-marshall/awesome-open-hardware-verification)
 
-Find other awesome lists: [github.com/topics/awesome-list](https://github.com/topics/awesome-list)
+Later, other awesome lists were added to the scope:
+
+- [ben-marshall/awesome-open-hardware-verification](https://github.com/ben-marshall/awesome-open-hardware-verification)
+- [kelu124/awesome-latticeFPGAs](https://github.com/kelu124/awesome-latticeFPGAs)
+
+However, adding items to hdl/awesome requires slightly more effort, because additional metadata is provided about each project. As a result, some projects from those awesome lists were not added yet.
+
+> **Note:** Find other awesome lists: [github.com/topics/awesome-list](https://github.com/topics/awesome-list)

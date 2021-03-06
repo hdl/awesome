@@ -2,6 +2,12 @@
 
 Contributions are welcome!
 
+> **Disclaimer:**
+> All third party trademarks (including logos and icons) and images referenced by hdl/awesome remain the property of their respective owners.
+> Unless specifically identified as such, hdl/awesome's use of third party trademarks and/or images does not indicate any relationship, sponsorship, or endorsement between the *hdl* organisation and the owners of these trademarks.
+> All references by hdl/awesome to third party trademarks and/or images are to identify the corresponding third party projects and/or services and intended to constitute nominative fair use under applicable trademark and copyright laws.
+> Please, open an [issue](https://github.com/hdl/awesome/issues/new) or [join the chat](https://gitter.im/hdl/community) for discussing trademark and/or copyright issues.
+
 ## Adding a resource
 
 Most awesome lists are written in a single long Markdown file (see [awesome-list](https://github.com/topics/awesome-list)). However, in this repository each resource is described in a separate Markdown file (see [content/items](../content/items)). The frontmatter is used to provide data about the resource, while the body can contain a long description. The prototype of the frontmatter is shown in [template.md](../template.md).
