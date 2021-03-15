@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FHDL on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/tags/fhdl/</link>
+    <description>Recent content in FHDL on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/tags/fhdl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>migen</title>
+      <link>https://hdl.github.io/awesome/items/migen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/migen/</guid>
+      <description>&amp;ldquo;Despite being faster than schematics entry, hardware design with Verilog and VHDL remains tedious and inefficient for several reasons. The event-driven model introduces issues and manual coding that are unnecessary for synchronous circuits [&amp;hellip;]. To address those issues, we have developed the Migen FHDL, a library that replaces the event-driven paradigm with the notions of combinatorial and synchronous statements, has arithmetic rules that make integers always behave like mathematical integers, and most importantly allows the design&amp;rsquo;s logic to be constructed by a Python program.</description>
+    </item>
+    
+    <item>
+      <title>nMigen</title>
+      <link>https://hdl.github.io/awesome/items/nmigen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/nmigen/</guid>
+      <description>&amp;ldquo;Despite being faster than schematics entry, hardware design with Verilog and VHDL remains tedious and inefficient for several reasons. The event-driven model introduces issues and manual coding that are unnecessary for synchronous circuits [&amp;hellip;]. To address those issues, we have developed the Migen FHDL, a library that replaces the event-driven paradigm with the notions of combinatorial and synchronous statements, has arithmetic rules that make integers always behave like mathematical integers, and most importantly allows the design&amp;rsquo;s logic to be constructed by a Python program.</description>
+    </item>
+    
+  </channel>
+</rss>

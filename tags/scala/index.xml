@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scala on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/tags/scala/</link>
+    <description>Recent content in scala on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/tags/scala/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chisel/FIRRTL Hardware Compiler Framework</title>
+      <link>https://hdl.github.io/awesome/items/chisel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/chisel/</guid>
+      <description>&amp;ldquo;Chisel adds hardware construction primitives to the Scala programming language, providing designers with the power of a modern programming language to write complex, parameterizable circuit generators that produce synthesizable Verilog. This generator methodology enables the creation of re-usable components and libraries, such as the FIFO queue and arbiters in the Chisel Standard Library, raising the level of abstraction in design while retaining fine-grained control.&amp;quot;
+ Currently, Chisel (Constructing Hardware in a Scala Embedded Language) is in its version 3 (first commit in 2015).</description>
+    </item>
+    
+    <item>
+      <title>SpinalHDL</title>
+      <link>https://hdl.github.io/awesome/items/spinalhdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/spinalhdl/</guid>
+      <description>&amp;ldquo;SpinalHDL is an open source high-level hardware description language. It can be used as an alternative to VHDL or Verilog and has several advantages over them.&amp;quot;</description>
+    </item>
+    
+  </channel>
+</rss>

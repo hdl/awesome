@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/tags/python/</link>
+    <description>Recent content in Python on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>migen</title>
+      <link>https://hdl.github.io/awesome/items/migen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/migen/</guid>
+      <description>&amp;ldquo;Despite being faster than schematics entry, hardware design with Verilog and VHDL remains tedious and inefficient for several reasons. The event-driven model introduces issues and manual coding that are unnecessary for synchronous circuits [&amp;hellip;]. To address those issues, we have developed the Migen FHDL, a library that replaces the event-driven paradigm with the notions of combinatorial and synchronous statements, has arithmetic rules that make integers always behave like mathematical integers, and most importantly allows the design&amp;rsquo;s logic to be constructed by a Python program.</description>
+    </item>
+    
+    <item>
+      <title>MyHDL</title>
+      <link>https://hdl.github.io/awesome/items/myhdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/myhdl/</guid>
+      <description>&amp;ldquo;MyHDL turns Python into a hardware description and verification language, providing hardware engineers with the power of the Python ecosystem.&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>nMigen</title>
+      <link>https://hdl.github.io/awesome/items/nmigen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/nmigen/</guid>
+      <description>&amp;ldquo;Despite being faster than schematics entry, hardware design with Verilog and VHDL remains tedious and inefficient for several reasons. The event-driven model introduces issues and manual coding that are unnecessary for synchronous circuits [&amp;hellip;]. To address those issues, we have developed the Migen FHDL, a library that replaces the event-driven paradigm with the notions of combinatorial and synchronous statements, has arithmetic rules that make integers always behave like mathematical integers, and most importantly allows the design&amp;rsquo;s logic to be constructed by a Python program.</description>
+    </item>
+    
+    <item>
+      <title>pyFPGA</title>
+      <link>https://hdl.github.io/awesome/items/pyfpga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pyfpga/</guid>
+      <description>PyFPGA is a Python Class for vendor-independent FPGA development. It allows using a single project file and programmatically executing synthesis, implementation, generation of bitstream and/or transference to supported boards.
+ The workflow is command-line centric. It&amp;rsquo;s friendly with Version Control Systems and Continuous Integration (CI). Allows reproducibility and repeatability. Consumes fewer system resources than GUI based workflows.  Also, some command-line helpers are provided, for quick tests or small projects.</description>
+    </item>
+    
+    <item>
+      <title>pyVHDLModel</title>
+      <link>https://hdl.github.io/awesome/items/pyvhdlmodel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pyvhdlmodel/</guid>
+      <description>Main Goals This Python package provides a unified abstract language model for VHDL. Projects reading from source files can derive own classes and implement additional logic to create a concrete language model for their tools.
+Projects consuming pre-processed VHDL data (parsed, analyzed or elaborated) can build higher level features and services on such a model, while supporting multiple frontends.
+Use Cases  High-level API for GHDL&amp;rsquo;s libghdl offered as Python package pyGHDL.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Languages on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/categories/languages/</link>
+    <description>Recent content in Languages on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/categories/languages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chisel/FIRRTL Hardware Compiler Framework</title>
+      <link>https://hdl.github.io/awesome/items/chisel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/chisel/</guid>
+      <description>&amp;ldquo;Chisel adds hardware construction primitives to the Scala programming language, providing designers with the power of a modern programming language to write complex, parameterizable circuit generators that produce synthesizable Verilog. This generator methodology enables the creation of re-usable components and libraries, such as the FIFO queue and arbiters in the Chisel Standard Library, raising the level of abstraction in design while retaining fine-grained control.&amp;quot;
+ Currently, Chisel (Constructing Hardware in a Scala Embedded Language) is in its version 3 (first commit in 2015).</description>
+    </item>
+    
+    <item>
+      <title>migen</title>
+      <link>https://hdl.github.io/awesome/items/migen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/migen/</guid>
+      <description>&amp;ldquo;Despite being faster than schematics entry, hardware design with Verilog and VHDL remains tedious and inefficient for several reasons. The event-driven model introduces issues and manual coding that are unnecessary for synchronous circuits [&amp;hellip;]. To address those issues, we have developed the Migen FHDL, a library that replaces the event-driven paradigm with the notions of combinatorial and synchronous statements, has arithmetic rules that make integers always behave like mathematical integers, and most importantly allows the design&amp;rsquo;s logic to be constructed by a Python program.</description>
+    </item>
+    
+    <item>
+      <title>MyHDL</title>
+      <link>https://hdl.github.io/awesome/items/myhdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/myhdl/</guid>
+      <description>&amp;ldquo;MyHDL turns Python into a hardware description and verification language, providing hardware engineers with the power of the Python ecosystem.&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>nMigen</title>
+      <link>https://hdl.github.io/awesome/items/nmigen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/nmigen/</guid>
+      <description>&amp;ldquo;Despite being faster than schematics entry, hardware design with Verilog and VHDL remains tedious and inefficient for several reasons. The event-driven model introduces issues and manual coding that are unnecessary for synchronous circuits [&amp;hellip;]. To address those issues, we have developed the Migen FHDL, a library that replaces the event-driven paradigm with the notions of combinatorial and synchronous statements, has arithmetic rules that make integers always behave like mathematical integers, and most importantly allows the design&amp;rsquo;s logic to be constructed by a Python program.</description>
+    </item>
+    
+    <item>
+      <title>Silice</title>
+      <link>https://hdl.github.io/awesome/items/silice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/silice/</guid>
+      <description>&amp;ldquo;Silice makes it possible to write algorithms for FPGAs in the same way we write them for processors: defining sequences of operations, subroutines that can be called, and using control flow statements such as while and break. At the same time, Silice lets you fully exploit the parallelism and niceties of FPGA architectures, describing operations and algorithms that run in parallel and are always active, as well as pipelines. Silice remains close to the hardware: nothing gets obfuscated away.</description>
+    </item>
+    
+    <item>
+      <title>SpinalHDL</title>
+      <link>https://hdl.github.io/awesome/items/spinalhdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/spinalhdl/</guid>
+      <description>&amp;ldquo;SpinalHDL is an open source high-level hardware description language. It can be used as an alternative to VHDL or Verilog and has several advantages over them.&amp;quot;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>formal on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/tags/formal/</link>
+    <description>Recent content in formal on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/tags/formal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>edalize</title>
+      <link>https://hdl.github.io/awesome/items/edalize/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/edalize/</guid>
+      <description>&amp;ldquo;Edalize is a Python Library for interacting with EDA tools. It can create project files for supported tools and run them in batch or GUI mode (where supported).&amp;quot;
+&amp;ldquo;All EDA tools such as Icarus, Yosys, ModelSim, Vivado, Verilator, GHDL, Quartus etc get input HDL files (Verilog and VHDL) and some tool-specific files (constraint files, memory initialization files, IP description files etc). Together with the files, perhaps a couple of Verilog defines, some top-level parameters/generics or some tool-specific options are set.</description>
+    </item>
+    
+    <item>
+      <title>SymbiYosys (sby)</title>
+      <link>https://hdl.github.io/awesome/items/symbiyosys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/symbiyosys/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;SymbiYosis a front-end driver program for Yosys-based formal hardware
+verification flows. SymbiYosys provides flows for the following formal tasks:
+Bounded verification of safety properties (assertions),
+Unbounded verification of safety properties,
+Generation of test benches from cover statements,
+Verification of liveness properties&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
