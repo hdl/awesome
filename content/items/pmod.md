@@ -23,6 +23,7 @@ Despite the main supplier of PMOD compliant peripherals being Digilent, several 
 - [muselab-tech.aliexpress.com](https://muselab-tech.aliexpress.com/store/5940159)
 - [icebreaker-fpga/icebreaker-pmod](https://github.com/icebreaker-fpga/icebreaker-pmod)
   - [docs.icebreaker-fpga.org/hardware/pmod](https://docs.icebreaker-fpga.org/hardware/pmod)
+- [TomKeddie/prj-pmod](https://github.com/TomKeddie/prj-pmod)
 
 {{< note >}}
 Most FPGA development [boards]({{< ref "/boards" >}} "boards") use PMOD connectors due to the otherwise widespread usage of 100 mil spaced pin-headers. For higher pin counts and/or higher frequencies, either [FMC](https://en.wikipedia.org/wiki/FPGA_Mezzanine_Card) or [SYZYGY](https://syzygyfpga.io) are used instead.
