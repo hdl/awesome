@@ -5,6 +5,7 @@ authors:
   - John Newall
 links:
   gh: j0ono0/pinout
+  docs: https://pinout.readthedocs.io/
 tags: []
 talk: 183
 ---
