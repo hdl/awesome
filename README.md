@@ -25,6 +25,7 @@ Later, other awesome lists were added to the scope:
 
 - [ben-marshall/awesome-open-hardware-verification](https://github.com/ben-marshall/awesome-open-hardware-verification)
 - [kelu124/awesome-latticeFPGAs](https://github.com/kelu124/awesome-latticeFPGAs)
+- [pkuzjx/eda-collection](https://github.com/pkuzjx/eda-collection)
 
 However, adding items to hdl/awesome requires slightly more effort, because additional metadata is provided about each project. As a result, some projects from those awesome lists were not added yet.
 
