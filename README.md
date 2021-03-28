@@ -26,6 +26,10 @@ Later, other awesome lists were added to the scope:
 - [ben-marshall/awesome-open-hardware-verification](https://github.com/ben-marshall/awesome-open-hardware-verification)
 - [kelu124/awesome-latticeFPGAs](https://github.com/kelu124/awesome-latticeFPGAs)
 - [pkuzjx/eda-collection](https://github.com/pkuzjx/eda-collection)
+- [Nic30/hdlConvertor#similar-projects](https://github.com/Nic30/hdlConvertor#similar-projects)
+- [Nic30/hwt#similar-projects](https://github.com/Nic30/hwt#similar-projects)
+- [Nic30/hwtLib#repositories-with-opensource-hw](https://github.com/Nic30/hwtLib#repositories-with-opensource-hw)
+- [HardwareIR/netlistDB#similar-libraries](https://github.com/HardwareIR/netlistDB#similar-libraries)
 
 However, adding items to hdl/awesome requires slightly more effort, because additional metadata is provided about each project. As a result, some projects from those awesome lists were not added yet.
 
