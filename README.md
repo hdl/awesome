@@ -30,6 +30,7 @@ Later, other awesome lists were added to the scope:
 - [Nic30/hwt#similar-projects](https://github.com/Nic30/hwt#similar-projects)
 - [Nic30/hwtLib#repositories-with-opensource-hw](https://github.com/Nic30/hwtLib#repositories-with-opensource-hw)
 - [HardwareIR/netlistDB#similar-libraries](https://github.com/HardwareIR/netlistDB#similar-libraries)
+- [rajesh-s/computer-engineering-resources](https://github.com/rajesh-s/computer-engineering-resources/tree/master/area_specific)
 
 However, adding items to hdl/awesome requires slightly more effort, because additional metadata is provided about each project. As a result, some projects from those awesome lists were not added yet.
 
