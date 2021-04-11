@@ -4,7 +4,7 @@ description: Open-source FPGA research and prototyping framework
 authors: []
 links:
   web: http://parallel.princeton.edu/prga/
-  gh: https://github.com/PrincetonUniversity/prga
+  gh: PrincetonUniversity/prga
 tags: []
 talk: 197
 ---
