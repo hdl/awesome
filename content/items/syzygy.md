@@ -6,6 +6,8 @@ links:
   web: https://syzygyfpga.io/
   docs: https://syzygyfpga.io/specification/
   gh: SYZYGYfpga
+categories:
+ - Boards
 tags: []
 talk: 180
 ---

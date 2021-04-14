@@ -4,6 +4,8 @@ description: Low frequency, low I/O pin count Peripheral Module interface specif
 authors: []
 links:
   doc: https://reference.digilentinc.com/reference/pmod/start
+categories:
+ - Boards
 tags: []
 talk: 178
 ---
