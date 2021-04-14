@@ -4,7 +4,7 @@ description: High-speed I/O functionality by taking inspiration from the PCI-Exp
 authors: []
 links:
   web: https://hdmi2usb.tv/tofe/
-  gh: imvideos/HDMI2USB-TOFE-kicad-template
+  gh: Timvideos/HDMI2USB-TOFE-kicad-template
 categories:
  - Boards
 tags: []
