@@ -32,14 +32,12 @@ licenses: [
 talk: 130
 ---
 
-*"
-A tool designed to help FPGA designers to manage and share their HDL code by automatically finding file dependencies, writing synthesis & simulation Makefiles, and fetching IP-Core libraries from remote repositories
+*"A tool designed to help FPGA designers to manage and share their HDL code by automatically finding file dependencies, writing synthesis & simulation Makefiles, and fetching IP-Core libraries from remote repositories*
 
-* Synthesis Makefile generation
-* Simulation Makefile generation
-* HDL parser and dependency solver
-* GIT/SVN Support
-* Multiple HDL Languages
-* Multiple Tools
-* Multiple Operating Systems
-"*
+* *Synthesis Makefile generation*
+* *Simulation Makefile generation*
+* *HDL parser and dependency solver*
+* *GIT/SVN Support*
+* *Multiple HDL Languages*
+* *Multiple Tools*
+* *Multiple Operating Systems"*
