@@ -1,0 +1,157 @@
+digraph G {
+
+  #splines=polyline; #curved
+  newrank=true;
+
+  subgraph cluster_lang {
+      rank=same
+      "BlueSpec"
+      "Chisel"
+      "Clash"
+      "Litex"
+      "migen"
+      "nmigen"
+      "SpinalHDL"
+  }
+
+  subgraph cluster_vtr {
+      "ODIN-II"
+      "vqm2blif"
+      "VTR"
+  }
+
+  subgraph cluster_hdl {
+      { rank=same
+        "VHDL (raw)"
+        "Verilog (raw)"
+        "System Verilog"
+      }
+      "VHDL (net)"
+      "UHDM"
+  }
+
+  subgraph cluster_vendor {
+    rank=same
+    "ISE"
+    "Vivado"
+    "Quartus"
+    "VQM"
+  }
+
+  subgraph cluster_wave {
+    rank=same
+    {
+      "VCD"
+      "GHW"
+      "FST"
+    }
+    "GTKWave"
+  }
+
+  subgraph cluster_devices {
+      rank=same
+      "Gowin"
+      "Intel Cyclone"
+      "Lattice ICE40"
+      "Lattice ECP5"
+      "QuickLogic"
+      "Xilinx 7"
+      "Xilinx UltraScale"
+      "Xilinx 6"
+      "Microchip ATF15xx CPLD"
+  }
+
+  subgraph cluster_prj {
+      rank=same
+      "apicula"
+      "prjbureau"
+      "prjmistral"
+      "icestorm"
+      "prjtrellis"
+      "prjxray"
+      "RapidWright"
+      "FASM"
+  }
+
+  subgraph cluster_yosys {
+      { rank=same
+        "GHDL (plugin)"
+        "Verific (plugin)"
+      }
+      "Yosys ABC"
+      { rank=same
+        "JSON (synth)"
+        "EDIF (Vivado)"
+        "EDIF (ISE)"
+        "Verilog (synth)"
+      }
+  }
+
+  subgraph cluster_sim {
+      rank=same
+      "GHDL (sim)"
+      "iverilog"
+      "Verilator"
+      "ModelSim/QuestaSim"
+      "Riviera PRO"
+  }
+
+  "nmigen" -> "Yosys ABC";
+  { "Clash", "SpinalHDL"} -> { "VHDL (raw)", "Verilog (raw)" };
+  { "Chisel", "BlueSpec", "migen", "Litex" } -> "Verilog (raw)";
+
+  "VHDL (raw)" -> "GHDL (synth)" -> "VHDL (net)";
+  "System Verilog" -> "Surelog" -> "UHDM";
+  { "Verilog (raw)", "GHDL (plugin)", "Verific (plugin)", "UHDM" } -> "Yosys ABC";
+
+  {
+    "VHDL (raw)"
+    "VHDL (net)"
+  } -> {
+    "GHDL (sim)"
+    "GHDL (plugin)"
+    "Verific (plugin)"
+    "ISE"
+    "Vivado"
+    "Quartus"
+    "ModelSim/QuestaSim"
+    "Riviera PRO"
+  };
+
+  "GHDL (sim)" -> { "VCD", "GHW", "FST" } -> "GTKWave";
+
+  {
+    "Verilog (raw)"
+    "Verilog (synth)"
+    "Verilog (impl)"
+    "System Verilog"
+  } -> {
+    "Verilator"
+    "iverilog"
+    "ModelSim/QuestaSim"
+    "Riviera PRO"
+  } -> "VCD";
+
+  "Yosys ABC" -> { "Verilog (synth)", "JSON (synth)", "(E)BLIF", "EDIF (Vivado)", "EDIF (ISE)", "VQM" };
+  "JSON (synth)" -> { "nextpnr", "Symbiyosys" };
+
+  "EDIF (Vivado)" -> "Vivado" -> { "Xilinx 7", "Xilinx UltraScale" };
+  "EDIF (ISE)" -> "ISE" -> "Xilinx 6";
+
+  { "Verilog (raw)", "Verilog (synth)" } -> "ODIN-II" -> "(E)BLIF";
+
+  "Quartus" -> "VQM" -> "vqm2blif" -> "(E)BLIF" -> "VTR" -> "FASM";
+
+  "FASM" -> { "QuickLogic", "Xilinx 7", "Verilog (impl)" };
+
+  "nextpnr" -> { "icestorm", "prjtrellis", "prjxray", "prjuray", "prjmistral", "apicula", "RapidWright", "prjbureau" };
+
+  "icestorm" -> "Lattice ICE40";
+  "apicula" -> "Gowin";
+  "prjtrellis" -> "Lattice ECP5";
+  "prjmistral" -> "Intel Cyclone";
+  "prjbureau" -> "Microchip ATF15xx CPLD";
+  "prjxray" -> "Xilinx 7";
+
+  "RapidWright" -> "Vivado";
+}
