@@ -10,7 +10,7 @@ tags:
   - code-generator
   - verilog
   - vhdl
-  - high-level synthesis
+  - high-level-synthesis
 categories:
   - Tools
 licenses:
