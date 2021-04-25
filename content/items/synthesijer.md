@@ -11,6 +11,8 @@ tags:
   - verilog
   - vhdl
   - high-level-synthesis
+  - java
+  - scala
 categories:
   - Tools
 licenses:
