@@ -1,6 +1,6 @@
 ---
 title: "Synthesijer"
-description: "A compiler from Java to VHDL/Verilog-HDL."
+description: "A compiler from Java to VHDL/Verilog-HDL"
 authors:
   - Takefumi Miyoshi
 links:
@@ -26,7 +26,7 @@ Synthesijer is a high-level synthesis tool, which generates VHDL and Verilog HDL
 
 For example, prepare the following Java program,
 
-```
+```java
 /* Test.java */
 public class Test{
     public boolean flag;
