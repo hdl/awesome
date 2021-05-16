@@ -29,7 +29,6 @@ RgGen has following features:
 * Generate following source files for CSR automatically from register map specifications
     * SystemVerilog/Verilog RTL
     * VHDL RTL
-        * Now implementing
     * UVM register model (RAL)
     * Markdown documents
 * Register map specifications can be written in following format
