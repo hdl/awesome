@@ -11,3 +11,5 @@ talk: 141
 This is a long description...
 <!--more-->
 ... about renode.
+
+- [Renode public presentation](https://docs.google.com/presentation/d/1j0gjI4pVkgF9CWvxaxr5XuCKakEB25YX2n-iFxlYKnE/)
