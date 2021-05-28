@@ -3,8 +3,9 @@ title: scopehal
 description: Oscilloscope / logic analyzer platform abstraction library
 authors: []
 links:
-  gh: azonenberg/scopehal
-  gh: azonenberg/scopehal-apps
+  gh:
+    - azonenberg/scopehal
+    - azonenberg/scopehal-apps
 tags: []
 talk: 149
 ---
