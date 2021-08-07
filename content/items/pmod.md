@@ -35,3 +35,7 @@ It is also common to find baseboards or adapters for allowing connection of PMOD
 
 - [TomKeddie/prj-pmod-feather](https://github.com/TomKeddie/prj-pmod-feather): a Feather plate/wing to allow PMOD usage.
 - [MuseLab-Tech SODIMM baseboard](https://es.aliexpress.com/item/1005001686186007.html): provides 6 dual PMODs.
+
+References:
+
+- [PMOD Pins](https://docs.google.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo): spreadsheet with pinouts of multiple PMOD headers and boards.
