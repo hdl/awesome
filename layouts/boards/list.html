@@ -5,7 +5,7 @@
     <div class="media-content">
       <div class="content">
         <p>
-          <a href="{{ .Params.Ref }}" class="title is-size-5"><strong>{{ .Params.Label }}</strong></a>
+          <a href="{{.Permalink }}" class="title is-size-5"><strong>{{ .Params.Label }}</strong></a>
           {{ with .Params.Device }} <small>@ {{ . }}</small>{{ end }}
         </p>
       </div>

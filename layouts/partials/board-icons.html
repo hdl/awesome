@@ -1,3 +1,8 @@
+<a class="level-item" href="{{ .Params.Ref }}" rel="noopener" target="_blank">
+  <span class="icon">
+    <img title="data: {{ .Params.Ref }}" src='{{ (resources.Get "icons/svg/database.svg").Permalink }}'>
+  </span>
+</a>
 {{ range .Params.Doc }}
   <a class="level-item" href="{{ . }}" rel="noopener" target="_blank">
     <span class="icon">
