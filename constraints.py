@@ -9,43 +9,43 @@ _content = _root / "content"
 for item in (_constraints / "board").glob("**/*.yml"):
 
     if item.name != "info.yml":
-        _name = item.stem
-        _prefix = ".todo/"
-        _suffix = ".yml"
-        print("·", _name)
+        name = item.stem
+        prefix = ".todo/"
+        suffix = ".yml"
+        print("·", name)
     else:
-        _name = item.parent.name
-        _prefix = ""
-        _suffix = ""
-        print("-", _name)
+        name = item.parent.name
+        prefix = ""
+        suffix = ""
+        print("-", name)
 
-    with (_content / "boards" / (_name + ".md")).open("w") as wfptr:
+    with (_content / "boards" / (name + ".md")).open("w") as wfptr:
         wfptr.write("---\n")
         wfptr.write(item.read_text())
         wfptr.write(
             "ref: https://github.com/hdl/constraints/tree/main/board/%s%s%s\n"
-            % (_prefix, _name, _suffix)
+            % (prefix, name, suffix)
         )
         wfptr.write("---\n")
 
 for item in (_constraints / "board").glob("**/*.md"):
 
     if item.name != "README.md":
-        _name = item.stem
-        _prefix = ".todo/"
-        _suffix = ".md"
-        print("·", _name)
+        name = item.stem
+        prefix = ".todo/"
+        suffix = ".md"
+        print("·", name)
     else:
-        _name = item.parent.name
-        _prefix = ""
-        _suffix = ""
-        print("-", _name)
+        name = item.parent.name
+        prefix = ""
+        suffix = ""
+        print("-", name)
 
     with item.open("r") as rfptr:
-        with (_content / "boards" / (_name + ".md")).open("w") as wfptr:
+        with (_content / "boards" / (name + ".md")).open("w") as wfptr:
             for line in [
                 "---",
                 "ref: https://github.com/hdl/constraints/tree/main/board/%s%s%s"
-                % (_prefix, _name, _suffix),
+                % (prefix, name, suffix),
             ] + rfptr.read().splitlines()[1:]:
                 wfptr.writelines("{}\n".format(line))
