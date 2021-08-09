@@ -5,10 +5,12 @@
       <h1 class="title">
         {{ .Params.Label }}
       </h1>
-
       <h2 class="subtitle">
-        {{ .Params.Device }}{{ with .Params.Package }} @ {{ . }}{{end}}
+        {{ .Description }}
       </h2>
+      <h3 class="subsubtitle">
+        {{ .Params.Device }}{{ with .Params.Package }} @ {{ . }}{{end}}
+      </h3>
       {{ with index .Params "part-number" }}
       <h3 class="subsubtitle">
         Part number: {{ . }}
@@ -17,6 +19,11 @@
       {{ with .Params.Licenses }}
       <h3 class="subsubtitle">
         Licensed under: {{ delimit . ", " }}
+      </h3>
+      {{ end }}
+      {{ with .Params.Prog }}
+      <h3 class="subsubtitle">
+        Programmers: {{ delimit . ", " }}
       </h3>
       {{ end }}
     </div>
