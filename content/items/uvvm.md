@@ -12,6 +12,9 @@ tags: [
 categories: [
   "Frameworks"
 ]
+licenses: [
+  "Apache-2.0"
+]
 ---
 
 *"Open Source VHDL Verification Library and Methodology - for very efficient VHDL verification of FPGA and ASIC - resulting also in a significant quality improvement"*
@@ -20,7 +23,6 @@ categories: [
 
 There is also an accompanying library of user contributed VIPs: [UVVM_Community_VIPs](https://github.com/UVVM/UVVM_Community_VIPs).
 
-- License: [MIT](https://github.com/UVVM/UVVM/blob/master/LICENSE)
 - Written In: VHDL
 - Write Testbenches In: VHDL
 - Supports: [a bunch of stuff](https://github.com/UVVM/UVVM#main-features)
