@@ -4,6 +4,7 @@ description: A suite of SystemVerilog developer tools, including a parser, style
 authors: []
 links:
   gh: google/verible
+  web: https://chipsalliance.github.io/verible/
 tags: []
 talk: 145
 ---
