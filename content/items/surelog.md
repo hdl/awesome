@@ -3,7 +3,7 @@ title: Surelog
 description: SystemVerilog 2017 Pre-processor, Parser, Elaborator, UHDM Compiler
 authors: []
 links:
-  gh: alainmarcel/Surelog
+  gh: chipsalliance/Surelog
 tags: []
 talk: 157
 ---
