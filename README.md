@@ -32,6 +32,7 @@ Later, other awesome lists were added to the scope:
 - [HardwareIR/netlistDB#similar-libraries](https://github.com/HardwareIR/netlistDB#similar-libraries)
 - [rajesh-s/computer-engineering-resources](https://github.com/rajesh-s/computer-engineering-resources/tree/master/area_specific)
 - [architecnologia.es/herramientas-electronica](https://architecnologia.es/herramientas-electronica)
+- [semiwiki.com: EDA Open Source and Free Tools Wiki](https://semiwiki.com/wikis/industry-wikis/eda-open-source-tools-wiki/)
 
 However, adding items to hdl/awesome requires slightly more effort, because additional metadata is provided about each project. As a result, some projects from those awesome lists were not added yet.
 
