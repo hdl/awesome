@@ -12,7 +12,7 @@ categories: [
   "Tools:Synthesizers"
 ]
 tags: [
-  "analiser",
+  "analyser",
   "compiler",
   "simulator",
   "synthesis",
