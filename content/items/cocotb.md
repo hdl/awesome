@@ -4,7 +4,7 @@ description: "A coroutine based cosimulation library for writing VHDL and Verilo
 authors: []
 links:
   gh: cocotb/cocotb
-  docs: https://cocotb.rtfd.io
+  docs: https://docs.cocotb.org
 tags: [
   "verification",
   "vhdl",
@@ -22,5 +22,5 @@ talk: 107
 <!--more-->
 
 - Licence: [Revised BSD License](https://github.com/cocotb/cocotb/blob/master/LICENSE)
-- Implemented in: Python
-- Write Testbeches In: Python
+- Implemented in: Python, C++
+- Write testbenches in: Python
