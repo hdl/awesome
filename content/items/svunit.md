@@ -6,7 +6,7 @@ authors:
   - Neil Johnson
   - Bryan Morris 
 links:
-  gh: tudortimi/svunit
+  gh: svunit/svunit
   docs: http://agilesoc.com/open-source-projects/svunit
 categories: [
   "Frameworks",
