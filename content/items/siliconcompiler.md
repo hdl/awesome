@@ -5,7 +5,7 @@ authors: []
 links:
   gh: siliconcompiler/siliconcompiler
   web: https://www.siliconcompiler.com/
-  doc: https://docs.siliconcompiler.com/
+  docs: https://docs.siliconcompiler.com/
 tags: []
 talk: 224
 ---
