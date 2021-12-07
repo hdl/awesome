@@ -3,8 +3,10 @@ title: SVUnit
 description: SVUnit is an open-source test framework for ASIC and FPGA developers writing Verilog/SystemVerilog code.
 authors:
   - Tudor Timisescu
+  - Neil Johnson
+  - Bryan Morris 
 links:
-  gh: tudortimi/svunit
+  gh: svunit/svunit
   docs: http://agilesoc.com/open-source-projects/svunit
 categories: [
   "Frameworks",
