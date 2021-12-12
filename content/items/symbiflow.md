@@ -14,11 +14,15 @@ talk: 129
 
 <!--more-->
 
+- [symbiflow-arch-defs: SymbiFlow Architecture Definitions + Tooling (Xilinx 7 Series, QuickLogic)](https://github.com/SymbiFlow/symbiflow-arch-defs)
+- [yosys-symbiflow-plugins: plugins for Yosys developed as part of the SymbiFlow project](https://github.com/SymbiFlow/yosys-symbiflow-plugins)
+- [sphinxcontrib-hdl-diagrams: Sphinx Extension which generates various types of diagrams from HDL code](https://github.com/SymbiFlow/sphinxcontrib-hdl-diagrams)
+- [symbiflow-bitstream-viewer: tool for graphically viewing FPGA bitstream files and their connection to FASM features](https://github.com/SymbiFlow/symbiflow-bitstream-viewer)
+
 References:
 
 - [Project X-Ray (Xilinx 7 Series tooling)]({{< ref "/items/prjxray" >}} "Project X-Ray (Xilinx 7 Series tooling)")
 - [Project U-Ray (Xilinx Ultrascale Series tooling)]({{< ref "/items/prjuray" >}} "Project U-Ray (Xilinx Ultrascale Series tooling)")
-- [SymbiFlow Architecture Definitions + Tooling (Xilinx 7 Series, QuickLogic)](https://github.com/SymbiFlow/symbiflow-arch-defs)
 - [Yosys]({{< ref "/items/yosys" >}} "Yosys")
 - [NextPNR]({{< ref "/items/nextpnr" >}} "NextPNR")
 - [Verilog to Routing]({{< ref "/items/vtr" >}} "Verilog to Routing")
