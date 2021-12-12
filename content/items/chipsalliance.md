@@ -5,7 +5,7 @@ links:
   gh: CHIPSAlliance
   web: https://chipsalliance.org/
 tags: []
-talk: 129
+talk: 225
 ---
 
 "*The CHIPS Alliance develops high-quality, open source hardware designs relevant to silicon devices and FPGAs. By creating an open and collaborative environment, CHIPS Alliance shares resources to lower the cost of development. Companies and individuals can work together to develop open source CPUs, various peripherals, and complex IP blocks. CHIPS Alliance is open to all organizations who are interested in collaborating on open source hardware or software tools to accelerate the creation of more efficient and innovative chip designs.*"
