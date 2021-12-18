@@ -3,7 +3,7 @@ title: "Yosys Open SYnthesis Suite (Yosys)"
 description: "A framework for RTL synthesis"
 authors: []
 links:
-  web: http://www.clifford.at/yosys
+  web: https://yosyshq.net/yosys/
   gh: YosysHQ/yosys
 tags: [
   "synthesis",
