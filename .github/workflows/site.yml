@@ -23,8 +23,8 @@ jobs:
         sudo chmod +x /usr/local/bin/hugo
         hugo version
 
-        git clone https://github.com/hdl/constraints ../constraints
-        python3 constraints.py
+        git clone https://github.com/hdl/constraints
+        python3 constraints/constraints.py content
 
     - name: Build site
       run: hugo
