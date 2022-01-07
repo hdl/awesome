@@ -11,7 +11,7 @@
       <h3 class="subsubtitle">
         {{ .Params.Device }}{{ with .Params.Package }} @ {{ . }}{{end}}
       </h3>
-      {{ with index .Params "part-number" }}
+      {{ with .Params.PartNumber }}
       <h3 class="subsubtitle">
         Part number: {{ . }}
       </h3>
