@@ -5,6 +5,7 @@ authors: []
 links:
   gh: cocotb/cocotb
   docs: https://docs.cocotb.org
+  web: https://www.cocotb.org/
 tags: [
   "verification",
   "vhdl",
