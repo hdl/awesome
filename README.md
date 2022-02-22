@@ -33,6 +33,7 @@ Later, other awesome lists were added to the scope:
 - [rajesh-s/computer-engineering-resources](https://github.com/rajesh-s/computer-engineering-resources/tree/master/area_specific)
 - [architecnologia.es/herramientas-electronica](https://architecnologia.es/herramientas-electronica)
 - [semiwiki.com: EDA Open Source and Free Tools Wiki](https://semiwiki.com/wikis/industry-wikis/eda-open-source-tools-wiki/)
+- [suarezvictor/suarezvictor.github.io: storeroom/README.md](https://github.com/suarezvictor/suarezvictor.github.io/blob/master/storeroom/README.md)
 
 However, adding items to hdl/awesome requires slightly more effort, because additional metadata is provided about each project. As a result, some projects from those awesome lists were not added yet.
 
