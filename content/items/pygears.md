@@ -24,7 +24,6 @@ active:
 licenses: [
   "MIT License"
 ]
-talk: 228
 ---
 
 PyGears is a hardware description language (HDL) implemented as a Python library focused on module composition and synchronization. Main goals of PyGears can be summed up as:
