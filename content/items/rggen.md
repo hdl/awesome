@@ -40,6 +40,10 @@ RgGen has following features:
     * Ruby
     * SystemRDL
         * Now planning
+* Support standard bus protocols
+    * AMBA APB
+    * AMBA AXI4-Lite
+    * Wishbone
 * Plugin feature
     * Add your own bit field types
     * Add your own bus protocol
