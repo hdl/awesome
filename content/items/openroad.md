@@ -4,6 +4,7 @@ description: 24-hour, No-Human-In-The-Loop layout design for SOC, Package and PC
 authors: []
 links:
   web: https://theopenroadproject.org/
+  gh: The-OpenROAD-Project
 tags: []
 talk: 115
 ---
