@@ -31,6 +31,7 @@ RgGen has following features:
     * VHDL RTL
     * UVM register model (RAL)
     * Markdown documents
+    * C header file
 * Register map specifications can be written in following format
     * YAML
     * JSON
