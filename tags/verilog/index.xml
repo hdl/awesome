@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>verilog on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/tags/verilog/</link>
+    <description>Recent content in verilog on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/tags/verilog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chisel/FIRRTL Hardware Compiler Framework</title>
+      <link>https://hdl.github.io/awesome/items/chisel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/chisel/</guid>
+      <description>&amp;ldquo;Chisel adds hardware construction primitives to the Scala programming language, providing designers with the power of a modern programming language to write complex, parameterizable circuit generators that produce synthesizable Verilog. This generator methodology enables the creation of re-usable components and libraries, such as the FIFO queue and arbiters in the Chisel Standard Library, raising the level of abstraction in design while retaining fine-grained control.&amp;quot;
+ Currently, Chisel (Constructing Hardware in a Scala Embedded Language) is in its version 3 (first commit in 2015).</description>
+    </item>
+    
+    <item>
+      <title>Coroutine Co-simulation Test Bench (cocotb)</title>
+      <link>https://hdl.github.io/awesome/items/cocotb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/cocotb/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;cocotb is a coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>edalize</title>
+      <link>https://hdl.github.io/awesome/items/edalize/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/edalize/</guid>
+      <description>&amp;ldquo;Edalize is a Python Library for interacting with EDA tools. It can create project files for supported tools and run them in batch or GUI mode (where supported).&amp;quot;
+&amp;ldquo;All EDA tools such as Icarus, Yosys, ModelSim, Vivado, Verilator, GHDL, Quartus etc get input HDL files (Verilog and VHDL) and some tool-specific files (constraint files, memory initialization files, IP description files etc). Together with the files, perhaps a couple of Verilog defines, some top-level parameters/generics or some tool-specific options are set.</description>
+    </item>
+    
+    <item>
+      <title>Electronic Design Automation Abstraction (EDA²)</title>
+      <link>https://hdl.github.io/awesome/items/edaa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/edaa/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Electronic Design Automation Abstraction (EDA²) is a conceptual model for characterising the abstraction layers in Electronic Design Automation (EDA) projects based on Hardware Description Languages (HDLs). Its goal is the interoperability of diverse tools and languages, through documented interfaces.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;EDA² aims to provide reference Python implementations and schemas of commonly needed software layers for (open source) EDA tooling/frameworks to reduce code duplication and reinventions of existing algorithms and data structures. Each layer solves the problems at a different abstraction level, hence, they are organised as an stack.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>fusesoc</title>
+      <link>https://hdl.github.io/awesome/items/fusesoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/fusesoc/</guid>
+      <description>FuseSoC is a package manager and a set of build tools for HDL code. Its main purpose is to increase reuse of IP cores and be an aid for creating, building and simulating SoC solutions. FuseSoC provides utilities for:
+ reusing existing cores creating compile-time or run-time configurations running regression tests against multiple simulators porting designs to new targets leting other projects use your code  References:
+ fusesoc-cores: FuseSoC standard core library tiny-cores: Collection of assorted small cores edalize was part of FuseSoC FuseSoc is the continuation of ORPSoC  </description>
+    </item>
+    
+    <item>
+      <title>Icarus Verilog (iverilog)</title>
+      <link>https://hdl.github.io/awesome/items/iverilog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/iverilog/</guid>
+      <description>Icarus Verilog is a Verilog simulation and synthesis tool. It operates as a compiler, compiling source code written in Verilog (IEEE-1364) into some target format. For batch simulation, the compiler can generate an intermediate form called vvp assembly. This intermediate form is executed by the vvp command. For synthesis, the compiler generates netlists in the desired format.</description>
+    </item>
+    
+    <item>
+      <title>LibreCores</title>
+      <link>https://hdl.github.io/awesome/items/librecores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/librecores/</guid>
+      <description>&amp;quot; Digital devices are the basic building blocks of electronic systems. Such devices are for application-specific devices like a USB controller. But also programmable System-on-Chip are found in embedded systems. Both tastes of a chip are composed of basic building blocks, so called IP (Intellectual Property) cores. A &amp;ldquo;LibreCore&amp;rdquo; is such an IP core that is created and distributed in the open source spirit. And LibreCores.org is like a good neighborhood pub, a place to meet the community and —most importantly— find such cores.</description>
+    </item>
+    
+    <item>
+      <title>OpenCores</title>
+      <link>https://hdl.github.io/awesome/items/opencores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/opencores/</guid>
+      <description>&amp;ldquo;OpenCores is the most prominent online community for the development of gateware IP (Intellectual Properties) Cores. It is the place where such cores are shared and promoted in the spirit of Free and Open Source collaboration.&amp;quot;
+&amp;ldquo;The OpenCores portal hosts the source code for different digital gateware projects and supports the users’ community providing a platform for listing, presenting, and managing such projects; together with version control systems for sources management.</description>
+    </item>
+    
+    <item>
+      <title>pyFPGA</title>
+      <link>https://hdl.github.io/awesome/items/pyfpga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pyfpga/</guid>
+      <description>PyFPGA is a Python Class for vendor-independent FPGA development. It allows using a single project file and programmatically executing synthesis, implementation, generation of bitstream and/or transference to supported boards.
+ The workflow is command-line centric. It&amp;rsquo;s friendly with Version Control Systems and Continuous Integration (CI). Allows reproducibility and repeatability. Consumes fewer system resources than GUI based workflows.  Also, some command-line helpers are provided, for quick tests or small projects.</description>
+    </item>
+    
+    <item>
+      <title>RgGen</title>
+      <link>https://hdl.github.io/awesome/items/rggen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/rggen/</guid>
+      <description>RgGen is a code generator tool to generate source files for configuration and status registers (CSR) from human readable register map specifications.
+RgGen has following features:
+ Generate following source files for CSR automatically from register map specifications  SystemVerilog/Verilog RTL VHDL RTL UVM register model (RAL) Markdown documents C header file   Register map specifications can be written in following format  YAML JSON TOML Spreadsheet (xlsx/xls/ods/csv/tsv) SiFive DUH Ruby SystemRDL  Now planning     Support standard bus protocols  AMBA APB AMBA AXI4-Lite Wishbone   Plugin feature  Add your own bit field types Add your own bus protocol    </description>
+    </item>
+    
+    <item>
+      <title>Silice</title>
+      <link>https://hdl.github.io/awesome/items/silice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/silice/</guid>
+      <description>&amp;ldquo;Silice makes it possible to write algorithms for FPGAs in the same way we write them for processors: defining sequences of operations, subroutines that can be called, and using control flow statements such as while and break. At the same time, Silice lets you fully exploit the parallelism and niceties of FPGA architectures, describing operations and algorithms that run in parallel and are always active, as well as pipelines. Silice remains close to the hardware: nothing gets obfuscated away.</description>
+    </item>
+    
+    <item>
+      <title>SpinalHDL</title>
+      <link>https://hdl.github.io/awesome/items/spinalhdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/spinalhdl/</guid>
+      <description>&amp;ldquo;SpinalHDL is an open source high-level hardware description language. It can be used as an alternative to VHDL or Verilog and has several advantages over them.&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>SVUnit</title>
+      <link>https://hdl.github.io/awesome/items/svunit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/svunit/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;SVUnit is an open-source test framework for ASIC and FPGA developers writing Verilog/SystemVerilog code. SVUnit is automated, fast, lightweight and easy to use making it the only SystemVerilog test framework in existence suited to both design and verification engineers that aspire to high quality code and low bug rates.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Synthesijer</title>
+      <link>https://hdl.github.io/awesome/items/synthesijer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/synthesijer/</guid>
+      <description>Synthesijer is a high-level synthesis tool, which generates VHDL and Verilog HDL code from Java code. Synthesijer also provides a backend to generate VHDL/Verilog HDL, which helps to develop high-level synthesis tools and DSLs.
+For example, prepare the following Java program,
+/* Test.java */ public class Test{ public boolean flag; private int count = 0; public void run(){ while(true){ count++; if(count == 5000000){ count = 0; flag = !flag; } } } } and compile it with Synthesijer.</description>
+    </item>
+    
+    <item>
+      <title>verilator</title>
+      <link>https://hdl.github.io/awesome/items/verilator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/verilator/</guid>
+      <description>&lt;p&gt;Verilator is &amp;ldquo;the fastest free Verilog HDL simulator&amp;rdquo;. From a verification
+perspective it supports &lt;em&gt;line coverage&lt;/em&gt;, &lt;em&gt;signal toggle coverage&lt;/em&gt; and limited
+specification of &lt;em&gt;functional coverage&lt;/em&gt; using SystemVerilog Assertions.
+It also allows one to write testbenches in C++ or SystemC.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Verilog to Routing (VTR)</title>
+      <link>https://hdl.github.io/awesome/items/vtr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/vtr/</guid>
+      <description>&amp;ldquo;The Verilog-to-Routing (VTR) project is a world-wide collaborative effort to provide a open-source framework for conducting FPGA architecture and CAD research and development. The VTR design flow takes as input a Verilog description of a digital circuit, and a description of the target FPGA architecture.&amp;quot;
+It performs:
+ Elaboration &amp;amp; Synthesis (ODIN II) Logic Optimization &amp;amp; Technology Mapping (ABC) Packing, Placement, Routing &amp;amp; Timing Analysis (VPR)  &amp;ldquo;to generate FPGA speed and area results.</description>
+    </item>
+    
+    <item>
+      <title>Yosys Open SYnthesis Suite (Yosys)</title>
+      <link>https://hdl.github.io/awesome/items/yosys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/yosys/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

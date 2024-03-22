@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/categories/tools/</link>
+    <description>Recent content in Tools on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/categories/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>edalize</title>
+      <link>https://hdl.github.io/awesome/items/edalize/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/edalize/</guid>
+      <description>&amp;ldquo;Edalize is a Python Library for interacting with EDA tools. It can create project files for supported tools and run them in batch or GUI mode (where supported).&amp;quot;
+&amp;ldquo;All EDA tools such as Icarus, Yosys, ModelSim, Vivado, Verilator, GHDL, Quartus etc get input HDL files (Verilog and VHDL) and some tool-specific files (constraint files, memory initialization files, IP description files etc). Together with the files, perhaps a couple of Verilog defines, some top-level parameters/generics or some tool-specific options are set.</description>
+    </item>
+    
+    <item>
+      <title>fusesoc</title>
+      <link>https://hdl.github.io/awesome/items/fusesoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/fusesoc/</guid>
+      <description>FuseSoC is a package manager and a set of build tools for HDL code. Its main purpose is to increase reuse of IP cores and be an aid for creating, building and simulating SoC solutions. FuseSoC provides utilities for:
+ reusing existing cores creating compile-time or run-time configurations running regression tests against multiple simulators porting designs to new targets leting other projects use your code  References:
+ fusesoc-cores: FuseSoC standard core library tiny-cores: Collection of assorted small cores edalize was part of FuseSoC FuseSoc is the continuation of ORPSoC  </description>
+    </item>
+    
+    <item>
+      <title>GHDL</title>
+      <link>https://hdl.github.io/awesome/items/ghdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/ghdl/</guid>
+      <description>Open-source analyzer, compiler, simulator and (experimental) synthesizer for VHDL, a Hardware Description Language (HDL). GHDL is not an interpreter: it allows you to analyse and elaborate sources to generate machine code from your design. Native program execution is the only way for high speed simulation.
+Full support for the 1987, 1993, 2002 versions of the IEEE 1076 VHDL standard, and partial for the latest 2008 revision. Partial support of PSL. Can write waveforms to a GHW, VCD or FST file.</description>
+    </item>
+    
+    <item>
+      <title>GTKWave</title>
+      <link>https://hdl.github.io/awesome/items/gtkwave/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/gtkwave/</guid>
+      <description>GTKWave is a fully featured GTK+ based wave viewer for Unix and Win32 which reads LXT, LXT2, VZT, FST, and GHW files as well as standard Verilog VCD/EVCD files and allows their viewing.</description>
+    </item>
+    
+    <item>
+      <title>HDLmake</title>
+      <link>https://hdl.github.io/awesome/items/hdlmake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/hdlmake/</guid>
+      <description>&amp;ldquo;A tool designed to help FPGA designers to manage and share their HDL code by automatically finding file dependencies, writing synthesis &amp;amp; simulation Makefiles, and fetching IP-Core libraries from remote repositories
+ Synthesis Makefile generation Simulation Makefile generation HDL parser and dependency solver GIT/SVN Support Multiple HDL Languages Multiple Tools Multiple Operating Systems&amp;rdquo;  </description>
+    </item>
+    
+    <item>
+      <title>Icarus Verilog (iverilog)</title>
+      <link>https://hdl.github.io/awesome/items/iverilog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/iverilog/</guid>
+      <description>Icarus Verilog is a Verilog simulation and synthesis tool. It operates as a compiler, compiling source code written in Verilog (IEEE-1364) into some target format. For batch simulation, the compiler can generate an intermediate form called vvp assembly. This intermediate form is executed by the vvp command. For synthesis, the compiler generates netlists in the desired format.</description>
+    </item>
+    
+    <item>
+      <title>JSON-for-VHDL</title>
+      <link>https://hdl.github.io/awesome/items/json-for-vhdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/json-for-vhdl/</guid>
+      <description>JSON-for-VHDL is a library to parse and query JSON data structures in VHDL. The complete functionality is included in a single synthesizable VHDL package, without special dependencies.
+It allows reading JSON from files and/or from (optionally encoded) stringified JSON generics. It is included in VUnit, for passing generics for arbitrary complexity from Python to the testbeches.</description>
+    </item>
+    
+    <item>
+      <title>LATTE: Languages, Tools, and Techniques for Accelerator Design</title>
+      <link>https://hdl.github.io/awesome/items/latte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/latte/</guid>
+      <description>&amp;quot;LATTE is an ASPLOS workshop on applying programming languages and compilers techniques to generate hardware accelerators.&amp;quot;
+There is a GitHub repository with discussion threads for each paper.</description>
+    </item>
+    
+    <item>
+      <title>pyFPGA</title>
+      <link>https://hdl.github.io/awesome/items/pyfpga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pyfpga/</guid>
+      <description>PyFPGA is a Python Class for vendor-independent FPGA development. It allows using a single project file and programmatically executing synthesis, implementation, generation of bitstream and/or transference to supported boards.
+ The workflow is command-line centric. It&amp;rsquo;s friendly with Version Control Systems and Continuous Integration (CI). Allows reproducibility and repeatability. Consumes fewer system resources than GUI based workflows.  Also, some command-line helpers are provided, for quick tests or small projects.</description>
+    </item>
+    
+    <item>
+      <title>pyIPCMI</title>
+      <link>https://hdl.github.io/awesome/items/pyipcmi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pyipcmi/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RgGen</title>
+      <link>https://hdl.github.io/awesome/items/rggen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/rggen/</guid>
+      <description>RgGen is a code generator tool to generate source files for configuration and status registers (CSR) from human readable register map specifications.
+RgGen has following features:
+ Generate following source files for CSR automatically from register map specifications  SystemVerilog/Verilog RTL VHDL RTL UVM register model (RAL) Markdown documents C header file   Register map specifications can be written in following format  YAML JSON TOML Spreadsheet (xlsx/xls/ods/csv/tsv) SiFive DUH Ruby SystemRDL  Now planning     Support standard bus protocols  AMBA APB AMBA AXI4-Lite Wishbone   Plugin feature  Add your own bit field types Add your own bus protocol    </description>
+    </item>
+    
+    <item>
+      <title>Synthesijer</title>
+      <link>https://hdl.github.io/awesome/items/synthesijer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/synthesijer/</guid>
+      <description>Synthesijer is a high-level synthesis tool, which generates VHDL and Verilog HDL code from Java code. Synthesijer also provides a backend to generate VHDL/Verilog HDL, which helps to develop high-level synthesis tools and DSLs.
+For example, prepare the following Java program,
+/* Test.java */ public class Test{ public boolean flag; private int count = 0; public void run(){ while(true){ count++; if(count == 5000000){ count = 0; flag = !flag; } } } } and compile it with Synthesijer.</description>
+    </item>
+    
+    <item>
+      <title>verilator</title>
+      <link>https://hdl.github.io/awesome/items/verilator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/verilator/</guid>
+      <description>&lt;p&gt;Verilator is &amp;ldquo;the fastest free Verilog HDL simulator&amp;rdquo;. From a verification
+perspective it supports &lt;em&gt;line coverage&lt;/em&gt;, &lt;em&gt;signal toggle coverage&lt;/em&gt; and limited
+specification of &lt;em&gt;functional coverage&lt;/em&gt; using SystemVerilog Assertions.
+It also allows one to write testbenches in C++ or SystemC.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Verilog to Routing (VTR)</title>
+      <link>https://hdl.github.io/awesome/items/vtr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/vtr/</guid>
+      <description>&amp;ldquo;The Verilog-to-Routing (VTR) project is a world-wide collaborative effort to provide a open-source framework for conducting FPGA architecture and CAD research and development. The VTR design flow takes as input a Verilog description of a digital circuit, and a description of the target FPGA architecture.&amp;quot;
+It performs:
+ Elaboration &amp;amp; Synthesis (ODIN II) Logic Optimization &amp;amp; Technology Mapping (ABC) Packing, Placement, Routing &amp;amp; Timing Analysis (VPR)  &amp;ldquo;to generate FPGA speed and area results.</description>
+    </item>
+    
+    <item>
+      <title>Versatile Place and Route (VPR)</title>
+      <link>https://hdl.github.io/awesome/items/vpr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/vpr/</guid>
+      <description>&amp;ldquo;VPR (Versatile Place and Route) is an open source academic CAD tool designed for the exploration of new FPGA architectures and CAD algorithms, at the packing, placement and routing phases of the CAD flow [&amp;hellip;]. Since its public introduction, VPR has been used extensively in many academic projects partly because it is robust, well documented, easy-to-use, and can flexibly target a range of architectures.&amp;quot;
+&amp;ldquo;VPR takes, as input, a description of an FPGA architecture along with a technology-mapped user circuit.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gateware on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/tags/gateware/</link>
+    <description>Recent content in gateware on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/tags/gateware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenCores</title>
+      <link>https://hdl.github.io/awesome/items/opencores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/opencores/</guid>
+      <description>&amp;ldquo;OpenCores is the most prominent online community for the development of gateware IP (Intellectual Properties) Cores. It is the place where such cores are shared and promoted in the spirit of Free and Open Source collaboration.&amp;quot;
+&amp;ldquo;The OpenCores portal hosts the source code for different digital gateware projects and supports the users’ community providing a platform for listing, presenting, and managing such projects; together with version control systems for sources management.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/categories/</link>
+    <description>Recent content in Categories on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boards</title>
+      <link>https://hdl.github.io/awesome/categories/boards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/boards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conferences</title>
+      <link>https://hdl.github.io/awesome/categories/conferences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cores</title>
+      <link>https://hdl.github.io/awesome/categories/cores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/cores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cores:Collection</title>
+      <link>https://hdl.github.io/awesome/categories/corescollection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/corescollection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cores:Library</title>
+      <link>https://hdl.github.io/awesome/categories/coreslibrary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/coreslibrary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frameworks</title>
+      <link>https://hdl.github.io/awesome/categories/frameworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/frameworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frameworks:Verification</title>
+      <link>https://hdl.github.io/awesome/categories/frameworksverification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/frameworksverification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Languages</title>
+      <link>https://hdl.github.io/awesome/categories/languages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://hdl.github.io/awesome/categories/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources:Books</title>
+      <link>https://hdl.github.io/awesome/categories/resourcesbooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/resourcesbooks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources:Websites</title>
+      <link>https://hdl.github.io/awesome/categories/resourceswebsites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/resourceswebsites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Services:Continuous Integration</title>
+      <link>https://hdl.github.io/awesome/categories/servicescontinuous-integration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/servicescontinuous-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://hdl.github.io/awesome/categories/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools:Intermediate Representation</title>
+      <link>https://hdl.github.io/awesome/categories/toolsintermediate-representation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/toolsintermediate-representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools:Managers</title>
+      <link>https://hdl.github.io/awesome/categories/toolsmanagers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/toolsmanagers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools:Package Managers</title>
+      <link>https://hdl.github.io/awesome/categories/toolspackage-managers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/toolspackage-managers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools:PnRs</title>
+      <link>https://hdl.github.io/awesome/categories/toolspnrs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/toolspnrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools:Simulators</title>
+      <link>https://hdl.github.io/awesome/categories/toolssimulators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/toolssimulators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools:Synthesizers</title>
+      <link>https://hdl.github.io/awesome/categories/toolssynthesizers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/toolssynthesizers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools:Waveform Viewer</title>
+      <link>https://hdl.github.io/awesome/categories/toolswaveform-viewer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/toolswaveform-viewer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification</title>
+      <link>https://hdl.github.io/awesome/categories/verification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/categories/verification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

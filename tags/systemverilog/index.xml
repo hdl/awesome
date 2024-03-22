@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>systemverilog on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/tags/systemverilog/</link>
+    <description>Recent content in systemverilog on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/tags/systemverilog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coroutine Co-simulation Test Bench (cocotb)</title>
+      <link>https://hdl.github.io/awesome/items/cocotb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/cocotb/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;cocotb is a coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Electronic Design Automation Abstraction (EDA²)</title>
+      <link>https://hdl.github.io/awesome/items/edaa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/edaa/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Electronic Design Automation Abstraction (EDA²) is a conceptual model for characterising the abstraction layers in Electronic Design Automation (EDA) projects based on Hardware Description Languages (HDLs). Its goal is the interoperability of diverse tools and languages, through documented interfaces.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;EDA² aims to provide reference Python implementations and schemas of commonly needed software layers for (open source) EDA tooling/frameworks to reduce code duplication and reinventions of existing algorithms and data structures. Each layer solves the problems at a different abstraction level, hence, they are organised as an stack.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>hdlConvertor</title>
+      <link>https://hdl.github.io/awesome/items/hdlconvertor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/hdlconvertor/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RgGen</title>
+      <link>https://hdl.github.io/awesome/items/rggen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/rggen/</guid>
+      <description>RgGen is a code generator tool to generate source files for configuration and status registers (CSR) from human readable register map specifications.
+RgGen has following features:
+ Generate following source files for CSR automatically from register map specifications  SystemVerilog/Verilog RTL VHDL RTL UVM register model (RAL) Markdown documents C header file   Register map specifications can be written in following format  YAML JSON TOML Spreadsheet (xlsx/xls/ods/csv/tsv) SiFive DUH Ruby SystemRDL  Now planning     Support standard bus protocols  AMBA APB AMBA AXI4-Lite Wishbone   Plugin feature  Add your own bit field types Add your own bus protocol    </description>
+    </item>
+    
+    <item>
+      <title>SVUnit</title>
+      <link>https://hdl.github.io/awesome/items/svunit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/svunit/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;SVUnit is an open-source test framework for ASIC and FPGA developers writing Verilog/SystemVerilog code. SVUnit is automated, fast, lightweight and easy to use making it the only SystemVerilog test framework in existence suited to both design and verification engineers that aspire to high quality code and low bug rates.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>verilator</title>
+      <link>https://hdl.github.io/awesome/items/verilator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/verilator/</guid>
+      <description>&lt;p&gt;Verilator is &amp;ldquo;the fastest free Verilog HDL simulator&amp;rdquo;. From a verification
+perspective it supports &lt;em&gt;line coverage&lt;/em&gt;, &lt;em&gt;signal toggle coverage&lt;/em&gt; and limited
+specification of &lt;em&gt;functional coverage&lt;/em&gt; using SystemVerilog Assertions.
+It also allows one to write testbenches in C++ or SystemC.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VUnit</title>
+      <link>https://hdl.github.io/awesome/items/vunit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/vunit/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;VUnit is an open source unit testing framework for VHDL/SystemVerilog [&amp;hellip;]  It features the functionality needed to realize continuous and automated testing of your HDL code. VUnit doesn’t replace but rather complements traditional testing methodologies by supporting a “test early and often” approach through automation.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

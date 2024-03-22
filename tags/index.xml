@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/tags/</link>
+    <description>Recent content in Tags on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 28 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://hdl.github.io/awesome/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>parser</title>
+      <link>https://hdl.github.io/awesome/tags/parser/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/parser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>streaming</title>
+      <link>https://hdl.github.io/awesome/tags/streaming/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/streaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vhdl</title>
+      <link>https://hdl.github.io/awesome/tags/vhdl/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/vhdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ABC</title>
+      <link>https://hdl.github.io/awesome/tags/abc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/abc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>abstract</title>
+      <link>https://hdl.github.io/awesome/tags/abstract/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/abstract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>active-hdl</title>
+      <link>https://hdl.github.io/awesome/tags/active-hdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/active-hdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Altera</title>
+      <link>https://hdl.github.io/awesome/tags/altera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/altera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>analiser</title>
+      <link>https://hdl.github.io/awesome/tags/analiser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/analiser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>analyser</title>
+      <link>https://hdl.github.io/awesome/tags/analyser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/analyser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ascentlint</title>
+      <link>https://hdl.github.io/awesome/tags/ascentlint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/ascentlint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>https://hdl.github.io/awesome/tags/c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ci</title>
+      <link>https://hdl.github.io/awesome/tags/ci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLI</title>
+      <link>https://hdl.github.io/awesome/tags/cli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code-generator</title>
+      <link>https://hdl.github.io/awesome/tags/code-generator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/code-generator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>collection</title>
+      <link>https://hdl.github.io/awesome/tags/collection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>compiler</title>
+      <link>https://hdl.github.io/awesome/tags/compiler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/compiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>configuration</title>
+      <link>https://hdl.github.io/awesome/tags/configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>configuration-register</title>
+      <link>https://hdl.github.io/awesome/tags/configuration-register/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/configuration-register/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>csr</title>
+      <link>https://hdl.github.io/awesome/tags/csr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/csr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data-model</title>
+      <link>https://hdl.github.io/awesome/tags/data-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/data-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design</title>
+      <link>https://hdl.github.io/awesome/tags/design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diamond</title>
+      <link>https://hdl.github.io/awesome/tags/diamond/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/diamond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>documentation</title>
+      <link>https://hdl.github.io/awesome/tags/documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/documentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dom</title>
+      <link>https://hdl.github.io/awesome/tags/dom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/dom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EDA</title>
+      <link>https://hdl.github.io/awesome/tags/eda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>encode</title>
+      <link>https://hdl.github.io/awesome/tags/encode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/encode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FASM</title>
+      <link>https://hdl.github.io/awesome/tags/fasm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/fasm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FHDL</title>
+      <link>https://hdl.github.io/awesome/tags/fhdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/fhdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FIRRTL</title>
+      <link>https://hdl.github.io/awesome/tags/firrtl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/firrtl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>formal</title>
+      <link>https://hdl.github.io/awesome/tags/formal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fossi</title>
+      <link>https://hdl.github.io/awesome/tags/fossi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/fossi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPGA</title>
+      <link>https://hdl.github.io/awesome/tags/fpga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>framework</title>
+      <link>https://hdl.github.io/awesome/tags/framework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gateware</title>
+      <link>https://hdl.github.io/awesome/tags/gateware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/gateware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gds</title>
+      <link>https://hdl.github.io/awesome/tags/gds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/gds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>generator</title>
+      <link>https://hdl.github.io/awesome/tags/generator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/generator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>generics</title>
+      <link>https://hdl.github.io/awesome/tags/generics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/generics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ghdl</title>
+      <link>https://hdl.github.io/awesome/tags/ghdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/ghdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HDL</title>
+      <link>https://hdl.github.io/awesome/tags/hdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/hdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>high-level-synthesis</title>
+      <link>https://hdl.github.io/awesome/tags/high-level-synthesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/high-level-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HLS</title>
+      <link>https://hdl.github.io/awesome/tags/hls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/hls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>icarus</title>
+      <link>https://hdl.github.io/awesome/tags/icarus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/icarus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>icestorm</title>
+      <link>https://hdl.github.io/awesome/tags/icestorm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/icestorm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://hdl.github.io/awesome/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intel</title>
+      <link>https://hdl.github.io/awesome/tags/intel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/intel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ip-core</title>
+      <link>https://hdl.github.io/awesome/tags/ip-core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/ip-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ise</title>
+      <link>https://hdl.github.io/awesome/tags/ise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/ise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>isim</title>
+      <link>https://hdl.github.io/awesome/tags/isim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/isim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iverilog</title>
+      <link>https://hdl.github.io/awesome/tags/iverilog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/iverilog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://hdl.github.io/awesome/tags/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JSON</title>
+      <link>https://hdl.github.io/awesome/tags/json/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language-model</title>
+      <link>https://hdl.github.io/awesome/tags/language-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/language-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language-server</title>
+      <link>https://hdl.github.io/awesome/tags/language-server/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/language-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lattice</title>
+      <link>https://hdl.github.io/awesome/tags/lattice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/lattice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>libero</title>
+      <link>https://hdl.github.io/awesome/tags/libero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/libero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>libraries</title>
+      <link>https://hdl.github.io/awesome/tags/libraries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/libraries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>library</title>
+      <link>https://hdl.github.io/awesome/tags/library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/library/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>librecores</title>
+      <link>https://hdl.github.io/awesome/tags/librecores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/librecores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linting</title>
+      <link>https://hdl.github.io/awesome/tags/linting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/linting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modelsim</title>
+      <link>https://hdl.github.io/awesome/tags/modelsim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/modelsim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>morty</title>
+      <link>https://hdl.github.io/awesome/tags/morty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/morty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>netlist</title>
+      <link>https://hdl.github.io/awesome/tags/netlist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/netlist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nextpnr</title>
+      <link>https://hdl.github.io/awesome/tags/nextpnr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/nextpnr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>odin</title>
+      <link>https://hdl.github.io/awesome/tags/odin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/odin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>packing</title>
+      <link>https://hdl.github.io/awesome/tags/packing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/packing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parameters</title>
+      <link>https://hdl.github.io/awesome/tags/parameters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/parameters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>placement</title>
+      <link>https://hdl.github.io/awesome/tags/placement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/placement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>planahead</title>
+      <link>https://hdl.github.io/awesome/tags/planahead/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/planahead/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>preprocessor</title>
+      <link>https://hdl.github.io/awesome/tags/preprocessor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/preprocessor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>https://hdl.github.io/awesome/tags/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://hdl.github.io/awesome/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quartus</title>
+      <link>https://hdl.github.io/awesome/tags/quartus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/quartus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quicklogic</title>
+      <link>https://hdl.github.io/awesome/tags/quicklogic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/quicklogic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>radiant</title>
+      <link>https://hdl.github.io/awesome/tags/radiant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/radiant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rivierapro</title>
+      <link>https://hdl.github.io/awesome/tags/rivierapro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/rivierapro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>routing</title>
+      <link>https://hdl.github.io/awesome/tags/routing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/routing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RTL</title>
+      <link>https://hdl.github.io/awesome/tags/rtl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/rtl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scala</title>
+      <link>https://hdl.github.io/awesome/tags/scala/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/scala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>schematics</title>
+      <link>https://hdl.github.io/awesome/tags/schematics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/schematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simulation</title>
+      <link>https://hdl.github.io/awesome/tags/simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simulator</title>
+      <link>https://hdl.github.io/awesome/tags/simulator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/simulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soc</title>
+      <link>https://hdl.github.io/awesome/tags/soc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/soc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spyglass</title>
+      <link>https://hdl.github.io/awesome/tags/spyglass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/spyglass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sta</title>
+      <link>https://hdl.github.io/awesome/tags/sta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/sta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>symbiflow</title>
+      <link>https://hdl.github.io/awesome/tags/symbiflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/symbiflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>symbiyosys</title>
+      <link>https://hdl.github.io/awesome/tags/symbiyosys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/symbiyosys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>synthesis</title>
+      <link>https://hdl.github.io/awesome/tags/synthesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>systemverilog</title>
+      <link>https://hdl.github.io/awesome/tags/systemverilog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/systemverilog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tcl</title>
+      <link>https://hdl.github.io/awesome/tags/tcl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/tcl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>testing</title>
+      <link>https://hdl.github.io/awesome/tags/testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trellis</title>
+      <link>https://hdl.github.io/awesome/tags/trellis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/trellis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UVM-reg</title>
+      <link>https://hdl.github.io/awesome/tags/uvm-reg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/uvm-reg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vcd</title>
+      <link>https://hdl.github.io/awesome/tags/vcd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/vcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vcs</title>
+      <link>https://hdl.github.io/awesome/tags/vcs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/vcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>veribleformat</title>
+      <link>https://hdl.github.io/awesome/tags/veribleformat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/veribleformat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>veriblelint</title>
+      <link>https://hdl.github.io/awesome/tags/veriblelint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/veriblelint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>verification</title>
+      <link>https://hdl.github.io/awesome/tags/verification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>verilator</title>
+      <link>https://hdl.github.io/awesome/tags/verilator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/verilator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>verilog</title>
+      <link>https://hdl.github.io/awesome/tags/verilog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/verilog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vivado</title>
+      <link>https://hdl.github.io/awesome/tags/vivado/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/vivado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VPR</title>
+      <link>https://hdl.github.io/awesome/tags/vpr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/vpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vunit</title>
+      <link>https://hdl.github.io/awesome/tags/vunit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/vunit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>waveform</title>
+      <link>https://hdl.github.io/awesome/tags/waveform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/waveform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workflow</title>
+      <link>https://hdl.github.io/awesome/tags/workflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/workflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xcelium</title>
+      <link>https://hdl.github.io/awesome/tags/xcelium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/xcelium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xilinx</title>
+      <link>https://hdl.github.io/awesome/tags/xilinx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/xilinx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xsim</title>
+      <link>https://hdl.github.io/awesome/tags/xsim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/xsim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yosys</title>
+      <link>https://hdl.github.io/awesome/tags/yosys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/tags/yosys/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

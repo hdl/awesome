@@ -1,0 +1,1689 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/parser/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/pyvhdlparser/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/streaming/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/vhdl/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/ac701/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/alchitry-cu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/arctickoala/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/arty-a7-100t/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/arty-a7-35t/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/arty-s7-25/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/arty-s7-50/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/atlys/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/beaglewire/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/blackice-ii/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/blackice-mx/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/blackice/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/buspirateultra/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/butterstick-r1.0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/cat-board/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/colorlight-i5-v7.0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/colorlight-i9-v7.2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/de4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/dipsy-ept/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/doppler/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/dsp_ice/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/ecp5-evn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/ecpix-5-45f/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/ecpix-5-85f/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/edu-ciaa-fpga/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/fomu-pvt/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/fpga101/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/glasgow-revc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/hx4k-pmod/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/ice40-feather-r0.2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/ice40-hx8k/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/ice40-up/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/ice40cw312/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/ice40hx1k-evb/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/ice40hx8k-evb/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/iceblink40-hx1k/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/icebreaker-bitsy-v0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/icebreaker-bitsy-v1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/icebreaker/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/icecream-1.0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/icecream-1.2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/icefun/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/icestick/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/icesugar-nano/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/icesugar-pro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/icesugar-v1.5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/icezero/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/icezumalhambra/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/icezumalhambraii/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/icoboard-v1.0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/kc705/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/kefir/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/litefury/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/manila-ice/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/mercury2-a7-100t/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/mercury2-a7-35t/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/ml505/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/ml506/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/ml605/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/mnt-rkx7/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/nandland-go/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/nexys4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/nexys4ddr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/openfpga/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/orangecrab-r0.2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/pergola/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/picoevb/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/pygmy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/qomu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/quickfeather/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/s3sk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/tinyfpga-b2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/tinyfpga-bx/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/ulx3s-12f/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/ulx3s-25f/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/ulx3s-45f/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/ulx3s-85f/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/upduino-v1.0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/upduino-v2.0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/upduino-v2.1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/upduino-v3.0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/vc707/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/xupv5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/zc706/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/zedboard/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/abc/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/about/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/abstract/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/active-hdl/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/feather/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/altera/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/amaranth/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/analiser/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/analyser/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/arachne-pnr/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/daplink/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/ascentlint/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/boards/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/boards/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/boolector/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/c/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/calyx/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/cascade/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/chipsalliance/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/chips-workshops/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/chisel/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/ci/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/circt/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/circuitgraph/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/clash/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/cli/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/code-generator/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/collection/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/compiler/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/conferences/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/configuration/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/configuration-register/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/cvc/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/cores/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/corescollection/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/coreslibrary/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/coriolis/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/cocotb/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/csr/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/data-model/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/design/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/dfu-util/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/diamond/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/pmod/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/documentation/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/dom/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/ecpprog/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/eda/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/eda-twiki/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/edalize/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/edaa/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/embench/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/encode/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/lstools/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/f4pga/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/fasm/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/fasm/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/fhdl/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/firrtl/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/formal/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/fossi/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/fpga/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/fpgacpuca/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/fphdl/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/framework/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/frameworks/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/frameworksverification/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/fritzing/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/fujprog/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/fusesoc/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/gateware/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/gds/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/gds3d/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/gdsfactory/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/generator/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/generics/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/ghdl/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/ghdl/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/ghdl-yosys-plugin/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/graphviz/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/gtkwave/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/hdl/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/hdl_checker/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/hdlconvertor/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/hdlmake/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/hackt/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/high-level-synthesis/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/hammer/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/hls/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/hwtoolkit/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/icarus/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/iverilog/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/icesprog/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/icestorm/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/icestorm/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/index/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/intel/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/ip-core/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/irsim/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/ise/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/isim/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/iverilog/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/java/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/json/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/json-for-vhdl/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/kactus2/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/kicad/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/klayout/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/language-model/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/language-server/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/languages/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/latte/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/lattice/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/legohdl/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/libero/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/libraries/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/library/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/librecores/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/librecores/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/librecores-ci/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/linting/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/litex/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/livehd/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/llhd/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/magic/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/migen/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/mistral/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/modelsim/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/morty/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/myhdl/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/netgen/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/netlist/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/netlistsvg/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/nextpnr/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/nextpnr/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/ngspice/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/nmigen/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/nvc/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/odin/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/syzygy/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/osda/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/osvvm/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/opencores/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/openfpgaloader/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/openocd/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/openroad/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/opensta/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/orconf/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/packing/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/pp4fpgas/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/parameters/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/pcbflow/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/poc/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/pinout/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/pipelinec/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/placement/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/planahead/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/pono/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/preprocessor/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/prga/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/project/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/apicula/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/prjbureau/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/prjoxide/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/prjtrellis/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/prjuray/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/prjxray/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/pyfpga/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/pyhdi/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/pyipcmi/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/python/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/pyvhdlmodel/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/quartus/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/quicklogic/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/radiant/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/rapidwright/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/renode/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/resources/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/resourcesbooks/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/resourceswebsites/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/rggen/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/rivierapro/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/routing/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/rtl/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/rust_hdl/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/scala/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/schematics/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/scopehal/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/serial-studio/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/servicescontinuous-integration/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/sigrok-cli/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/silice/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/siliconcompiler/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/simulation/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/simulator/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/skidl/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/surf/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/soc/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/spinalhdl/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/spydrnet/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/spyglass/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/sta/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/superprove/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/surelog/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/svunit/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/symbiflow/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/symbiflow/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/symbiyosys/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/symbiyosys/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/synthesijer/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/synthesis/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/systemverilog/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/tcl/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/testing/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/tofe/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/tools/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/toolsintermediate-representation/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/toolsmanagers/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/toolspackage-managers/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/toolspnrs/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/toolssimulators/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/toolssynthesizers/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/toolswaveform-viewer/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/torc/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/trellis/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/tsfpga/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/uhdm/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/uvvm/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/uvm-reg/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/vasg_packages/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/vcd/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/vcs/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/verible/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/veribleformat/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/veriblelint/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/verification/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/verification/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/verilator/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/verilator/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/verilog/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/vtr/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/vpr/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/vhdl-extras/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/vivado/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/vpr/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/vunit/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/vunit/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/wavedrom/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/waveform/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/workflow/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/xcelium/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/xeda/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/xilinx/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/xls/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/xschem/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/xsim/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/xyce/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/yices2/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/yosys/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/yosys/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/z3/</loc>
+    <lastmod>2023-07-17T12:28:51+02:00</lastmod>
+  </url>
+  
+</urlset>

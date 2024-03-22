@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>design on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/tags/design/</link>
+    <description>Recent content in design on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gdsfactory</title>
+      <link>https://hdl.github.io/awesome/items/gdsfactory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/gdsfactory/</guid>
+      <description>&amp;ldquo;gdsfactory is a python library to design chips (Photonics, Analog, Quantum, MEMs, …), objects for 3D printing or PCBs.
+You can describe your hardware in code (python or YAML), verify it (DRC, simulation, extraction) and validate it (to make sure it meets your specifications after fabrication)..&amp;quot;</description>
+    </item>
+    
+  </channel>
+</rss>

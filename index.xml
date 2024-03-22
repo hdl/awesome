@@ -1,0 +1,2030 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/</link>
+    <description>Recent content in Home on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pyVHDLParser</title>
+      <link>https://hdl.github.io/awesome/items/pyvhdlparser/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pyvhdlparser/</guid>
+      <description>Main Goals  Parsing  Slice an input document into tokens and text blocks which are categorized in groups for fast indexing. reserve case, whitespace and comments. Recover on parsing errors Good error reporting / throw exceptions   Fast Processing  Multi-pass parsing and analysis Delay analysis if not needed for current pass Link tokens and blocks for fast-forward scanning (triple helix)   Generic VHDL Language Model  Assemble a sourcecode document-object-model (Code-DOM) Provide an API for code introspection Provide an API for code modification / transformation    Use Cases  Generate documentation by using the fast-forward scanner Generate a document/language model by using the grouped text-block scanner Extract compile orders and other dependency graphs Generate highlighted syntax  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/ac701/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/ac701/</guid>
+      <description> The Artix®-7 FPGA AC701 Evaluation Kit features the leading system performance per watt Artix-7 family to get you quickly prototyping for your cost sensitive applications. This includes all the basic components of hardware, design tools, IP, and pre-verified reference designs. This also features a targeted reference design enabling high-performance serial connectivity and advanced memory interfacing equipped with a full license for the Northwest Logic DMA engine.
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/alchitry-cu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/alchitry-cu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/arctickoala/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/arctickoala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/arty-a7-100t/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/arty-a7-100t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/arty-a7-35t/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/arty-a7-35t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/arty-s7-25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/arty-s7-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/arty-s7-50/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/arty-s7-50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/atlys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/atlys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/beaglewire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/beaglewire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/blackice-ii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/blackice-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/blackice-mx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/blackice-mx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/blackice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/blackice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/buspirateultra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/buspirateultra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/butterstick-r1.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/butterstick-r1.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/cat-board/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/cat-board/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/colorlight-i5-v7.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/colorlight-i5-v7.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/colorlight-i9-v7.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/colorlight-i9-v7.2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/de4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/de4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/dipsy-ept/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/dipsy-ept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/doppler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/doppler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/dsp_ice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/dsp_ice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/ecp5-evn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/ecp5-evn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/ecpix-5-45f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/ecpix-5-45f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/ecpix-5-85f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/ecpix-5-85f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/edu-ciaa-fpga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/edu-ciaa-fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/fomu-pvt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/fomu-pvt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/fpga101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/fpga101/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/glasgow-revc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/glasgow-revc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/hx4k-pmod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/hx4k-pmod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/ice40-feather-r0.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/ice40-feather-r0.2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/ice40-hx8k/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/ice40-hx8k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/ice40-up/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/ice40-up/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/ice40cw312/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/ice40cw312/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/ice40hx1k-evb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/ice40hx1k-evb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/ice40hx8k-evb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/ice40hx8k-evb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/iceblink40-hx1k/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/iceblink40-hx1k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/icebreaker-bitsy-v0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/icebreaker-bitsy-v0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/icebreaker-bitsy-v1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/icebreaker-bitsy-v1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/icebreaker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/icebreaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/icecream-1.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/icecream-1.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/icecream-1.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/icecream-1.2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/icefun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/icefun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/icestick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/icestick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/icesugar-nano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/icesugar-nano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/icesugar-pro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/icesugar-pro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/icesugar-v1.5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/icesugar-v1.5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/icezero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/icezero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/icezumalhambra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/icezumalhambra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/icezumalhambraii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/icezumalhambraii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/icoboard-v1.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/icoboard-v1.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/kc705/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/kc705/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/kefir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/kefir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/litefury/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/litefury/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/manila-ice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/manila-ice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/mercury2-a7-100t/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/mercury2-a7-100t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/mercury2-a7-35t/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/mercury2-a7-35t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/ml505/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/ml505/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/ml506/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/ml506/</guid>
+      <description>The ML506 platform corresponds to the ML505 platform for all but the FPGA device. Refer to ML505 for pinout information.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/ml605/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/ml605/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/mnt-rkx7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/mnt-rkx7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/nandland-go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/nandland-go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/nexys4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/nexys4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/nexys4ddr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/nexys4ddr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/openfpga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/openfpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/orangecrab-r0.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/orangecrab-r0.2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/pergola/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/pergola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/picoevb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/picoevb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/pygmy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/pygmy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/qomu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/qomu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/quickfeather/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/quickfeather/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/s3sk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/s3sk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/tinyfpga-b2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/tinyfpga-b2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/tinyfpga-bx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/tinyfpga-bx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/ulx3s-12f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/ulx3s-12f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/ulx3s-25f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/ulx3s-25f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/ulx3s-45f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/ulx3s-45f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/ulx3s-85f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/ulx3s-85f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/upduino-v1.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/upduino-v1.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/upduino-v2.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/upduino-v2.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/upduino-v2.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/upduino-v2.1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/upduino-v3.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/upduino-v3.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/vc707/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/vc707/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/xupv5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/xupv5/</guid>
+      <description>The XUPV5 platform corresponds to the ML505 platform for all but the FPGA device. Refer to ML505 for pinout information.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/zc706/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/zc706/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hdl.github.io/awesome/boards/zedboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/boards/zedboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://hdl.github.io/awesome/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/about/</guid>
+      <description>Note: This site was uploaded for gathering feedback from the community. We encourage users/contributors/collegues to open issues for bringing up the matters for discussion before contributing modifications.
+  Disclaimer: All third party trademarks (including logos and icons) and images referenced by hdl/awesome remain the property of their respective owners. Unless specifically identified as such, hdl/awesome&amp;rsquo;s use of third party trademarks and/or images does not indicate any relationship, sponsorship, or endorsement between the hdl organisation and the owners of these trademarks.</description>
+    </item>
+    
+    <item>
+      <title>Adafruit Feather Board Specification</title>
+      <link>https://hdl.github.io/awesome/items/feather/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/feather/</guid>
+      <description>The Adafruit Feather are a line of development boards from Adafruit that are standalone and stackable. Typically powered by lipo batteries or through USB, feathers are flexible, portable and light. Daughter boards or peripheral boards for feathers are named wings.
+Apart from Adafruit&amp;rsquo;s feather and wing ecosystem, there are several open source FPGA development boards which are designed with the same form factor and pin specification. See, for instance, OrangeCrab, QuickFeather or iCE40-feather.</description>
+    </item>
+    
+    <item>
+      <title>Amaranth HDL (previously known as nMigen)</title>
+      <link>https://hdl.github.io/awesome/items/amaranth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/amaranth/</guid>
+      <description>&amp;ldquo;The Amaranth project provides an open-source toolchain for developing hardware based on synchronous digital logic using the Python programming language, as well as evaluation board definitions, a System on Chip toolkit, and more. It aims to be easy to learn and use, reduce or eliminate common coding mistakes, and simplify the design of complex hardware with reusable components.
+The Amaranth toolchain consists of the Amaranth hardware definition language, the standard library, the simulator, and the build system, covering all steps of a typical FPGA development workflow.</description>
+    </item>
+    
+    <item>
+      <title>Arachne-pnr</title>
+      <link>https://hdl.github.io/awesome/items/arachne-pnr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/arachne-pnr/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ARMmbed DAPLink</title>
+      <link>https://hdl.github.io/awesome/items/daplink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/daplink/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Boolector</title>
+      <link>https://hdl.github.io/awesome/items/boolector/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/boolector/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Calyx</title>
+      <link>https://hdl.github.io/awesome/items/calyx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/calyx/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cascade</title>
+      <link>https://hdl.github.io/awesome/items/cascade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/cascade/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CHIPS (Common Hardware for Interfaces, Processors and Systems) Alliance</title>
+      <link>https://hdl.github.io/awesome/items/chipsalliance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/chipsalliance/</guid>
+      <description>&lt;p&gt;&amp;ldquo;&lt;em&gt;The CHIPS Alliance develops high-quality, open source hardware designs relevant to silicon devices and FPGAs. By creating an open and collaborative environment, CHIPS Alliance shares resources to lower the cost of development. Companies and individuals can work together to develop open source CPUs, various peripherals, and complex IP blocks. CHIPS Alliance is open to all organizations who are interested in collaborating on open source hardware or software tools to accelerate the creation of more efficient and innovative chip designs.&lt;/em&gt;&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CHIPS Alliance Workshops and Meetings</title>
+      <link>https://hdl.github.io/awesome/items/chips-workshops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/chips-workshops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chisel/FIRRTL Hardware Compiler Framework</title>
+      <link>https://hdl.github.io/awesome/items/chisel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/chisel/</guid>
+      <description>&amp;ldquo;Chisel adds hardware construction primitives to the Scala programming language, providing designers with the power of a modern programming language to write complex, parameterizable circuit generators that produce synthesizable Verilog. This generator methodology enables the creation of re-usable components and libraries, such as the FIFO queue and arbiters in the Chisel Standard Library, raising the level of abstraction in design while retaining fine-grained control.&amp;quot;
+ Currently, Chisel (Constructing Hardware in a Scala Embedded Language) is in its version 3 (first commit in 2015).</description>
+    </item>
+    
+    <item>
+      <title>Circt</title>
+      <link>https://hdl.github.io/awesome/items/circt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/circt/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CircuitGraph</title>
+      <link>https://hdl.github.io/awesome/items/circuitgraph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/circuitgraph/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Clash</title>
+      <link>https://hdl.github.io/awesome/items/clash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/clash/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cooperating Validity Checker (CVC)</title>
+      <link>https://hdl.github.io/awesome/items/cvc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/cvc/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Coriolis</title>
+      <link>https://hdl.github.io/awesome/items/coriolis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/coriolis/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Coroutine Co-simulation Test Bench (cocotb)</title>
+      <link>https://hdl.github.io/awesome/items/cocotb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/cocotb/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;cocotb is a coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Device Firmware Upgrade Utilities (dfu-util)</title>
+      <link>https://hdl.github.io/awesome/items/dfu-util/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/dfu-util/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Digilent PMOD Interface Specification</title>
+      <link>https://hdl.github.io/awesome/items/pmod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pmod/</guid>
+      <description>&lt;p&gt;PMOD is an interface specification for low frequency and low I/O pin count peripherals, based on standard 100 mil spaced, 25 mil square, pin-header style connectors. Connectors can have one or two rows, each of them with 6 pins, 2 of which correspond to Vcc and GND. Additionally, the Digilent Pmod Standard lays out guidelines for form factor and communication protocols.&lt;/p&gt;
+&lt;article class=&#34;message is-info&#34;&gt;
+&lt;div class=&#34;message-body&#34;&gt;Version 1.0.0 of the specification defined 2x4 connectors too, for I2C interfaces. However, those were removed in later versions. The latest version is &lt;a href=&#34;https://reference.digilentinc.com/_media/reference/pmod/pmod-interface-specification-1_3_0.pdf&#34;&gt;Digilent Pmod™ Interface Specification v1.3.0&lt;/a&gt;.&lt;/div&gt;
+&lt;/article&gt;</description>
+    </item>
+    
+    <item>
+      <title>ecpprog</title>
+      <link>https://hdl.github.io/awesome/items/ecpprog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/ecpprog/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>eda-twiki</title>
+      <link>https://hdl.github.io/awesome/items/eda-twiki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/eda-twiki/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>edalize</title>
+      <link>https://hdl.github.io/awesome/items/edalize/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/edalize/</guid>
+      <description>&amp;ldquo;Edalize is a Python Library for interacting with EDA tools. It can create project files for supported tools and run them in batch or GUI mode (where supported).&amp;quot;
+&amp;ldquo;All EDA tools such as Icarus, Yosys, ModelSim, Vivado, Verilator, GHDL, Quartus etc get input HDL files (Verilog and VHDL) and some tool-specific files (constraint files, memory initialization files, IP description files etc). Together with the files, perhaps a couple of Verilog defines, some top-level parameters/generics or some tool-specific options are set.</description>
+    </item>
+    
+    <item>
+      <title>Electronic Design Automation Abstraction (EDA²)</title>
+      <link>https://hdl.github.io/awesome/items/edaa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/edaa/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Electronic Design Automation Abstraction (EDA²) is a conceptual model for characterising the abstraction layers in Electronic Design Automation (EDA) projects based on Hardware Description Languages (HDLs). Its goal is the interoperability of diverse tools and languages, through documented interfaces.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;EDA² aims to provide reference Python implementations and schemas of commonly needed software layers for (open source) EDA tooling/frameworks to reduce code duplication and reinventions of existing algorithms and data structures. Each layer solves the problems at a different abstraction level, hence, they are organised as an stack.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Embench</title>
+      <link>https://hdl.github.io/awesome/items/embench/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/embench/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>EPFL Logic Synthesis Libraries</title>
+      <link>https://hdl.github.io/awesome/items/lstools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/lstools/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>F4PGA</title>
+      <link>https://hdl.github.io/awesome/items/f4pga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/f4pga/</guid>
+      <description>&lt;p&gt;&amp;ldquo;&lt;em&gt;F4PGA is a fully open source toolchain for the development of FPGAs of multiple vendors. Currently, it targets the Xilinx 7-Series, Lattice iCE40, Lattice ECP5 FPGAs, QuickLogic EOS S3 and is gradually being expanded to provide a comprehensive end-to-end FPGA synthesis flow.&lt;/em&gt;&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FASM</title>
+      <link>https://hdl.github.io/awesome/items/fasm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/fasm/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FPGACPU.CA</title>
+      <link>https://hdl.github.io/awesome/items/fpgacpuca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/fpgacpuca/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Charles Eric LaForest, PhD operates fpgacpu.ca as a resource about FPGAs, computer history, and computer architecture.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>fphdl</title>
+      <link>https://hdl.github.io/awesome/items/fphdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/fphdl/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>fritzing</title>
+      <link>https://hdl.github.io/awesome/items/fritzing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/fritzing/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>fujprog</title>
+      <link>https://hdl.github.io/awesome/items/fujprog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/fujprog/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>fusesoc</title>
+      <link>https://hdl.github.io/awesome/items/fusesoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/fusesoc/</guid>
+      <description>FuseSoC is a package manager and a set of build tools for HDL code. Its main purpose is to increase reuse of IP cores and be an aid for creating, building and simulating SoC solutions. FuseSoC provides utilities for:
+ reusing existing cores creating compile-time or run-time configurations running regression tests against multiple simulators porting designs to new targets leting other projects use your code  References:
+ fusesoc-cores: FuseSoC standard core library tiny-cores: Collection of assorted small cores edalize was part of FuseSoC FuseSoc is the continuation of ORPSoC  </description>
+    </item>
+    
+    <item>
+      <title>GDS3D</title>
+      <link>https://hdl.github.io/awesome/items/gds3d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/gds3d/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>gdsfactory</title>
+      <link>https://hdl.github.io/awesome/items/gdsfactory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/gdsfactory/</guid>
+      <description>&amp;ldquo;gdsfactory is a python library to design chips (Photonics, Analog, Quantum, MEMs, …), objects for 3D printing or PCBs.
+You can describe your hardware in code (python or YAML), verify it (DRC, simulation, extraction) and validate it (to make sure it meets your specifications after fabrication)..&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>GHDL</title>
+      <link>https://hdl.github.io/awesome/items/ghdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/ghdl/</guid>
+      <description>Open-source analyzer, compiler, simulator and (experimental) synthesizer for VHDL, a Hardware Description Language (HDL). GHDL is not an interpreter: it allows you to analyse and elaborate sources to generate machine code from your design. Native program execution is the only way for high speed simulation.
+Full support for the 1987, 1993, 2002 versions of the IEEE 1076 VHDL standard, and partial for the latest 2008 revision. Partial support of PSL. Can write waveforms to a GHW, VCD or FST file.</description>
+    </item>
+    
+    <item>
+      <title>ghdl-yosys-plugin</title>
+      <link>https://hdl.github.io/awesome/items/ghdl-yosys-plugin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/ghdl-yosys-plugin/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Graphviz</title>
+      <link>https://hdl.github.io/awesome/items/graphviz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/graphviz/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GTKWave</title>
+      <link>https://hdl.github.io/awesome/items/gtkwave/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/gtkwave/</guid>
+      <description>GTKWave is a fully featured GTK+ based wave viewer for Unix and Win32 which reads LXT, LXT2, VZT, FST, and GHW files as well as standard Verilog VCD/EVCD files and allows their viewing.</description>
+    </item>
+    
+    <item>
+      <title>HDL Checker</title>
+      <link>https://hdl.github.io/awesome/items/hdl_checker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/hdl_checker/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>hdlConvertor</title>
+      <link>https://hdl.github.io/awesome/items/hdlconvertor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/hdlconvertor/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>HDLmake</title>
+      <link>https://hdl.github.io/awesome/items/hdlmake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/hdlmake/</guid>
+      <description>&amp;ldquo;A tool designed to help FPGA designers to manage and share their HDL code by automatically finding file dependencies, writing synthesis &amp;amp; simulation Makefiles, and fetching IP-Core libraries from remote repositories
+ Synthesis Makefile generation Simulation Makefile generation HDL parser and dependency solver GIT/SVN Support Multiple HDL Languages Multiple Tools Multiple Operating Systems&amp;rdquo;  </description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Asynchronous Circuit Kompiler Toolkit (HACKT)</title>
+      <link>https://hdl.github.io/awesome/items/hackt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/hackt/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Highly Agile Masks Made Effortlessly from RTL (HAMMER)</title>
+      <link>https://hdl.github.io/awesome/items/hammer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/hammer/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>HWToolkit (hwt)</title>
+      <link>https://hdl.github.io/awesome/items/hwtoolkit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/hwtoolkit/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Icarus Verilog (iverilog)</title>
+      <link>https://hdl.github.io/awesome/items/iverilog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/iverilog/</guid>
+      <description>Icarus Verilog is a Verilog simulation and synthesis tool. It operates as a compiler, compiling source code written in Verilog (IEEE-1364) into some target format. For batch simulation, the compiler can generate an intermediate form called vvp assembly. This intermediate form is executed by the vvp command. For synthesis, the compiler generates netlists in the desired format.</description>
+    </item>
+    
+    <item>
+      <title>icesprog</title>
+      <link>https://hdl.github.io/awesome/items/icesprog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/icesprog/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>icestorm</title>
+      <link>https://hdl.github.io/awesome/items/icestorm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/icestorm/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IRSIM</title>
+      <link>https://hdl.github.io/awesome/items/irsim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/irsim/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>JSON-for-VHDL</title>
+      <link>https://hdl.github.io/awesome/items/json-for-vhdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/json-for-vhdl/</guid>
+      <description>JSON-for-VHDL is a library to parse and query JSON data structures in VHDL. The complete functionality is included in a single synthesizable VHDL package, without special dependencies.
+It allows reading JSON from files and/or from (optionally encoded) stringified JSON generics. It is included in VUnit, for passing generics for arbitrary complexity from Python to the testbeches.</description>
+    </item>
+    
+    <item>
+      <title>Kactus2</title>
+      <link>https://hdl.github.io/awesome/items/kactus2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/kactus2/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>KiCad</title>
+      <link>https://hdl.github.io/awesome/items/kicad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/kicad/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>KLayout</title>
+      <link>https://hdl.github.io/awesome/items/klayout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/klayout/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LATTE: Languages, Tools, and Techniques for Accelerator Design</title>
+      <link>https://hdl.github.io/awesome/items/latte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/latte/</guid>
+      <description>&amp;quot;LATTE is an ASPLOS workshop on applying programming languages and compilers techniques to generate hardware accelerators.&amp;quot;
+There is a GitHub repository with discussion threads for each paper.</description>
+    </item>
+    
+    <item>
+      <title>legoHDL</title>
+      <link>https://hdl.github.io/awesome/items/legohdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/legohdl/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LibreCores</title>
+      <link>https://hdl.github.io/awesome/items/librecores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/librecores/</guid>
+      <description>&amp;quot; Digital devices are the basic building blocks of electronic systems. Such devices are for application-specific devices like a USB controller. But also programmable System-on-Chip are found in embedded systems. Both tastes of a chip are composed of basic building blocks, so called IP (Intellectual Property) cores. A &amp;ldquo;LibreCore&amp;rdquo; is such an IP core that is created and distributed in the open source spirit. And LibreCores.org is like a good neighborhood pub, a place to meet the community and —most importantly— find such cores.</description>
+    </item>
+    
+    <item>
+      <title>LibreCores CI</title>
+      <link>https://hdl.github.io/awesome/items/librecores-ci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/librecores-ci/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;LibreCores CI is a service, which provides Continuous Integration of projects being hosted on LibreCores. The objective of the service is to improve the contributor experience and to increase trust to projects by providing automated testing and health metrics of the projects.&lt;/em&gt;&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LiteX</title>
+      <link>https://hdl.github.io/awesome/items/litex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/litex/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LiveHD</title>
+      <link>https://hdl.github.io/awesome/items/livehd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/livehd/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Low Level Hardware Description (LLHD)</title>
+      <link>https://hdl.github.io/awesome/items/llhd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/llhd/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Magic</title>
+      <link>https://hdl.github.io/awesome/items/magic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/magic/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>migen</title>
+      <link>https://hdl.github.io/awesome/items/migen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/migen/</guid>
+      <description>&amp;ldquo;Despite being faster than schematics entry, hardware design with Verilog and VHDL remains tedious and inefficient for several reasons. The event-driven model introduces issues and manual coding that are unnecessary for synchronous circuits [&amp;hellip;]. To address those issues, we have developed the Migen FHDL, a library that replaces the event-driven paradigm with the notions of combinatorial and synchronous statements, has arithmetic rules that make integers always behave like mathematical integers, and most importantly allows the design&amp;rsquo;s logic to be constructed by a Python program.</description>
+    </item>
+    
+    <item>
+      <title>mistral</title>
+      <link>https://hdl.github.io/awesome/items/mistral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/mistral/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MyHDL</title>
+      <link>https://hdl.github.io/awesome/items/myhdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/myhdl/</guid>
+      <description>&amp;ldquo;MyHDL turns Python into a hardware description and verification language, providing hardware engineers with the power of the Python ecosystem.&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Netgen</title>
+      <link>https://hdl.github.io/awesome/items/netgen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/netgen/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>netlistsvg</title>
+      <link>https://hdl.github.io/awesome/items/netlistsvg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/netlistsvg/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>nextpnr</title>
+      <link>https://hdl.github.io/awesome/items/nextpnr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/nextpnr/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ngspice</title>
+      <link>https://hdl.github.io/awesome/items/ngspice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/ngspice/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>nMigen</title>
+      <link>https://hdl.github.io/awesome/items/nmigen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/nmigen/</guid>
+      <description>See Amaranth HDL.
+There is/was a dispute between M-Labs and whitequark about the ownership of the brand nMigen. Most of the codebase of nMigen was written by whitequark and the upstream was nmigen/nmigen. However, there is a fork in m-labs/nmigen and M-Labs claims the brand as being based on Migen (see nmigen.org).  </description>
+    </item>
+    
+    <item>
+      <title>NVC</title>
+      <link>https://hdl.github.io/awesome/items/nvc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/nvc/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Opal Kelly SYZYGY Interface Specification</title>
+      <link>https://hdl.github.io/awesome/items/syzygy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/syzygy/</guid>
+      <description>SYZYGY is a free to license interface specification for low cost, compact and high-performance connectors that economize the pin count available in FPGAs. See section Interface comparison in syzygyfpga.io for a reference of where does SYZYGY fit, between PMOD and FMC.
+There are few development boards (carriers) and peripherals with SYZYGY connectors yet. An open source carrier design is ButterStick. However, there are PCB templates for KiCAD and Altium available for anyone to use (see SYZYGYfpga/pcb-templates).</description>
+    </item>
+    
+    <item>
+      <title>Open Source Design Automation (OSDA)</title>
+      <link>https://hdl.github.io/awesome/items/osda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/osda/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;This one-day workshop aims to bring together industrial, academic, and hobbyist actors to explore, disseminate, and network over ongoing efforts for open design automation, with a view to enabling unfettered research and development, improving EDA quality, and lowering the barriers and risks to entry for industry. These aims are particularly poignant due to the recent efforts across the European Union (and beyond) that mandate &amp;lsquo;open access&amp;rsquo; for publicly funded research to both published manuscripts as well as any code necessary for reproducing its conclusions.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Open Source VHDL Verification Methodology (OSVVM)</title>
+      <link>https://hdl.github.io/awesome/items/osvvm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/osvvm/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;OSVVM is an advanced verification methodology that defines a VHDL verification framework, verification utility library, verification component library, and a scripting flow that simplifies your FPGA or ASIC verification project from start to finish. Using these libraries you can create a simple, readable, and powerful testbench that is suitable for either a simple FPGA block or a complex ASIC.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenCores</title>
+      <link>https://hdl.github.io/awesome/items/opencores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/opencores/</guid>
+      <description>&amp;ldquo;OpenCores is the most prominent online community for the development of gateware IP (Intellectual Properties) Cores. It is the place where such cores are shared and promoted in the spirit of Free and Open Source collaboration.&amp;quot;
+&amp;ldquo;The OpenCores portal hosts the source code for different digital gateware projects and supports the users’ community providing a platform for listing, presenting, and managing such projects; together with version control systems for sources management.</description>
+    </item>
+    
+    <item>
+      <title>openFPGALoader</title>
+      <link>https://hdl.github.io/awesome/items/openfpgaloader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/openfpgaloader/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenOCD</title>
+      <link>https://hdl.github.io/awesome/items/openocd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/openocd/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenROAD</title>
+      <link>https://hdl.github.io/awesome/items/openroad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/openroad/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenSTA</title>
+      <link>https://hdl.github.io/awesome/items/opensta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/opensta/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ORConf</title>
+      <link>https://hdl.github.io/awesome/items/orconf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/orconf/</guid>
+      <description>&amp;ldquo;ORConf is an annual conference for open source digital, semiconductor and embedded systems designers and users. Each year attendees are treated to an ever-impressive array of presentations from all corners of the open source hardware space.&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Parallel Programming for FPGAs</title>
+      <link>https://hdl.github.io/awesome/items/pp4fpgas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pp4fpgas/</guid>
+      <description>&amp;ldquo;Parallel Programming for FPGAs is an open-source book aimed at teaching hardware and software developers how to efficiently program FPGAs using high-level synthesis (HLS). The authors developed the book as we noticed a lack of material aimed at teaching people to effectively use HLS tools.&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>PCBFlow</title>
+      <link>https://hdl.github.io/awesome/items/pcbflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pcbflow/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pile of Cores Library (PoC)</title>
+      <link>https://hdl.github.io/awesome/items/poc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/poc/</guid>
+      <description>PoC - “Pile of Cores” provides implementations for often required hardware functions such as Arithmetic Units, Caches, Clock-Domain-Crossing Circuits, FIFOs, RAM wrappers, and I/O Controllers. The hardware modules are typically provided as VHDL or Verilog source code, so it can be easily re-used in a variety of hardware designs.
+All hardware modules use a common set of VHDL packages to share new VHDL types, sub-programs and constants. Additionally, a set of simulation helper packages eases the writing of testbenches.</description>
+    </item>
+    
+    <item>
+      <title>Pinout</title>
+      <link>https://hdl.github.io/awesome/items/pinout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pinout/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PipelineC</title>
+      <link>https://hdl.github.io/awesome/items/pipelinec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pipelinec/</guid>
+      <description>&amp;ldquo;Fundamental design elements are state machines/stateful elements(registers, rams, etc), auto-pipelined stateless pure functions, and interconnects (wires, cdc, async fifos, etc).
+By isolating complex logic into autopipelineable functions, and only writing literal clock by clock hardware description when absolutely necessary, PipelineC designs do not need to be rewritten for each new target device / operating frequency. The hope is to build shared, high performance, device agnostic, hardware designs described in a familiar and powerfully composable C language look.</description>
+    </item>
+    
+    <item>
+      <title>Pono</title>
+      <link>https://hdl.github.io/awesome/items/pono/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pono/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Pono is a performant, adaptable, and extensible SMT-based model checker implemented in C++. It was developed as the next generation of CoSA and thus was originally named cosa2.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Princeton Reconfigurable Gate Array (PRGA)</title>
+      <link>https://hdl.github.io/awesome/items/prga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/prga/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project Apicula</title>
+      <link>https://hdl.github.io/awesome/items/apicula/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/apicula/</guid>
+      <description>Project Apicula uses a combination of fuzzing and parsing of the vendor data files to find the meaning of all the bits in the bitstream.</description>
+    </item>
+    
+    <item>
+      <title>Project Bureau</title>
+      <link>https://hdl.github.io/awesome/items/prjbureau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/prjbureau/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project Oxide</title>
+      <link>https://hdl.github.io/awesome/items/prjoxide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/prjoxide/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project Trellis</title>
+      <link>https://hdl.github.io/awesome/items/prjtrellis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/prjtrellis/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project U-Ray</title>
+      <link>https://hdl.github.io/awesome/items/prjuray/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/prjuray/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project X-Ray</title>
+      <link>https://hdl.github.io/awesome/items/prjxray/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/prjxray/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>pyFPGA</title>
+      <link>https://hdl.github.io/awesome/items/pyfpga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pyfpga/</guid>
+      <description>PyFPGA is a Python Class for vendor-independent FPGA development. It allows using a single project file and programmatically executing synthesis, implementation, generation of bitstream and/or transference to supported boards.
+ The workflow is command-line centric. It&amp;rsquo;s friendly with Version Control Systems and Continuous Integration (CI). Allows reproducibility and repeatability. Consumes fewer system resources than GUI based workflows.  Also, some command-line helpers are provided, for quick tests or small projects.</description>
+    </item>
+    
+    <item>
+      <title>PyHDI</title>
+      <link>https://hdl.github.io/awesome/items/pyhdi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pyhdi/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>pyIPCMI</title>
+      <link>https://hdl.github.io/awesome/items/pyipcmi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pyipcmi/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>pyVHDLModel</title>
+      <link>https://hdl.github.io/awesome/items/pyvhdlmodel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pyvhdlmodel/</guid>
+      <description>Main Goals This Python package provides a unified abstract language model for VHDL. Projects reading from source files can derive own classes and implement additional logic to create a concrete language model for their tools.
+Projects consuming pre-processed VHDL data (parsed, analyzed or elaborated) can build higher level features and services on such a model, while supporting multiple frontends.
+Use Cases  High-level API for GHDL&amp;rsquo;s libghdl offered as Python package pyGHDL.</description>
+    </item>
+    
+    <item>
+      <title>RapidWright</title>
+      <link>https://hdl.github.io/awesome/items/rapidwright/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/rapidwright/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>renode</title>
+      <link>https://hdl.github.io/awesome/items/renode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/renode/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RgGen</title>
+      <link>https://hdl.github.io/awesome/items/rggen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/rggen/</guid>
+      <description>RgGen is a code generator tool to generate source files for configuration and status registers (CSR) from human readable register map specifications.
+RgGen has following features:
+ Generate following source files for CSR automatically from register map specifications  SystemVerilog/Verilog RTL VHDL RTL UVM register model (RAL) Markdown documents C header file   Register map specifications can be written in following format  YAML JSON TOML Spreadsheet (xlsx/xls/ods/csv/tsv) SiFive DUH Ruby SystemRDL  Now planning     Support standard bus protocols  AMBA APB AMBA AXI4-Lite Wishbone   Plugin feature  Add your own bit field types Add your own bus protocol    </description>
+    </item>
+    
+    <item>
+      <title>rust_hdl</title>
+      <link>https://hdl.github.io/awesome/items/rust_hdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/rust_hdl/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>scopehal</title>
+      <link>https://hdl.github.io/awesome/items/scopehal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/scopehal/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Serial-Studio</title>
+      <link>https://hdl.github.io/awesome/items/serial-studio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/serial-studio/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>sigrok-cli</title>
+      <link>https://hdl.github.io/awesome/items/sigrok-cli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/sigrok-cli/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Silice</title>
+      <link>https://hdl.github.io/awesome/items/silice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/silice/</guid>
+      <description>&amp;ldquo;Silice makes it possible to write algorithms for FPGAs in the same way we write them for processors: defining sequences of operations, subroutines that can be called, and using control flow statements such as while and break. At the same time, Silice lets you fully exploit the parallelism and niceties of FPGA architectures, describing operations and algorithms that run in parallel and are always active, as well as pipelines. Silice remains close to the hardware: nothing gets obfuscated away.</description>
+    </item>
+    
+    <item>
+      <title>SiliconCompiler</title>
+      <link>https://hdl.github.io/awesome/items/siliconcompiler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/siliconcompiler/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SKiDL</title>
+      <link>https://hdl.github.io/awesome/items/skidl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/skidl/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SLAC Ultimate RTL Framework (SURF)</title>
+      <link>https://hdl.github.io/awesome/items/surf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/surf/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SpinalHDL</title>
+      <link>https://hdl.github.io/awesome/items/spinalhdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/spinalhdl/</guid>
+      <description>&amp;ldquo;SpinalHDL is an open source high-level hardware description language. It can be used as an alternative to VHDL or Verilog and has several advantages over them.&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>SpyDrNet</title>
+      <link>https://hdl.github.io/awesome/items/spydrnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/spydrnet/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Super Prove</title>
+      <link>https://hdl.github.io/awesome/items/superprove/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/superprove/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Surelog</title>
+      <link>https://hdl.github.io/awesome/items/surelog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/surelog/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SVUnit</title>
+      <link>https://hdl.github.io/awesome/items/svunit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/svunit/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;SVUnit is an open-source test framework for ASIC and FPGA developers writing Verilog/SystemVerilog code. SVUnit is automated, fast, lightweight and easy to use making it the only SystemVerilog test framework in existence suited to both design and verification engineers that aspire to high quality code and low bug rates.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SymbiFlow</title>
+      <link>https://hdl.github.io/awesome/items/symbiflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/symbiflow/</guid>
+      <description>&amp;ldquo;SymbiFlow is now F4PGA!&amp;rdquo;
+See F4PGA.</description>
+    </item>
+    
+    <item>
+      <title>SymbiYosys (sby)</title>
+      <link>https://hdl.github.io/awesome/items/symbiyosys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/symbiyosys/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;SymbiYosis a front-end driver program for Yosys-based formal hardware
+verification flows. SymbiYosys provides flows for the following formal tasks:
+Bounded verification of safety properties (assertions),
+Unbounded verification of safety properties,
+Generation of test benches from cover statements,
+Verification of liveness properties&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Synthesijer</title>
+      <link>https://hdl.github.io/awesome/items/synthesijer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/synthesijer/</guid>
+      <description>Synthesijer is a high-level synthesis tool, which generates VHDL and Verilog HDL code from Java code. Synthesijer also provides a backend to generate VHDL/Verilog HDL, which helps to develop high-level synthesis tools and DSLs.
+For example, prepare the following Java program,
+/* Test.java */ public class Test{ public boolean flag; private int count = 0; public void run(){ while(true){ count++; if(count == 5000000){ count = 0; flag = !flag; } } } } and compile it with Synthesijer.</description>
+    </item>
+    
+    <item>
+      <title>Tim’s Open FPGA Expansion (TOFE)</title>
+      <link>https://hdl.github.io/awesome/items/tofe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/tofe/</guid>
+      <description>&amp;ldquo;The TOFE interface dramatically reduces the cost of high-speed I/O functionality by taking inspiration from the PCI-Express standard and re-purposing its connectors and mechanical specifications.&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Torc</title>
+      <link>https://hdl.github.io/awesome/items/torc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/torc/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>tsfpga</title>
+      <link>https://hdl.github.io/awesome/items/tsfpga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/tsfpga/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Universal Hardware Data Model (UHDM)</title>
+      <link>https://hdl.github.io/awesome/items/uhdm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/uhdm/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Universal VHDL Verification Methodology (UVVM)</title>
+      <link>https://hdl.github.io/awesome/items/uvvm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/uvvm/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Open Source VHDL Verification Library and Methodology - for very efficient VHDL verification of FPGA and ASIC - resulting also in a significant quality improvement&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VASG Packages</title>
+      <link>https://hdl.github.io/awesome/items/vasg_packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/vasg_packages/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Verible</title>
+      <link>https://hdl.github.io/awesome/items/verible/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/verible/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>verilator</title>
+      <link>https://hdl.github.io/awesome/items/verilator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/verilator/</guid>
+      <description>&lt;p&gt;Verilator is &amp;ldquo;the fastest free Verilog HDL simulator&amp;rdquo;. From a verification
+perspective it supports &lt;em&gt;line coverage&lt;/em&gt;, &lt;em&gt;signal toggle coverage&lt;/em&gt; and limited
+specification of &lt;em&gt;functional coverage&lt;/em&gt; using SystemVerilog Assertions.
+It also allows one to write testbenches in C++ or SystemC.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Verilog to Routing (VTR)</title>
+      <link>https://hdl.github.io/awesome/items/vtr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/vtr/</guid>
+      <description>&amp;ldquo;The Verilog-to-Routing (VTR) project is a world-wide collaborative effort to provide a open-source framework for conducting FPGA architecture and CAD research and development. The VTR design flow takes as input a Verilog description of a digital circuit, and a description of the target FPGA architecture.&amp;quot;
+It performs:
+ Elaboration &amp;amp; Synthesis (ODIN II) Logic Optimization &amp;amp; Technology Mapping (ABC) Packing, Placement, Routing &amp;amp; Timing Analysis (VPR)  &amp;ldquo;to generate FPGA speed and area results.</description>
+    </item>
+    
+    <item>
+      <title>Versatile Place and Route (VPR)</title>
+      <link>https://hdl.github.io/awesome/items/vpr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/vpr/</guid>
+      <description>&amp;ldquo;VPR (Versatile Place and Route) is an open source academic CAD tool designed for the exploration of new FPGA architectures and CAD algorithms, at the packing, placement and routing phases of the CAD flow [&amp;hellip;]. Since its public introduction, VPR has been used extensively in many academic projects partly because it is robust, well documented, easy-to-use, and can flexibly target a range of architectures.&amp;quot;
+&amp;ldquo;VPR takes, as input, a description of an FPGA architecture along with a technology-mapped user circuit.</description>
+    </item>
+    
+    <item>
+      <title>VHDL-extras</title>
+      <link>https://hdl.github.io/awesome/items/vhdl-extras/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/vhdl-extras/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VUnit</title>
+      <link>https://hdl.github.io/awesome/items/vunit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/vunit/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;VUnit is an open source unit testing framework for VHDL/SystemVerilog [&amp;hellip;]  It features the functionality needed to realize continuous and automated testing of your HDL code. VUnit doesn’t replace but rather complements traditional testing methodologies by supporting a “test early and often” approach through automation.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>wavedrom</title>
+      <link>https://hdl.github.io/awesome/items/wavedrom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/wavedrom/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Xeda</title>
+      <link>https://hdl.github.io/awesome/items/xeda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/xeda/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>XLS</title>
+      <link>https://hdl.github.io/awesome/items/xls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/xls/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>XSCHEM</title>
+      <link>https://hdl.github.io/awesome/items/xschem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/xschem/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Xyce</title>
+      <link>https://hdl.github.io/awesome/items/xyce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/xyce/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yices 2</title>
+      <link>https://hdl.github.io/awesome/items/yices2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/yices2/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yosys Open SYnthesis Suite (Yosys)</title>
+      <link>https://hdl.github.io/awesome/items/yosys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/yosys/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Z3</title>
+      <link>https://hdl.github.io/awesome/items/z3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/z3/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
