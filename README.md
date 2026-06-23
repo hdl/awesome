@@ -9,6 +9,12 @@
   -->
 </p>
 
+> [!CAUTION]
+> ⚠️ This repository isn't actively maintained. ⚠️
+> 
+> This repository contains lots of good links and references. It's sad to see it collecting dust.  
+> If someone wants to continue the efforts made, please contact me (@Paebbels).
+
 # Awesome resources for Hardware Description
 
 A curated list of awesome tools, frameworks, IP cores, libraries, and more!
