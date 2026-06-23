@@ -31,14 +31,13 @@ active:
 
 Axion-HDL generates AXI4-Lite register interfaces from inline HDL annotations or standalone data files (YAML, TOML, XML, JSON). Registers are described directly inside VHDL or SystemVerilog source files using `@axion` comments, removing the need for a separate register description language.
 
-Key features:
+Axion-HDL can:
 
-* **Annotation-based input:** describe registers with inline comments in existing VHDL/SystemVerilog source files; no separate RDL or XML file required
-* **Multi-format input:** also accepts YAML, TOML, XML, and JSON as standalone register map descriptions
-* **Multi-HDL output:** generates both VHDL and SystemVerilog register block modules from the same source
-* **C header generation:** produces C headers with access macros for software integration
-* **HTML documentation:** generates human-readable register map documentation
-* **CDC support:** built-in clock domain crossing synchronizers, configurable per module
-* **Subregisters and wide signals:** supports packing multiple fields into one address and auto-splitting 64-bit+ signals across addresses
-* **Export:** round-trips back to YAML/TOML/XML/JSON for interoperability
-* **Verified:** 300+ tests including GHDL RTL simulation via cocotb
+* Read register definitions from inline `@axion` comments in VHDL or SystemVerilog source files
+* Read standalone register map files in YAML, TOML, XML, or JSON format
+* Generate synthesizable VHDL and SystemVerilog AXI4-Lite register block modules
+* Generate C headers with access macros for software integration
+* Generate HTML register map documentation
+* Export register maps back to YAML, TOML, XML, or JSON
+* Insert built-in clock domain crossing (CDC) synchronizers, configurable per module
+* Pack multiple fields into a single address (subregisters) and auto-split wide signals across addresses
