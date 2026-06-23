@@ -22,7 +22,7 @@ tags:
   - RTL
   - Python
 categories:
-  - Tools
+  - "Tools:CSR Automation"
 licenses:
   - MIT
 active:
