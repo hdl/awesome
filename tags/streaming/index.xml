@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>streaming on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/tags/streaming/</link>
+    <description>Recent content in streaming on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 28 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://hdl.github.io/awesome/tags/streaming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pyVHDLParser</title>
+      <link>https://hdl.github.io/awesome/items/pyvhdlparser/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pyvhdlparser/</guid>
+      <description>Main Goals  Parsing  Slice an input document into tokens and text blocks which are categorized in groups for fast indexing. reserve case, whitespace and comments. Recover on parsing errors Good error reporting / throw exceptions   Fast Processing  Multi-pass parsing and analysis Delay analysis if not needed for current pass Link tokens and blocks for fast-forward scanning (triple helix)   Generic VHDL Language Model  Assemble a sourcecode document-object-model (Code-DOM) Provide an API for code introspection Provide an API for code modification / transformation    Use Cases  Generate documentation by using the fast-forward scanner Generate a document/language model by using the grouped text-block scanner Extract compile orders and other dependency graphs Generate highlighted syntax  </description>
+    </item>
+    
+  </channel>
+</rss>
