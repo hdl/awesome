@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>simulator on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/tags/simulator/</link>
+    <description>Recent content in simulator on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/tags/simulator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GHDL</title>
+      <link>https://hdl.github.io/awesome/items/ghdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/ghdl/</guid>
+      <description>Open-source analyzer, compiler, simulator and (experimental) synthesizer for VHDL, a Hardware Description Language (HDL). GHDL is not an interpreter: it allows you to analyse and elaborate sources to generate machine code from your design. Native program execution is the only way for high speed simulation.
+Full support for the 1987, 1993, 2002 versions of the IEEE 1076 VHDL standard, and partial for the latest 2008 revision. Partial support of PSL. Can write waveforms to a GHW, VCD or FST file.</description>
+    </item>
+    
+    <item>
+      <title>Icarus Verilog (iverilog)</title>
+      <link>https://hdl.github.io/awesome/items/iverilog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/iverilog/</guid>
+      <description>Icarus Verilog is a Verilog simulation and synthesis tool. It operates as a compiler, compiling source code written in Verilog (IEEE-1364) into some target format. For batch simulation, the compiler can generate an intermediate form called vvp assembly. This intermediate form is executed by the vvp command. For synthesis, the compiler generates netlists in the desired format.</description>
+    </item>
+    
+    <item>
+      <title>verilator</title>
+      <link>https://hdl.github.io/awesome/items/verilator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/verilator/</guid>
+      <description>&lt;p&gt;Verilator is &amp;ldquo;the fastest free Verilog HDL simulator&amp;rdquo;. From a verification
+perspective it supports &lt;em&gt;line coverage&lt;/em&gt;, &lt;em&gt;signal toggle coverage&lt;/em&gt; and limited
+specification of &lt;em&gt;functional coverage&lt;/em&gt; using SystemVerilog Assertions.
+It also allows one to write testbenches in C++ or SystemC.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

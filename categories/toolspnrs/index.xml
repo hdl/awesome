@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools:PnRs on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/categories/toolspnrs/</link>
+    <description>Recent content in Tools:PnRs on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/categories/toolspnrs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verilog to Routing (VTR)</title>
+      <link>https://hdl.github.io/awesome/items/vtr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/vtr/</guid>
+      <description>&amp;ldquo;The Verilog-to-Routing (VTR) project is a world-wide collaborative effort to provide a open-source framework for conducting FPGA architecture and CAD research and development. The VTR design flow takes as input a Verilog description of a digital circuit, and a description of the target FPGA architecture.&amp;quot;
+It performs:
+ Elaboration &amp;amp; Synthesis (ODIN II) Logic Optimization &amp;amp; Technology Mapping (ABC) Packing, Placement, Routing &amp;amp; Timing Analysis (VPR)  &amp;ldquo;to generate FPGA speed and area results.</description>
+    </item>
+    
+    <item>
+      <title>Versatile Place and Route (VPR)</title>
+      <link>https://hdl.github.io/awesome/items/vpr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/vpr/</guid>
+      <description>&amp;ldquo;VPR (Versatile Place and Route) is an open source academic CAD tool designed for the exploration of new FPGA architectures and CAD algorithms, at the packing, placement and routing phases of the CAD flow [&amp;hellip;]. Since its public introduction, VPR has been used extensively in many academic projects partly because it is robust, well documented, easy-to-use, and can flexibly target a range of architectures.&amp;quot;
+&amp;ldquo;VPR takes, as input, a description of an FPGA architecture along with a technology-mapped user circuit.</description>
+    </item>
+    
+  </channel>
+</rss>
