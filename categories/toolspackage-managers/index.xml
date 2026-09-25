@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools:Package Managers on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/categories/toolspackage-managers/</link>
+    <description>Recent content in Tools:Package Managers on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/categories/toolspackage-managers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fusesoc</title>
+      <link>https://hdl.github.io/awesome/items/fusesoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/fusesoc/</guid>
+      <description>FuseSoC is a package manager and a set of build tools for HDL code. Its main purpose is to increase reuse of IP cores and be an aid for creating, building and simulating SoC solutions. FuseSoC provides utilities for:
+ reusing existing cores creating compile-time or run-time configurations running regression tests against multiple simulators porting designs to new targets leting other projects use your code  References:
+ fusesoc-cores: FuseSoC standard core library tiny-cores: Collection of assorted small cores edalize was part of FuseSoC FuseSoc is the continuation of ORPSoC  </description>
+    </item>
+    
+  </channel>
+</rss>
