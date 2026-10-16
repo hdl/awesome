@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DSP on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/tags/dsp/</link>
+    <description>Recent content in DSP on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/tags/dsp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Holoso</title>
+      <link>https://hdl.github.io/awesome/items/holoso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/holoso/</guid>
+      <description>Holoso turns numerical, control, and DSP kernels written in an ordinary Python into portable Verilog, and emits a Cocotb testbench for co-simulation.
+Holoso doesn&amp;rsquo;t require rewriting the kernel source for synthesis, unlike all existing (as of 2026) Python-source HLS. The core idea is that whatever code was written in regular Python to simulate and analyze the system (using NumPy with linear algebra etc) can be fed directly into the synthesizer as-is.</description>
+    </item>
+    
+  </channel>
+</rss>
