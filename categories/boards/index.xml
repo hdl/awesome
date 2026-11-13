@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boards on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/categories/boards/</link>
+    <description>Recent content in Boards on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/categories/boards/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digilent PMOD Interface Specification</title>
+      <link>https://hdl.github.io/awesome/items/pmod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pmod/</guid>
+      <description>&lt;p&gt;PMOD is an interface specification for low frequency and low I/O pin count peripherals, based on standard 100 mil spaced, 25 mil square, pin-header style connectors. Connectors can have one or two rows, each of them with 6 pins, 2 of which correspond to Vcc and GND. Additionally, the Digilent Pmod Standard lays out guidelines for form factor and communication protocols.&lt;/p&gt;
+&lt;article class=&#34;message is-info&#34;&gt;
+&lt;div class=&#34;message-body&#34;&gt;Version 1.0.0 of the specification defined 2x4 connectors too, for I2C interfaces. However, those were removed in later versions. The latest version is &lt;a href=&#34;https://reference.digilentinc.com/_media/reference/pmod/pmod-interface-specification-1_3_0.pdf&#34;&gt;Digilent Pmod™ Interface Specification v1.3.0&lt;/a&gt;.&lt;/div&gt;
+&lt;/article&gt;</description>
+    </item>
+    
+    <item>
+      <title>Opal Kelly SYZYGY Interface Specification</title>
+      <link>https://hdl.github.io/awesome/items/syzygy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/syzygy/</guid>
+      <description>SYZYGY is a free to license interface specification for low cost, compact and high-performance connectors that economize the pin count available in FPGAs. See section Interface comparison in syzygyfpga.io for a reference of where does SYZYGY fit, between PMOD and FMC.
+There are few development boards (carriers) and peripherals with SYZYGY connectors yet. An open source carrier design is ButterStick. However, there are PCB templates for KiCAD and Altium available for anyone to use (see SYZYGYfpga/pcb-templates).</description>
+    </item>
+    
+    <item>
+      <title>Tim’s Open FPGA Expansion (TOFE)</title>
+      <link>https://hdl.github.io/awesome/items/tofe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/tofe/</guid>
+      <description>&amp;ldquo;The TOFE interface dramatically reduces the cost of high-speed I/O functionality by taking inspiration from the PCI-Express standard and re-purposing its connectors and mechanical specifications.&amp;quot;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ci on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/tags/ci/</link>
+    <description>Recent content in ci on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/tags/ci/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LibreCores CI</title>
+      <link>https://hdl.github.io/awesome/items/librecores-ci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/librecores-ci/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;LibreCores CI is a service, which provides Continuous Integration of projects being hosted on LibreCores. The objective of the service is to improve the contributor experience and to increase trust to projects by providing automated testing and health metrics of the projects.&lt;/em&gt;&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
