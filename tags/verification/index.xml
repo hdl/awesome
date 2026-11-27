@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>verification on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/tags/verification/</link>
+    <description>Recent content in verification on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/tags/verification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coroutine Co-simulation Test Bench (cocotb)</title>
+      <link>https://hdl.github.io/awesome/items/cocotb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/cocotb/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;cocotb is a coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Electronic Design Automation Abstraction (EDA²)</title>
+      <link>https://hdl.github.io/awesome/items/edaa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/edaa/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Electronic Design Automation Abstraction (EDA²) is a conceptual model for characterising the abstraction layers in Electronic Design Automation (EDA) projects based on Hardware Description Languages (HDLs). Its goal is the interoperability of diverse tools and languages, through documented interfaces.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;EDA² aims to provide reference Python implementations and schemas of commonly needed software layers for (open source) EDA tooling/frameworks to reduce code duplication and reinventions of existing algorithms and data structures. Each layer solves the problems at a different abstraction level, hence, they are organised as an stack.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>gdsfactory</title>
+      <link>https://hdl.github.io/awesome/items/gdsfactory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/gdsfactory/</guid>
+      <description>&amp;ldquo;gdsfactory is a python library to design chips (Photonics, Analog, Quantum, MEMs, …), objects for 3D printing or PCBs.
+You can describe your hardware in code (python or YAML), verify it (DRC, simulation, extraction) and validate it (to make sure it meets your specifications after fabrication)..&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>MyHDL</title>
+      <link>https://hdl.github.io/awesome/items/myhdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/myhdl/</guid>
+      <description>&amp;ldquo;MyHDL turns Python into a hardware description and verification language, providing hardware engineers with the power of the Python ecosystem.&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Open Source VHDL Verification Methodology (OSVVM)</title>
+      <link>https://hdl.github.io/awesome/items/osvvm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/osvvm/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;OSVVM is an advanced verification methodology that defines a VHDL verification framework, verification utility library, verification component library, and a scripting flow that simplifies your FPGA or ASIC verification project from start to finish. Using these libraries you can create a simple, readable, and powerful testbench that is suitable for either a simple FPGA block or a complex ASIC.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pono</title>
+      <link>https://hdl.github.io/awesome/items/pono/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pono/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Pono is a performant, adaptable, and extensible SMT-based model checker implemented in C++. It was developed as the next generation of CoSA and thus was originally named cosa2.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SVUnit</title>
+      <link>https://hdl.github.io/awesome/items/svunit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/svunit/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;SVUnit is an open-source test framework for ASIC and FPGA developers writing Verilog/SystemVerilog code. SVUnit is automated, fast, lightweight and easy to use making it the only SystemVerilog test framework in existence suited to both design and verification engineers that aspire to high quality code and low bug rates.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SymbiYosys (sby)</title>
+      <link>https://hdl.github.io/awesome/items/symbiyosys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/symbiyosys/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;SymbiYosis a front-end driver program for Yosys-based formal hardware
+verification flows. SymbiYosys provides flows for the following formal tasks:
+Bounded verification of safety properties (assertions),
+Unbounded verification of safety properties,
+Generation of test benches from cover statements,
+Verification of liveness properties&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Universal VHDL Verification Methodology (UVVM)</title>
+      <link>https://hdl.github.io/awesome/items/uvvm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/uvvm/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Open Source VHDL Verification Library and Methodology - for very efficient VHDL verification of FPGA and ASIC - resulting also in a significant quality improvement&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VUnit</title>
+      <link>https://hdl.github.io/awesome/items/vunit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/vunit/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;VUnit is an open source unit testing framework for VHDL/SystemVerilog [&amp;hellip;]  It features the functionality needed to realize continuous and automated testing of your HDL code. VUnit doesn’t replace but rather complements traditional testing methodologies by supporting a “test early and often” approach through automation.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

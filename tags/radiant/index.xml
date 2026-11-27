@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>radiant on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/tags/radiant/</link>
+    <description>Recent content in radiant on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/tags/radiant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>edalize</title>
+      <link>https://hdl.github.io/awesome/items/edalize/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/edalize/</guid>
+      <description>&amp;ldquo;Edalize is a Python Library for interacting with EDA tools. It can create project files for supported tools and run them in batch or GUI mode (where supported).&amp;quot;
+&amp;ldquo;All EDA tools such as Icarus, Yosys, ModelSim, Vivado, Verilator, GHDL, Quartus etc get input HDL files (Verilog and VHDL) and some tool-specific files (constraint files, memory initialization files, IP description files etc). Together with the files, perhaps a couple of Verilog defines, some top-level parameters/generics or some tool-specific options are set.</description>
+    </item>
+    
+  </channel>
+</rss>

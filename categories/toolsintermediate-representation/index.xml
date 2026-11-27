@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools:Intermediate Representation on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/categories/toolsintermediate-representation/</link>
+    <description>Recent content in Tools:Intermediate Representation on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hdl.github.io/awesome/categories/toolsintermediate-representation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calyx</title>
+      <link>https://hdl.github.io/awesome/items/calyx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/calyx/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Circt</title>
+      <link>https://hdl.github.io/awesome/items/circt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/circt/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>EPFL Logic Synthesis Libraries</title>
+      <link>https://hdl.github.io/awesome/items/lstools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/lstools/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>HWToolkit (hwt)</title>
+      <link>https://hdl.github.io/awesome/items/hwtoolkit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/hwtoolkit/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kactus2</title>
+      <link>https://hdl.github.io/awesome/items/kactus2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/kactus2/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LiveHD</title>
+      <link>https://hdl.github.io/awesome/items/livehd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/livehd/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Low Level Hardware Description (LLHD)</title>
+      <link>https://hdl.github.io/awesome/items/llhd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/llhd/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SpyDrNet</title>
+      <link>https://hdl.github.io/awesome/items/spydrnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/spydrnet/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Torc</title>
+      <link>https://hdl.github.io/awesome/items/torc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/torc/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
